@@ -1,0 +1,22 @@
+[
+    {
+		"name": "[Việt Minh] ability",
+		"uniques": ["Ignores terrain cost", "Can move after attacking"]
+	},
+	{
+		"name": "[Okihtcitaw] ability",
+		"uniques": ["[+50]% XP gained from combat", "[+5] HP when healing"]
+	},
+	{
+		"name": "[Mountie] ability",
+		"uniques": ["[+1] Sight","[+1] Movement","[-25]% Strength <in [Foreign Land] tiles>"]
+	},
+	{
+		"name": "[Khevsur] ability",
+		"uniques": ["[+33]% Strength <in [Hill] tiles>","Double movement in [Hill]","Earn [100]% of killed [Military] unit's [Strength] as [Golden Age points]"]
+	},
+	{
+		"name": "[Maccabee] ability",
+		"uniques": ["[+20]% to Flank Attack bonuses","Earn [75]% of killed [Military] unit's [Strength] as [Faith]"]
+	}
+]

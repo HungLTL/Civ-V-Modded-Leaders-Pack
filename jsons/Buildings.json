@@ -1,0 +1,81 @@
+[
+	{
+		"name": "Rice Terrace",
+		"replaces": "Granary",
+		"uniqueTo": "Vietnam",
+		"food": 2,
+		"maintenance": 1,
+		"hurryCostModifier": 40,
+		"cost": 75,
+		"uniques": ["[+1 Food] from [Deer] tiles [in this city]", "[+1 Food] from [Bananas] tiles [in this city]", "[+1 Food] from [Wheat] tiles [in this city]","[+3 Food] from [Marsh] tiles [in this city]","[+1 Food] from [{Hill} {Farm}] tiles [in this city] <after discovering [Construction]>", "[+2 Food] from [Mountain] tiles [in this city] <after discovering [Construction]>", "[+1 Culture] from [{Hill} {Farm}] tiles [in this city] <after discovering [Flight]>", "[+3 Culture] from [Mountain] tiles [in this city] <after discovering [Flight]>"],
+		"requiredTech": "Pottery"
+	},
+	{
+		"name": "Mekewap",
+		"replaces": "Circus",
+		"requiredNearbyImprovedResources": ["Ivory", "Deer", "Furs", "Truffles", "Horses", "Cattle", "Sheep"],
+		"uniqueTo": "The Cree",
+		"happiness": 2,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Pasture] tiles [in this city]", "[+1 Food] from [Camp] tiles [in this city]", "[+2 Gold] from [Pasture] tiles [in this city] <after discovering [Navigation]>", "[+2 Gold] from [Camp] tiles [in this city] <after discovering [Navigation]>"],
+		"requiredTech": "Trapping"
+	},
+	{
+		"name": "Prasat",
+		"replaces": "Temple",
+		"uniqueTo": "Khmer",
+		"faith": 1,
+		"requiredBuilding": "Shrine",
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["[+1 Faith] per [3] population [in this city]", "Only available <when religion is enabled>", "Destroyed when the city is captured"]
+	},
+	{
+		"name": "Tim Hortons",
+		"replaces": "Windmill",
+		"uniqueTo": "Canada",
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"maintenance": 2,
+		"uniques": ["[+10]% Production when constructing [All] buildings [in this city]","[+1 Food] per [4] population [in this city]"],
+		"requiredTech": "Economics"
+	},
+	{
+		"name": "Cultural Theatre",
+		"replaces": "Broadcast Tower",
+		"uniqueTo": "People's Republic of China",
+		"culture": 5,
+		"production": 5,
+		"happiness": 2,
+		"percentStatBonus": {"culture": 33},
+		"specialistSlots": {"Artist": 1},
+		"requiredBuilding": "Opera House",
+		"maintenance": 3,
+		"requiredTech": "Radio",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
+        "name": "Narkomat",
+		"replaces": "Police Station",
+		"uniqueTo": "The Soviet Union",
+        "cost": 300,
+        "maintenance": 1,
+        "hurryCostModifier": 10,
+        "uniques": ["[-25]% enemy spy effectiveness [in this city]", "[+15]% [Production] [in this city]","[+2 Culture, +2 Science] per [5] social policies adopted"],
+        "requiredTech": "Electricity"
+    },
+	{
+		"name": "Tsikhe",
+		"replaces": "Castle",
+		"uniqueTo": "Georgia",
+		"cityStrength": 7,
+		"cityHealth": 25,
+		"cost": 100,
+		"faith": 3,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Chivalry",
+		"uniques": ["Destroyed when the city is captured","[+3 Faith] [in this city] <when at war>"]
+	}
+]

@@ -1,0 +1,13 @@
+{
+	"isBaseRuleset": false,
+	"nationsToRemove": [
+		"Hanoi",
+		"Ur",
+		"Vancouver",
+		"Quebec City",
+		"Jerusalem"
+	],
+	"uniques": [
+		"Mod requires [Civ V - Gods & Kings]"
+	]
+}

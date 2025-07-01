@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Soviet Pride",
+        "resourceType": "Strategic",
+        "uniques": [
+			"Cannot be traded <hidden from users>",
+            "Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			"Not shown on world screen",
+			"Doesn't generate naturally",
+            "Will not be displayed in Civilopedia"
+		]
+    }
+]

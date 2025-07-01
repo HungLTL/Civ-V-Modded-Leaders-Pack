@@ -1,0 +1,299 @@
+[
+    {
+      "name": "aa0905766k_BaTrieu",
+      "culture": 9,
+      "faith": 5,
+      "food": 9,
+      "gold": 5,
+      "happiness": 7,
+      "production": 7,
+      "science": 6,
+      "military": 8,
+      "aggressive": 3,
+      "declareWar": 2,
+      "commerce": 7,
+      "diplomacy": 3,
+      "loyal": 9,
+      "expansion": 4,
+
+      "priorities": {
+          "Tradition": 8,
+          "Liberty": 2,
+          "Honor": 6,
+          "Commerce": 5,
+          "Patronage": 7,
+          "Piety": 8,
+          "Rationalism": 5,
+          "Freedom": 6,
+          "Autocracy": 0,
+          "Order": 9
+      },
+      "civilopediaText": [
+          {"text": "Lady Triệu was a legendary female warrior of early 3rd-century Vietnam who fought against the Chinese invasion. She is renowned for resisting the rule of the Chinese Wu Dynasty and is celebrated as a national heroine in Vietnamese history."}
+      ]
+    },
+    {
+      "name": "aa0905766k_Poundmaker",
+      "culture": 5,
+      "faith": 4,
+      "food": 7,
+      "gold": 9,
+      "happiness": 5,
+      "production": 6,
+      "science": 5,
+      "military": 6,
+      "aggressive": 3,
+      "declareWar": 4,
+      "commerce": 9,
+      "diplomacy": 9,
+      "loyal": 8,
+      "expansion": 8,
+
+      "priorities": {
+          "Tradition": 3,
+          "Liberty": 7,
+          "Honor": 5,
+          "Commerce": 7,
+          "Patronage": 9,
+          "Piety": 3,
+          "Rationalism": 5,
+          "Freedom": 8,
+          "Autocracy": 3,
+          "Order": 3
+      },
+      "civilopediaText": [
+          {"text": "Poundmaker was a Cree leader and pacifist who played a significant role in the historical events of western Canada in the late 19th century. He sought reconciliation and understanding amidst conflicts between indigenous peoples and European settlers, working to protect the rights and culture of his own tribe and other indigenous communities. His leadership and peaceful approach are still respected today."}
+      ]
+    },
+    {
+      "name": "aa0905766k_Jayavarman7",
+      "culture": 6,
+      "faith": 8,
+      "food": 7,
+      "gold": 5,
+      "happiness": 6,
+      "production": 6,
+      "science": 4,
+      "military": 6,
+      "aggressive": 4,
+      "declareWar": 5,
+      "commerce": 5,
+      "diplomacy": 5,
+      "loyal": 6,
+      "expansion": 7,
+
+      "priorities": {
+          "Tradition": 6,
+          "Liberty": 7,
+          "Honor": 3,
+          "Commerce": 5,
+          "Patronage": 5,
+          "Piety": 8,
+          "Rationalism": 5,
+          "Freedom": 8,
+          "Autocracy": 3,
+          "Order": 3
+      },
+      "civilopediaText": [
+          {"text": "Jayavarman VII (reigned 1181–1218), who ruled the Khmer Empire from the late 12th to the early 13th century, is considered one of the greatest kings in Cambodian history. A devout Buddhist, he proclaimed Mahayana Buddhism as the state religion and significantly contributed to the empire's territorial expansion and cultural development. His reign is regarded as the golden age of the Khmer Empire, and his achievements continue to deeply influence Cambodia's culture and history today."}
+      ]
+    },
+    {
+      "name": "aa0905766k_Gilgamesh",
+      "culture": 6,
+      "faith": 5,
+      "food": 8,
+      "gold": 6,
+      "happiness": 6,
+      "production": 7,
+      "science": 6,
+      "military": 8,
+      "aggressive": 7,
+      "declareWar": 5,
+      "commerce": 5,
+      "diplomacy": 5,
+      "loyal": 9,
+      "expansion": 7,
+
+      "priorities": {
+          "Tradition": 5,
+          "Liberty": 8,
+          "Honor": 8,
+          "Commerce": 3,
+          "Patronage": 3,
+          "Piety": 3,
+          "Rationalism": 8,
+          "Freedom": 5,
+          "Autocracy": 5,
+          "Order": 8
+      },
+      "civilopediaText": [
+          {"text": "Gilgamesh was the legendary king of Uruk, who ruled Sumer around 2800 BCE. He is one of the most important figures of ancient Mesopotamian civilization, appearing in numerous myths and epics throughout history. Notably, the 'Epic of Gilgamesh' is considered the oldest literary work in the world. In this epic, Gilgamesh is portrayed as a demigod, possessing divine strength but unable to escape the fate of mortality."}
+      ]
+    },
+    {
+      "name": "Iska_Canada",
+      "culture": 7,
+      "faith": 3,
+      "food": 9,
+      "gold": 6,
+      "happiness": 8,
+      "production": 6,
+      "science": 6,
+      "military": 3,
+      "aggressive": 2,
+      "declareWar": 2,
+      "commerce": 5,
+      "diplomacy": 8,
+      "loyal": 8,
+      "expansion": 9,
+
+      "priorities": {
+          "Tradition": 2,
+          "Liberty": 8,
+          "Honor": 2,
+          "Commerce": 5,
+          "Patronage": 8,
+          "Piety": 3,
+          "Rationalism": 8,
+          "Freedom": 10,
+          "Autocracy": 2,
+          "Order": 2
+      },
+      "civilopediaText": [
+          {"text": "Canada's seventh Prime Minister, and its first Francophone Prime Minister, is widely regarded as one of the most august of Canada's statesmen, and his fifteen-year-long tenure as Prime Minister remains Canada's longest unbroken term of office. A brilliant orator and effective, pragmatic, conciliatory political moderate, he was instrumental in defining not only an independent Canada, but one reconciled to itself on grounds of shared identity."}
+      ]
+    },
+    {
+      "name": "Iska_MaoZedong",
+      "culture": 7,
+      "faith": 1,
+      "food": 6,
+      "gold": 6,
+      "happiness": 2,
+      "production": 10,
+      "science": 4,
+      "military": 8,
+      "aggressive": 6,
+      "declareWar": 6,
+      "commerce": 4,
+      "diplomacy": 3,
+      "loyal": 4,
+      "expansion": 9,
+
+      "priorities": {
+          "Tradition": 1,
+          "Liberty": 10,
+          "Honor": 5,
+          "Commerce": 5,
+          "Patronage": 8,
+          "Piety": 1,
+          "Rationalism": 6,
+          "Freedom": 1,
+          "Autocracy": 1,
+          "Order": 10
+      },
+      "civilopediaText": [
+          {"text": "Mao Zedong, also known as Chairman Mao, was a Chinese communist revolutionary who was the founder of the People's Republic of China (PRC), which he led as the chairman of the Chinese Communist Party from the establishment of the PRC in 1949 until his death in 1976. Ideologically a Marxist–Leninist, his theories, military strategies, and political policies are collectively known as Maoism."}
+      ]
+    },
+    {
+      "name": "Iska_Stalin",
+      "culture": 2,
+      "faith": 1,
+      "food": 10,
+      "gold": 2,
+      "happiness": 1,
+      "production": 8,
+      "science": 9,
+      "military": 9,
+      "aggressive": 4,
+      "declareWar": 8,
+      "commerce": 5,
+      "diplomacy": 5,
+      "loyal": 4,
+      "expansion": 10,
+
+      "priorities": {
+          "Tradition": 1,
+          "Liberty": 10,
+          "Honor": 5,
+          "Commerce": 5,
+          "Patronage": 8,
+          "Piety": 1,
+          "Rationalism": 10,
+          "Freedom": 1,
+          "Autocracy": 1,
+          "Order": 10
+      },
+      "civilopediaText": [
+          {"text": "Iosif Vissarionovich Stalin  was a Georgian revolutionary and Soviet political leader who led the Soviet Union from 1922 until his death in 1953. He held power as General Secretary of the Communist Party of the Soviet Union (1922–1952) and Chairman of the Council of Ministers of the Soviet Union (1941–1953). Initially governing the country as part of a collective leadership, he consolidated power to become a dictator by the 1930s. Ideologically adhering to the Leninist interpretation of Marxism, he formalised these ideas as Marxism–Leninism, while his own policies are called Stalinism."}
+      ]
+    },
+    {
+      "name": "aa0905766k_Tamari",
+      "culture": 6,
+      "faith": 9,
+      "food": 5,
+      "gold": 6,
+      "happiness": 9,
+      "production": 6,
+      "science": 6,
+      "military": 5,
+      "aggressive": 5,
+      "declareWar": 8,
+      "commerce": 5,
+      "diplomacy": 5,
+      "loyal": 6,
+      "expansion": 5,
+
+      "priorities": {
+          "Tradition": 8,
+          "Liberty": 3,
+          "Honor": 2,
+          "Commerce": 5,
+          "Patronage": 5,
+          "Piety": 9,
+          "Rationalism": 6,
+          "Freedom": 6,
+          "Autocracy": 4,
+          "Order": 6
+      },
+      "civilopediaText": [
+          {"text": "The ideal monarch is wise, diplomatic, forward-thinking, a patron to the arts and cultures, and strong in defense of the realm. Few live up to this standard. Tamar, ruler of Georgia at the height of its golden age, matched this standard, even by the judgment of her enemies."}
+      ]
+    },
+    {
+      "name": "Leugi_David",
+      "culture": 8,
+      "faith": 10,
+      "food": 8,
+      "gold": 6,
+      "happiness": 8,
+      "production": 7,
+      "science": 6,
+      "military": 6,
+      "aggressive": 6,
+      "declareWar": 8,
+      "commerce": 8,
+      "diplomacy": 9,
+      "loyal": 9,
+      "expansion": 4,
+
+      "priorities": {
+          "Tradition": 9,
+          "Liberty": 2,
+          "Honor": 3,
+          "Commerce": 6,
+          "Patronage": 6,
+          "Piety": 10,
+          "Rationalism": 5,
+          "Freedom": 6,
+          "Autocracy": 1,
+          "Order": 6
+      },
+      "civilopediaText": [
+          {"text": "David, according to the Hebrew Bible, was the second king of the United Kingdom of Israel, and according to the New Testament Gospels of Matthew and Luke, an ancestor of Jesus. His life is conventionally dated to c. 1040–970 BCE, his reign over Judah c. 1010–1002 BCE, and his reign over the United Kingdom of Israel c. 1002–970 BCE."}
+      ]
+    }
+]

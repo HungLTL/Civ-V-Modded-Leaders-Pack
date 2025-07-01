@@ -1,0 +1,423 @@
+[
+	{
+		"name": "Vietnam",
+		"leaderName": "Lady Triệu",
+		"adjective": ["Vietnamese"],
+		"startBias": ["Hill","Jungle","Avoid [Tundra]","Avoid [Desert]"],
+		"preferredVictoryType": "Cultural",
+		"personality": "aa0905766k_BaTrieu",
+		"favoredReligion": "Buddhism",
+		
+		"startIntroPart1": "Hail to you, noble Lady Triệu, the fearless warrior of Vietnam, who stands tall against the tides of oppression. You lead the resilient Vietnamese civilization, born of countless struggles against foreign invaders. For centuries, your people have fought for their freedom, with unwavering courage and an indomitable spirit. The mountains and jungles of Vietnam whisper your name, a name that echoes with the valor of a thousand victories.",
+		"startIntroPart2": "Great Lady, will you once again rise to the call of destiny? Will you lead your people to glory, carving a path through adversity with your mighty sword? Can you build a civilization that will stand the test of time, where the proud spirit of Vietnam shall forever reign?",
+		
+		"declaringWar": "Now you are at war with the armies of Vietnam! Do you hear the sounds of the rallying drums? The thundering roars of the war elephants? Our armies are rushing to battle!",
+		"attacked": "I have waited for this day for a long time. The day this war starts shall also be the day of your destruction!",
+		"defeated": "You think you have defeated me...? I shall ascend to Heaven, to become the sacred spirit of our rivers and our mountains, never to be vanquished!",
+		"denounced": "Look here, you snake. One day there will be a great reckoning between our peoples, and justice will be served to you.",
+		"introduction": "I am Lady Triệu, the female general with the golden robe, and I speak for Vietnam. We only wish to ride the strong winds, walk the fierce waves, slay the whales of the Eastern Sea, reclaim our country, establish sovereignty, and shatter the chattels of oppression.",
+		
+		"neutralHello": "Once again, I bid you welcome to Vietnam.",
+		"neutralLetsHearIt": ["Speak, and I shall listen.","We are all ears.","You have never plotted our destruction, so let's hear it."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "Vietnam is watching you. Get on with it, scum.",
+		"hateLetsHearIt": ["Do you really come in peace?","You know what happens to our enemies, right?","What?"],
+		"hateNo": ["You ARE plotting against us!", "I cannot allow this.", "We do not need you or your deals."],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "There! I have taken you off the revenge list.",
+		"tradeRequest": "Vietnam's delegation approaches your nation, bearing our trade offer, as well as bird's nest soup, abalone, deer's tendon, and water from the Hàm Long well.",
+		"declaringFriendship": "Let our people share each other's burdens, and the struggle will be easier.",
+
+		"innerColor": [142,30,140],
+		"outerColor": [0,158,25],
+		"uniqueName": "Drive Out the Aggressors",
+		"uniqueText": "All Military Land units receive free promotions that allow them to fight and manoeuvre more effectively in Rough terrain.",
+		"uniques": ["[{Military} {Land} {Melee}] units gain the [Drill I] promotion", "[{Military} {Land} {Ranged}] units gain the [Barrage I] promotion", "[{Military} {Land} {Melee}] units gain the [Woodsman] promotion"],
+		"cities": ["Thăng Long", "Huế", "Hoa Lư", "Đồng Hới", "Quảng Trị", "Đà Nẵng", "Cần Thơ", "Hội An", "Kon Tum", "Mỹ Tho", "Quy Nhơn", "Sài Gòn", "Đà Lạt", "Hải Phòng", "Biên Hòa", "Nha Trang", "Gia Lạc", "Long Biên", "Nam Định", "Thái Nguyên", "Hạ Long", "Vũng Tàu", "Thanh Hóa", "Buôn Ma Thuột", "Việt Trì", "Hải Dương", "Thủ Dầu Một", "Bắc Ninh"],
+		"spyNames": ["Huy", "Khang", "Bảo", "Minh", "Anh", "Vy", "Ngọc", "Khải", "Quân", "Thiệu"]
+	},
+	{
+		"name": "The Cree",
+		"leaderName": "Poundmaker",
+		"adjective": ["Cree"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Diplomatic",
+		"personality": "aa0905766k_Poundmaker",
+		"favoredReligion": "Christianity",
+		
+		"startIntroPart1": "May blessings and peace be upon you, wise leader of the Cree nation, Poundmaker. Born as Pîhtokahânapiwiyin, you became a beacon of hope and unity during times of change and adversity. Valuing diplomacy, you built bridges between the Cree and new settlers, believing that cooperation was the path to prosperity. Even when faced with betrayal and misunderstanding, you steadfastly dedicated yourself to your nation’s welfare. Your wisdom during the Treaty 6 negotiations sought fair agreements for the Cree’s survival and prosperity. During the tumultuous North-West Rebellion, you led with compassion and restraint, striving to prevent bloodshed. Despite unjust imprisonment, your people’s respect and love for you never wavered.",
+		"startIntroPart2": "Noble Poundmaker, the world longs for a leader who can navigate change with wisdom and integrity. Can you lead your people toward a future where tradition and progress harmonize? Can you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "I do not care to inflict the terrors of war upon you, but justice requires it.",
+		"attacked": "You could have found another way. Now, your regrets will be measured in blood.",
+		"defeated": "Had I wanted war, I would not be here now. You did not catch me. I gave myself up.",
+		"denounced": "Your word is worthless, your people go astray, and you have no friends who will stand by you.",
+		"introduction": "I am Poundmaker, and I represent the Cree. If I had wronged you, I would never have come to meet you.",
+		
+		"neutralHello": "May there always be peace between us.",
+		"neutralLetsHearIt": ["I am willing to hear what you have to offer.","We have great respect for those willing to engage in commerce and cooperation.","Yes, my friend?"],
+		"neutralNo": ["Only a fool would accept this.","I am no fool.","My people are not ready. Not now."],
+		"neutralYes": ["Agreed.","I see the wisdom in this.","Your offer brings us joy."],
+
+		"hateHello": "I swear to protect my people from the likes of you.",
+		"hateLetsHearIt": ["You should have never come here.","Your presences bothers us.","Say what you are going to say."],
+		"hateNo": ["Your sweet words are like lies, polluting the air.","Clearly you exist only to steal from us.","Do you take me for a fool?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "I am happiest making peace between nations.",
+		"tradeRequest": "My people send you a trade agreement and some gifts - buffalo robes and pimihkan. With these you will last through winter.",
+		"declaringFriendship": "The Cree are ready to welcome you as friends. Please, I ask of you, honor their trust.",
+
+		"outerColor": [34,53,110],
+		"innerColor": [77,163,86],
+		"uniqueName": "Iron Confederacy",
+		"uniqueText": "Gain 10% additional City-State influence from gifting Gold, and 10 additional Influence from gifting Military units. Trade Routes provide +2 additional Food. Pay 25% less for Road and Railroad maintenance.",
+		"uniques": ["Gifts of Gold to City-States generate [10]% more Influence","Gain [10] Influence with a [Military] gift to a City-State","[+2 Food] from each Trade Route", "[-25]% maintenance on road & railroads"],
+		"cities": ["Mikisew Wacihk", "Atakakup", "Pîhtokahânapiwiyin", "Mistahi Sipiy", "Mistawasis", "Wîhkasko Kîsikân", "Mahkwe-sakahikan", "Maskotêw", "Paskwâwaskîhk", "Piyesiw-Awasis", "Pipikisis", "Kinoseo Sakahikan", "Kâpawe'kowiskowam", "Misinipe", "Muscowpetung", "Kawacatoose", "Wâpamekustwi", "Okanese", "Chemwawin", "Kâkîwistahaw", "Nekaneet", "Kâwawachikamach", "Natuashish", "Wâpimaskwa", "Wâskahikanihk", "Papew", "Kâ-pawâkaskitok", "Ochapowace", "Tataskweyak"],
+		"spyNames": ["Wîsahkecâhk", "Mâhcâpiyiw", "Isapâskân", "Kêpêskawêw", "Nakamapîtam", "Pêtikakahkewin", "Sikotomakahk", "Apihtawikosisân", "Mâmikiskowin", "Kîpisahamîw"]
+	},
+	{
+		"name": "Khmer",
+		"leaderName": "Jayavarman VII",
+		"adjective": ["Khmer"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Cultural",
+		"personality": "aa0905766k_Jayavarman7",
+		"favoredReligion": "Buddhism",
+		
+		"startIntroPart1": "All hail Jayavarman VII, illustrious king of the Khmer Empire, master architect of Angkor Thom, and devout patron of Buddhism. Under your wise and compassionate rule, the Khmer Empire has reached unparalleled heights in culture, architecture, and prosperity. Your dedication to the welfare of your people, through the construction of hospitals, rest houses, roads, and magnificent temples, has left an enduring legacy that echoes through the ages. You have transformed the very landscape with monumental structures like the Bayon Temple, whose serene faces embody your vision of universal compassion, and Ta Prohm, a testament to your devotion to family and faith. Your victories over neighboring kingdoms have not only expanded your influence but also secured lasting peace and prosperity for your subjects. Your promotion of Buddhism has enlightened minds and unified the empire under the principles of wisdom and compassion.",
+		"startIntroPart2": "Wise Jayavarman, will you now lead your civilization to even greater glory, navigating the challenges of a changing world, fostering enlightenment, unity, and prosperity, and securing your place among the greatest leaders in history? Can you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "Your actions reveal your desire for war. The Khmer shall oblige you.",
+		"attacked": "War? Hm hm, fools think fortune is on their side. Who will you blame when yours runs out?",
+		"defeated": "One gains humility in defeat. I pray you are granted the most humility of all.",
+		"denounced": "You defy Heaven with your harsh words. It must be a familiar feeling!",
+		"introduction": "I am Jayavarman VII, and the Khmer allow me to lead them. Their suffering is my suffering.",
+		
+		"neutralHello": "Your suffering is also our suffering, friend.",
+		"neutralLetsHearIt": ["Let us provide for our peoples.","To do less is to be less.","The Khmer appreciate your commercial activities."],
+		"neutralNo": ["I must refuse.", "We cannot accept this.", "The Khmer do not need your strange gifts."],
+		"neutralYes": ["Yes, it is good for the Khmer.", "The Khmer hold your proposal dear."],
+
+		"hateHello": "You must know how to live a divine life. How else could you teach your people to do the opposite?",
+		"hateLetsHearIt": ["How can your people attain the divine without examples of divinity?"],
+		"hateNo": ["This is most impious.", "We have no need for any more suffering."],
+		"hateYes": ["Hmm. I see.", "Perhaps... yes."],
+		
+		"afterPeace": "Ending spiritual suffering is just as important as easing physical distress.",
+		"tradeRequest": "Our trade delegation also brings a-ping, a fried dish. Best to eat the legs before you consume the rest of the tarantula.",
+		"declaringFriendship": "Heaven smiles upon you - as do the Khmer. The world should know of our friendship. Might we declare it?",
+
+		"outerColor": [154, 135, 40],
+		"innerColor": [50,89,159],
+		"uniqueName": "Great Barays",
+		"uniqueText": "Farms produce +1 additional Food when built next to City Centers, and +1 Faith when built next to a Holy Site. City Centers with an Aqueduct built provide +1 Happiness, and Farms build next to them provide an additional +1 Food.",
+		"uniques": ["[+1 Happiness] from every [Aqueduct]", "[+1 Food] from every [Farm] <in tiles adjacent to [City center] tiles>", "[+1 Food] from every [Farm] <in cities with a [Aqueduct]> <in tiles adjacent to [City center] tiles>", "[+1 Faith] from every [Farm] <in tiles adjacent to [Holy site] tiles>"],
+		"cities": ["Angkor Thom", "Angkor Wat", "Hariharalaya", "Yasodharapura", "Mahendraparvata", "Vimayapura", "Indrapura", "Lingapura", "Preah Vihear", "Bhavapura", "Kampong Svay", "Nagarajayasri", "Vyadhapura", "Chaturmukha", "Dvirada", "Rayabihara", "Amarendrapura", "Phanom Rung", "Isanapura", "Muang Tam", "Angkor Borei", "Banteay Kdei", "Phetchaburi", "Chaiya", "Isanapura", "Pre Rup", "Beng Mealea", "Lavodayapura", "Sreshthapura"],
+		"spyNames": ["Sokha", "Visay", "Ratana", "Chey", "Monkol", "Sopheak", "Kanha", "Pheara", "Bopha", "Rakia"]
+	},
+	{
+		"name": "Sumer",
+		"leaderName": "Gilgamesh",
+		"adjective": ["Sumerian"],
+		"startBias": ["River"],
+		"preferredVictoryType": "Domination",
+		"personality": "aa0905766k_Gilgamesh",
+		"favoredReligion": "Zoroastrianism",
+		
+		"startIntroPart1": "Hail, mighty Gilgamesh, King of Uruk and ruler of Sumer! You, who have walked with gods and men alike, stand as a legend among mortals. Your great deeds, immortalized in epic, tell of your unrelenting strength and wisdom. Under your rule, Sumer became the cradle of civilization, where cities rose from the banks of rivers, and knowledge flourished, as you shaped the destiny of your people.",
+		"startIntroPart2": "Your people await your guidance once more, O Gilgamesh. Will you lead Sumer to glory again, with your courage and vision? Shall you build a civilization that withstands the test of time, and rival the gods in power and achievement?",
+		
+		"declaringWar": "Why do I fight? Because I can... because Inanna demands it. Now you will know the power of Sumer!",
+		"attacked": "I will enjoy hearing your last breath when you witness the destruction of your people.",
+		"defeated": "What treachery did this to me? No, what evil?",
+		"denounced": "Hah! Gilgamesh is stronger than your false words!",
+		"introduction": "I am Gilgamesh of Sumer and King of Uruk! Do not be afraid... I am good to my friends.",
+		
+		"neutralHello": "You are a good friend and ally! Gilgamesh will remember this.",
+		"neutralLetsHearIt": ["Gilgamesh awaits your tributes.","Gilgamesh is happy to lend you an ear.","Uruk awaits your proposition."],
+		"neutralNo": ["I think not.", "Gilgamesh cannot accept this."],
+		"neutralYes": ["Thank you!", "Gilgamesh is happy to accept your proposition!"],
+
+		"hateHello": "If you harm my friends, you will face the might of Uruk; this I promise you!",
+		"hateLetsHearIt": ["You are as treacherous as Ishtar.", "Gilgamesh is no friend to you. Be quick about it."],
+		"hateNo": ["Are you mad?!", "Your intentions are as false as your words."],
+		"hateYes": ["Your envoys may enter Uruk... for now.", "Thank you. Now, begone."],
+		
+		"afterPeace": "The artistic mouth recites words; the harsh mouth brings litigation; the sweet mouth gathers sweet herbs.",
+		"tradeRequest": "The delegation of Gilgamesh brings you gifts of Sumerian jewelry, and lyres from Ur. Will you accept them?",
+		"declaringFriendship": "All the world knows of my generosity to my friends. Let us then be friends, not enemies!",
+
+		"outerColor": [35, 40, 75],
+		"innerColor": [243,181,45],
+		"uniqueName": "Epic Quest",
+		"uniqueText": "Units have an additional 50% Combat Strength against Barbarians. Upon killing a Land Barbarian unit, 20% chance to earn double its Strength value as either Culture, Gold, Science, Faith or Golden Age points.",
+		"uniques": ["[+50]% Strength <vs [Barbarian] units>", "Earn [200]% of killed [{Barbarian} {Land}] unit's [Strength] as [Culture] <with [20]% chance>", "Earn [200]% of killed [{Barbarian} {Land}] unit's [Strength] as [Gold] <with [20]% chance>", "Earn [200]% of killed [{Barbarian} {Land}] unit's [Strength] as [Science] <with [20]% chance>", "Earn [200]% of killed [{Barbarian} {Land}] unit's [Strength] as [Faith] <with [20]% chance>", "Earn [200]% of killed [{Barbarian} {Land}] unit's [Strength] as [Golden Age points] <with [20]% chance>"],
+		"cities": ["Uruk", "Eridu", "Kish", "Ur", "Lagash", "Nippur", "Bad Tibira", "Sippar", "Shuruppak", "Adab", "Isin", "Larak", "Abu Salabikh", "Akshak", "Umma", "Larsa", "Hamazi", "Girsu", "Jemdet Nasr", "Nina", "Kuara", "Dilbat", "Kutha", "Marad", "Zabalam", "Kisurra", "Pazurish Dagan", "Harbidum", "Kesh"],
+		"spyNames": ["Enkidu", "Lugalbanda", "Ningal", "Enheduanna", "Shargun", "Nusimud", "Utu", "Dilmun", "Eanna", "Nebukad"]
+	},
+	{
+		"name": "Canada",
+		"leaderName": "Wilfrid Laurier",
+		"adjective": ["Canadian"],
+		"startBias": ["Grassland","Forest"],
+		"preferredVictoryType": "Diplomatic",
+		"personality": "Iska_Canada",
+		"favoredReligion": "Christianity",
+		
+		"startIntroPart1": "Forged in the fires of exploration and colonialism in the 16th century, Canada faced centuries of conflicts and challenges, from wars with European powers to struggles with its own internal divisions. But in the 20th century, Canada emerged as a global leader, playing a critical role in two world wars and forging a new identity as a nation committed to peace, equality, and social justice.\n\nNow, as the leader of Canada, it is your responsibility to build on this legacy and guide your people to new heights. Use your diplomatic skill and strategic vision to navigate the complex global landscape, forging alliances and promoting Canadian values around the world. Through your leadership, Canada can become a shining example of what a modern, prosperous, and compassionate nation can be.",
+		"startIntroPart2": "Wilfrid Laurier, as you begin your journey to shape the world, you choices make today that will echo through the ages. Will you be remembered as a conqueror, a liberator, or a visionary? The path is yours to choose. Can you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "In responding to the unstinting malignancy that has heretofore defined your relationship with Canada... we can have no recourse, but war.",
+		"attacked": "As we can reach no peaceful resolution with you, Canada must turn, with reluctance, to war.",
+		"defeated": "C'était illusoire de chercher à s'entendre avec vous. Mais jamais je ne regretterai de prendre la défense de mon peuple.",
+		"denounced": "I wish you had proved to be a wiser, more agreeable leader, but your actions leave me scant hope for a peaceful future.",
+		"introduction": "Au nom du peuple canadien, bienvenue! Je suis le Premier Ministre Laurier.",
+		
+		"neutralHello": "Welcome again! How may we assist you today?",
+		"neutralLetsHearIt": ["Yes? How may I help you?","Oui, mon ami?","What would you like to discuss?"],
+		"neutralNo": ["I am sorry, no.", "Je suis désolé, non.","Please withdraw your offer."],
+		"neutralYes": ["I accept your proposal, with thanks.", "Merci beaucoup, my friend.","Canada commends you."],
+
+		"hateHello": "N'êtes-vous pas sensible au malheur des autres?",
+		"hateLetsHearIt": ["Si c'est ma responsabilité.", "Negotiating with you tests the limits of human patience."],
+		"hateNo": ["Canada has no need of trifling gifts.", "This proposal would not benefit us."],
+		"hateYes": ["J'essaierais la voie ensoleillée.", "Canada commends you, with reluctance."],
+		
+		"afterPeace": "You have proved a reliable partner in resolving international conflict.",
+		"tradeRequest": "The people of Canada present, alongside our trade agreement, humble gifts of maple syrup, wool blankets, and our honored, traditional headgear: The toque.",
+		"declaringFriendship": "You have proven a steadfast and loyal friend of Canada. Will you let us declare our mutual accord to the world?",
+
+		"outerColor": [255,255,255],
+		"innerColor": [178,28,29],
+		"uniqueName": "Great White North",
+		"uniques": ["[+1 Gold] from every [Mine]","[+1 Gold] from every [Camp]","[+1 Gold] from every [Strategic resource]","[+1 Production] from every [Lumber mill]"],
+		"cities": ["Ottawa", "Toronto", "Montréal", "Vancouver", "Calgary", "Edmonton", "Winnipeg", "Québec", "Hamilton", "Kitchener", "London", "St. Catharines", "Niagara", "Halifax", "Oshawa", "Victoria", "Windsor", "Saskatoon", "Regina", "Sherbrooke"],
+		"spyNames": ["John", "William", "James", "Robert", "Joseph", "Mary", "Barbara", "Linda", "Patricia", "Susan"]
+	},
+	{
+		"name": "People's Republic of China",
+		"leaderName": "Mao Zedong",
+		"adjective": ["Chinese"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Domination",
+		"personality": "Iska_MaoZedong",
+		"favoredReligion": "Confucianism",
+		
+		"startIntroPart1": "Hail to the great leader and founder of the Chinese Communist Party, Mao Zedong! China is a nation of long history and rich culture, which has been fighting for its sovereignty and independence for centuries. Under your guidance, the Chinese people have proven themselves to be dedicated, innovative, and resilient, and have overcome tremendous challenges to achieve progress and prosperity. As we look to the future, the Chinese people turn to you, their beloved leader, to guide them towards a brighter tomorrow. They believe in your revolutionary spirit and your unwavering commitment to building a socialist society. You have led China through many trials and tribulations, from the Long March to the Great Leap Forward, and have always put the interests of the people first.",
+		"startIntroPart2": "Now, as we face new challenges and opportunities, the Chinese people look to you to continue to lead the way. Will you continue to fight for the liberation of the oppressed and the workers' rights, or will you focus on building a prosperous nation that values the people above all else? Can you create a civilization that will stand the test of time?",
+		
+		"declaringWar": "We will no longer stand idly by while you threaten our sovereignty and our socialist way of life!",
+		"attacked": "What...?! How dare you, imperialist pig! Looks like we'll have to teach you a lesson!",
+		"defeated": "The struggle may be over, but the revolution continues. We will learn from this defeat and emerge stronger in the end.",
+		"denounced": "Your hostile words do not intimidate us. China will stand firm in the face of adversity and protect its interests.",
+		"introduction": "Greetings. I am Mao Zedong, the founder and leader of the People's Republic of China.",
+		
+		"neutralHello": "Welcome, comrade.",
+		"neutralLetsHearIt": ["Let us hope for a productive relationship between our nations."],
+		"neutralNo": ["No.", "I cannot accept.", "I refuse."],
+		"neutralYes": ["Allow me.", "Of course.", "Proceed."],
+
+		"hateHello": "China will defend itself and its allies against any threats to our security.",
+		"hateLetsHearIt": ["China will defend its sovereignty and territorial integrity."],
+		"hateNo": ["No.", "I cannot accept.", "I refuse."],
+		"hateYes": ["Allow me.", "Of course.", "Proceed."],
+		
+		"afterPeace": "Your aggressive actions will not go unpunished.",
+		"tradeRequest": "China is open to mutually beneficial trade agreements. Let us work towards a fair and equal exchange that benefits both our nations.",
+		"declaringFriendship": "We stand ready to work with you towards a brighter future for our people. Together, we can achieve great things.",
+
+		"outerColor": [186, 54, 41],
+		"innerColor": [228, 196, 112],
+		"uniqueName": "Great Leap Forward",
+		"uniqueText": "Upon entering a new era, all your cities enter 3 turns of Cultural Revolution, during which they provide neither Gold nor Science, lose Culture, and starve in exchange for a quadruple boost to Production. Additionally, if entering either the Medieval, Industrial or Atomic eras, gain a free Social Policy.",
+		"uniques": ["[-200]% [Food] [in all cities] <upon entering a new era> <after turn number [1]>  <for [4] turns>", "[-150]% [Culture] [in all cities] <upon entering a new era> <after turn number [1]> <for [4] turns>", "[-100]% [Gold] [in all cities] <upon entering a new era> <after turn number [1]> <for [4] turns>", "[-100]% [Science] [in all cities] <upon entering a new era> <after turn number [1]> <for [4] turns>","[+300]% [Production] [in all cities] <upon entering a new era> <after turn number [1]> <for [4] turns>", "Free Social Policy <upon entering the [Medieval era]>", "Free Social Policy <upon entering the [Industrial era]>", "Free Social Policy <upon entering the [Atomic era]>", "Free Social Policy <upon entering the [Future era]>"],
+		"cities": ["Beijing","Shanghai","Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong","Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","Taipei","Shenyang","Taiyuan","Tainan","Dalian","Lijiang","Wuxi","Suzhou","Maoming","Shaoguan","Yangjiang","Heyuan","Huangshi","Yichang","Yingtian","Xinyu","Xinzheng","Handan","Dunhuang","Gaoyu","Nantong","Weifang","Xikang"],
+		"spyNames": ["Li", "Chen", "Zhang", "Liu", "Yang", "Huang", "Zhao", "Wu", "Zhou", "Sun"]
+	},
+	{
+		"name": "The Soviet Union",
+		"leaderName": "Stalin",
+		"adjective": ["Soviet"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Iska_Stalin",
+		"favoredReligion": "Christianity",
+		
+		"startIntroPart1": "Blessings be upon you, steadfast and indomitable General Secretary of the Soviet Union, Joseph Stalin. Your legacy as one of the Soviet Union's most formidable leaders is marked by your iron will and strategic acumen, which guided the nation through some of its most turbulent times. Your leadership during the Great Patriotic War galvanized the Soviet people against the invading forces, ultimately turning the tide of the conflict in favor of the Allies. A master of political maneuvering, your vision for the Soviet Union helped transform it into a superpower that played a pivotal role on the world stage.",
+		"startIntroPart2": "Resolute leader, your unwavering determination once shielded the Soviet people from the ever-present threats that beset the nations of men, and the Union looks to you to assure stability and progress once again. Will you lead the people with unyielding resolve and strategic brilliance, propelling the Soviet Union into a new era? Will you build a civilization that stands the test of time?",
+		
+		"declaringWar": "Your mistaken actions have left me no choice but to defend the Soviet Union. Prepare to meet the full might of the Red Army.",
+		"attacked": "So, you dare to challenge the Great Soviet Union? Your own stupidity will be your undoing. The Red Army will crush you.",
+		"defeated": "The Soviet Union has been defeated, but the spirit of our people will never fade. You may have won this battle, but the fight for our cause will go on.",
+		"denounced": "The hammer and sickle will crush my enemies if you persist in this foolishness.",
+		"introduction": "I am the iron hand of the proletariat, I am the embodiment of the Soviet Union, I am Stalin. An ally, if you are deserving. An enemy, if you dare.",
+		
+		"neutralHello": "Greetings, dear tovarishch.",
+		"neutralLetsHearIt": ["What might you want to say? Speak."],
+		"neutralNo": ["No, it is unacceptable.", "No, never. The Soviet Union will never accept this.", "No, absolutely not, this is unacceptable. Never."],
+		"neutralYes": ["Acceptable.", "The Soviet Union may agree to this.", "We agree on some things, it seems."],
+
+		"hateHello": "What do you want, durak?",
+		"hateLetsHearIt": ["Speak, durak, and I may listen. Or perhaps not."],
+		"hateNo": ["No, it is unacceptable.", "No, never. The Soviet Union will never accept this.", "No, absolutely not, this is unacceptable. Never."],
+		"hateYes": ["Acceptable.", "The Soviet Union may agree to this.", "We agree on some things, it seems."],
+		
+		"afterPeace": "Socialism sees eternity, and our words speak truth.",
+		"tradeRequest": "State your request and I will consider whether it is in the interests of the Soviet Union. I am weighing my thoughts carefully.",
+		"declaringFriendship": "The Soviet Union extends its hand towards you.",
+
+		"outerColor": [153, 37, 37],
+		"innerColor": [228, 196, 112],
+		"uniqueName": "The Iron Curtain",
+		"uniqueText": "+3% Production in all cities for every World Wonder constructed in the capital. Gain a free Courthouse in conquered cities. Technologies are nearly impossible to be stolen from this civilization. -20% Golden Age Length and Great People generation rate after adopting any Industrial Era policy branch.",
+		"uniques": ["Instantly gain [1] [Soviet Pride] <upon constructing [World Wonder] [in capital]>","[+3]% [Production] [in all cities] <for every [Soviet Pride]>","Gain a free [Courthouse] [in annexed cities] <upon conquering a city>","[-10000]% enemy spy effectiveness [in all cities]","[-20]% Great Person generation [in all cities] <after adopting [Order]>","[-20]% Golden Age length <after adopting [Order]>","[-20]% Great Person generation [in all cities] <after adopting [Autocracy]>","[-20]% Golden Age length <after adopting [Autocracy]>","[-20]% Great Person generation [in all cities] <after adopting [Freedom]>","[-20]% Golden Age length <after adopting [Freedom]>"],
+		"cities": ["Moscow","St. Petersburg","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Orenburg","Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara","Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm","Voronezh","Pskov","Starayarussa","Kostoma","Nizhniy Novgorod","Suzdal","Magnitogorsk"],
+		"spyNames": ["Alexei", "Lena", "Dmitry", "Anastasia", "Tatiana", "Boris", "Doktor Seriy", "Mikhail", "Natacha", "Zmeya"]
+	},
+	{
+		"name": "Georgia",
+		"leaderName": "Tamar",
+		"adjective": ["Georgian"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Cultural",
+		"personality": "aa0905766k_Tamari",
+		"favoredReligion": "Christianity",
+		
+		"startIntroPart1": "All hail Queen Tamar of Georgia! You rule Georgia, a nation of poets, priests and warriors perched among the ferocious peaks of the Caucasus mountains. Though ruling in unelightened times and facing a rebellious nobility chafing under their own misogyny, you inspired devotion and loyalty among the people of Georgia and crushed those who refused to acknowledge your rule. With the nation bent to your pious will, you went on to lead the small mountain kingdom onto epic conquests, uniting the Caucasus mountains and destroying Muslim neighbours vastly larger than your shining beacon of Christianity. Smashing even the mighty Seljuk empire, Georgia became a regional hegemon - even as far as Jerusalem, Georgian priests went unmolested by their heathen countrymen, while Georgian knights rode unmolested, banners unfurled, striking red and white through the ancient city, a rare honour for even the mightiest of empires.",
+		"startIntroPart2": "Queen Tamar, your nation needs you to bring it glory and wealth again. Your people believe in you, but can you revive the Georgian Renaissance, conquer your enemies, turn Georgia into a dominant nation once more, and live up to their expectations? Can you defend against the ancient dragons that stalk your Caucasian home, waiting to subdue your faith beneath a tide of heathenry? Can you build a civilisation to stand the test of time?",
+		
+		"declaringWar": "God fights with us. You stand alone.",
+		"attacked": "Ha! Georgian hearts will not tremble before your multitudes!",
+		"defeated": "Walls weren't enough to save Georgia from ruin. Neither was I...",
+		"denounced": "To call you a thoughtless cur is an insult to curs.",
+		"introduction": "I am Tamar of Georgia. Say what you will and be on your way.",
+		
+		"neutralHello": "Your ambassadors did not cause an incident. I consider that a success.",
+		"neutralLetsHearIt": ["Speak your mind."],
+		"neutralNo": ["Try again. This time, with a real offer.", "The idea of this deal being fair pains me."],
+		"neutralYes": ["Your request is sincere.","Consider this deal a success.","Georgia will agree to your request."],
+
+		"hateHello": "You are a detestable person. Your people deserve a better leader than you.",
+		"hateLetsHearIt": ["Your presence is testing my patience."],
+		"hateNo": ["This is no time to host your merchants.", "Georgia is many things, but not one involves anything to do with you.", "This must be some sort of cruel jest on your part."],
+		"hateYes": ["It pains to me, but I must.", "Consider this deal a success. Now, be on your way."],
+		
+		"afterPeace": "I appreciate your actions, being the walls same as the ones you build for your people. It pains me to say this, but you have a Georgian spirit.",
+		"tradeRequest": "Our Georgian merchants bring many strings of churchkhela. They make a filling dessert.",
+		"declaringFriendship": "You number amongst the few Georgia can trust. Should you agree, I will let it be known to all.",
+
+		"outerColor": [247, 248, 252],
+		"innerColor": [210, 123, 40],
+		"uniqueName": "Strength in Unity",
+		"uniqueText": "During a Golden Age, all your tiles produce +2 additional Gold, and the Culture and Production output of all your cities are increased by 30%.",
+		"uniques": ["[+2 Gold] from [your] tiles [in all cities] <during a Golden Age>","[+30]% [Production] [in all cities] <during a Golden Age>", "[+30]% [Culture] [in all cities] <during a Golden Age>"],
+		"cities": ["Tbilisi","Kutaisi","Batumi","Rustavi","Tskhumi","Gori","Telavi","Poti","Mtskheta","Zugdidi","Akhalkalaki","Kaspi","Tskhinvali","Omalo","Tsageri","Zestafoni","Bichvinta","Borjomi","Tsalka","Oni","Tianeti","Tmogvi","Akhaltsikhe","Geguti","Nicopsia","Dmanisi","Urbnisi","Mutso","Akhali Atoni"],
+		"spyNames": ["Alexandre","Baadur","Boris","Davit","Gaioz","Irakli","Mikheil","Petre","Revaz","Tamazi"]
+	},
+	{
+		"name": "Israel",
+		"leaderName": "David",
+		"adjective": ["Israelite"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Cultural",
+		"personality": "Leugi_David",
+		"favoredReligion": "Judaism",
+		
+		"startIntroPart1": "Blessings of God towards you, honorable King David of the Kingdom of Israel. You succeeded in truly unifying the Israelite tribes, and set up a monarchical government. Embarked on successful military campaigns against Israel's enemies, you defeated nearby regional entities such as the Philistines, thus creating secure borders for Israel. Under your holy guidance, Israel grew into a regional power. Under your House, the united Kingdom of Israel achieved prosperity and superiority over its neighbours.",
+		"startIntroPart2": "Your people still lie scattered through the world, longing for a King to truly unite them. Will you listen their clamor? Will you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "Justice demands your end, and we shall give it what it demands!",
+		"attacked": "I expected no better from you. You will not find us unprepared.",
+		"defeated": "My Lord, why have you abandoned me?",
+		"denounced": "Always with such oppresive ideas...",
+		"introduction": "Well met. I'm King David of the Kingdom of Israel, and I hope we won't need any unnecessary bloodshed.",
+		
+		"neutralHello": "Hail to you.",
+		"neutralLetsHearIt": ["You may speak.", "My people listen to you."],
+		"neutralNo": ["No, my people disagree.", "You're going to need more to make this fair.", "My people do not agree with your proposition."],
+		"neutralYes": ["My people accept your proposition.", "My people is always glad to welcome your proposals.", "Very well."],
+
+		"hateHello": "What do you want? You're not welcome here.",
+		"hateLetsHearIt": ["Speak, if you must..."],
+		"hateNo": ["Do you even understand the concept of 'fair trading'? Your offer is too light: you must improve it.", "That's not good enough.", "You must do better than that."],
+		"hateYes": ["And so, you have finally done something reasonable and right...", "Our business here is done.", "This has taken way too long."],
+		
+		"afterPeace": "My Lord will bring justice upon thee.",
+		"tradeRequest": "My people and I have a proposal to make to you.",
+		"declaringFriendship": "You have shown yourself a friend of my people, and now we are in dire need of your help.",
+
+		"outerColor": [246,239,228],
+		"innerColor": [66, 106, 246],
+		"uniqueName": "Land of Milk and Honey",
+		"uniqueText": "Unimproved Oases yield +2 Gold, Food and Faith. Gain a free Great Prophet upon researching Writing.",
+		"uniques": ["[+2 Gold] from [{unimproved} {Oasis}] tiles [in all cities]", "[+2 Culture] from [{unimproved} {Oasis}] tiles [in all cities]", "[+2 Faith] from [{unimproved} {Oasis}] tiles [in all cities]", "Free [Great Prophet] appears <upon discovering [Writing] technology>"],
+		"cities": ["Jerusalem","Hebron","Gaza","Jericho","Bethlehem","Nazareth","Meggido","Beer-Sheba","Judah","Hazor","Michmash","Caesarea","Emmaus","Tirzah","Gilgal","Joppa","Shiloh","Ashdod","Ashkelon","Samara","Gezer","Gibeon","Tamar","Beth-horon","Geba","Gath","Avaris","Jabesh-Gilead","Dan"],
+		"spyNames": ["Josue","Esther","Judas","Rut","Shammua","Shaphat","Caleb","Joshua","Ammiel","Geuel"]
+	},
+	{
+		"name": "Wolin",
+		"adjective": ["Wolinian"],
+		"cityStateType": "Militaristic",
+		"startBias": ["Coast"],
+
+		"declaringWar": "May your death be slow and agonizing. This is a formal declaration of WAR! Our armies shall meet on the field of battle!",
+		"attacked": "We have no business with bloodthirsty tyrants such as yourself. Begone.",
+		"defeated": "You will pay for this in time, villain! We swear it!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [167, 162, 216],
+		"cities": ["Wolin"]
+	},
+	{
+		"name": "Auckland",
+		"adjective": ["Aucklander"],
+		"cityStateType": "Maritime",
+		"startBias": ["Coast"],
+
+		"declaringWar": "May your years be long and miserable. This is a formal declaration of WAR! Our armies shall meet on the field of battle!",
+		"attacked": "We have no business with bloodthirsty tyrants such as yourself. Begone.",
+		"defeated": "You will pay for this in time, villain! We swear it!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [167, 16, 216],
+		"cities": ["Auckland"]
+	},
+	{
+		"name": "St. John's",
+		"adjective": ["St. John's"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "May wisdom ever elude you. This is a formal declaration of WAR! Our armies shall meet on the field of battle!",
+		"attacked": "We have no business with bloodthirsty tyrants such as yourself. Begone.",
+		"defeated": "You will pay for this in time, villain! We swear it!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [193, 84, 255],
+		"cities": ["St. John's"]
+	},
+	{
+		"name": "Nuuk",
+		"adjective": ["Nuuk"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "Tales of your misdeeds are told from Ireland to Cathay. This is a formal declaration of WAR! Our armies shall meet on the field of battle!",
+		"attacked": "We have no business with bloodthirsty tyrants such as yourself. Begone.",
+		"defeated": "You will pay for this in time, villain! We swear it!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [51, 97, 242],
+		"cities": ["Nuuk"]
+	},
+	{
+		"name": "Balkh",
+		"adjective": ["Bactrian"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "Damn your seventh grandfather. This is a formal declaration of WAR! Our armies shall meet on the field of battle!",
+		"attacked": "We have no business with bloodthirsty tyrants such as yourself. Begone.",
+		"defeated": "You will pay for this in time, villain! We swear it!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 255, 255],
+		"cities": ["Balkh"]
+	}
+]
