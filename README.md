@@ -1,13 +1,9 @@
 # DrTryhard/HungLTL's Civ V Modded Leaders Pack for Unciv
-
-Adds Canada, Georgia, Israel, Khmer, People's Republic of China, Sumer, The Cree, The Soviet Union and Vietnam as ported versions of Civ5 mods.
-
 My first attempt at creating mods for [Unciv](https://github.com/yairm210/Unciv), an open-source turn-based 4X game based on Civilization V by Firaxis. This is basically just a pack of Civilization mods that I use in my Civ V games, selected solely based on the fact that they have 3D leaderscenes, ported to Unciv.
 
 Want civilization music? Get the optional music pack [here](https://github.com/HungLTL/Civ-V-Modded-Leaders-Pack-Music).
 
 This mod adds the following Civilizations:
-
 ## Canada, led by Wilfrid Laurier
 * **Great White North**: Mines, Camps and Strategic Resources produce +1 additional Gold. Lumber Mills provide +1 additional Production.
 * **Mountie**: Unique Industrial Era Mounted unit. Unlike the Cavalry it replaces, the Mountie is 33% cheaper to produce, and has +1 Sight and Movement. However, the Mountie also suffers a -25% penalty to Combat Strength outside of friendly lands.
