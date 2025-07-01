@@ -4,6 +4,8 @@ Adds Canada, Georgia, Israel, Khmer, People's Republic of China, Sumer, The Cree
 
 My first attempt at creating mods for [Unciv](https://github.com/yairm210/Unciv), an open-source turn-based 4X game based on Civilization V by Firaxis. This is basically just a pack of Civilization mods that I use in my Civ V games, selected solely based on the fact that they have 3D leaderscenes, ported to Unciv.
 
+Want civilization music? Get the optional music pack [here](https://github.com/HungLTL/Civ-V-Modded-Leaders-Pack-Music).
+
 This mod adds the following Civilizations:
 
 ## Canada, led by Wilfrid Laurier
