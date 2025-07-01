@@ -30,7 +30,7 @@ Unit sprites are from [letstalkaboutdune's](https://github.com/letstalkaboutdune
 * [Buddha Head](https://thenounproject.com/icon/buddha-head-1894916/) by Olena Panasovska - Prasat UB
 
 # People's Republic of China assets:
-* [Original mod and leader portrait](steamcommunity.com/sharedfiles/filedetails/?id=2821568960) by [Iska](https://steamcommunity.com/profiles/76561198033595020)
+* [Original mod and leader portrait](https://steamcommunity.com/sharedfiles/filedetails/?id=2821568960) by [Iska](https://steamcommunity.com/profiles/76561198033595020)
 * civ icon: made from these 2 combined: [emblem](https://thenounproject.com/icon/emblem-7924158/) by Lewen Design (laurels), [beijing](https://thenounproject.com/icon/beijing-1039280/) by DinosoftLabs (Tiananmen silhouette); stars added in Paint.NET
 * [hat](https://thenounproject.com/icon/hat-3838084/) by myiconfinder - Red Army UU
 * Red Army sprite edited from AbsoluteUnit's Infantry
