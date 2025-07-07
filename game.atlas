@@ -6,350 +6,392 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Cultural Theatre
   rotate: false
-  xy: 861, 1577
+  xy: 4, 456
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Mekewap
   rotate: false
-  xy: 1597, 1841
+  xy: 1805, 1840
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Narkomat
   rotate: false
-  xy: 1805, 1841
+  xy: 532, 1039
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Prasat
   rotate: false
-  xy: 1485, 1633
+  xy: 740, 1104
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Rathaus
+  rotate: false
+  xy: 948, 1312
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Rice Terrace
   rotate: false
-  xy: 597, 1314
+  xy: 1156, 1368
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Tim Hortons
   rotate: false
-  xy: 532, 1106
+  xy: 1156, 1160
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Tsikhe
   rotate: false
-  xy: 532, 898
+  xy: 532, 831
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ImprovementIcons/Kibbutz
   rotate: false
-  xy: 1069, 1577
+  xy: 4, 248
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ImprovementIcons/Ziggurat
   rotate: false
-  xy: 4, 1456
+  xy: 4, 1455
   size: 585, 585
   orig: 585, 585
   offset: 0, 0
   index: -1
+LeaderIcons/Charlemagne
+  rotate: false
+  xy: 4, 1191
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
 LeaderIcons/David
   rotate: false
-  xy: 4, 1192
+  xy: 597, 1784
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 LeaderIcons/Gilgamesh
   rotate: false
-  xy: 597, 1786
+  xy: 4, 928
   size: 256, 255
   orig: 256, 255
   offset: 0, 0
   index: -1
 LeaderIcons/Jayavarman VII
   rotate: false
-  xy: 4, 928
+  xy: 268, 1191
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 LeaderIcons/Lady Triệu
   rotate: false
-  xy: 268, 1192
+  xy: 597, 1520
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 LeaderIcons/Mao Zedong
   rotate: false
-  xy: 597, 1522
+  xy: 861, 1784
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 LeaderIcons/Poundmaker
   rotate: false
-  xy: 861, 1785
+  xy: 4, 664
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 LeaderIcons/Stalin
   rotate: false
-  xy: 4, 664
+  xy: 268, 927
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 LeaderIcons/Tamar
   rotate: false
-  xy: 268, 928
+  xy: 861, 1520
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 LeaderIcons/Wilfrid Laurier
   rotate: false
-  xy: 1125, 1785
+  xy: 1125, 1784
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 NationIcons/Canada
   rotate: false
-  xy: 1901, 1733
+  xy: 1156, 1052
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Georgia
   rotate: false
-  xy: 476, 582
+  xy: 1156, 944
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Israel
   rotate: false
-  xy: 1901, 1625
+  xy: 1264, 1052
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Khmer
   rotate: false
-  xy: 584, 582
+  xy: 1264, 944
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/People's Republic of China
   rotate: false
-  xy: 476, 474
+  xy: 740, 788
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Sumer
   rotate: false
-  xy: 584, 474
+  xy: 848, 788
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Cree
   rotate: false
-  xy: 740, 1206
+  xy: 956, 788
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Franks
+  rotate: false
+  xy: 1064, 788
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Soviet Union
   rotate: false
-  xy: 740, 1098
+  xy: 1172, 836
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Vietnam
   rotate: false
-  xy: 740, 990
+  xy: 1280, 836
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Domrey
   rotate: false
-  xy: 1582, 1461
+  xy: 315, 458
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Lansquenet
+  rotate: false
+  xy: 212, 561
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Lansquenet-1
+  rotate: false
+  xy: 212, 458
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Lansquenet-2
+  rotate: false
+  xy: 212, 355
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
 TileSets/AbsoluteUnits/Units/Maccabee
   rotate: false
-  xy: 740, 901
+  xy: 212, 266
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Maccabee-Israel
   rotate: false
-  xy: 740, 901
+  xy: 212, 266
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Maccabee-1
   rotate: false
-  xy: 1485, 1544
+  xy: 212, 177
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Maccabee-2
   rotate: false
-  xy: 1588, 1544
+  xy: 212, 88
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Mountie
   rotate: false
-  xy: 1667, 1471
+  xy: 315, 385
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Mountie-1
   rotate: false
-  xy: 1752, 1471
+  xy: 315, 312
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Mountie-2
   rotate: false
-  xy: 684, 825
+  xy: 315, 239
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Mountie-Canada
   rotate: false
-  xy: 684, 752
+  xy: 315, 166
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Okihtcitaw
   rotate: false
-  xy: 1691, 1544
+  xy: 1389, 1751
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Okihtcitaw-1
   rotate: false
-  xy: 1794, 1544
+  xy: 1492, 1751
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Okihtcitaw-2
   rotate: false
-  xy: 1897, 1536
+  xy: 1595, 1751
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Red Army
   rotate: false
-  xy: 861, 1488
+  xy: 1698, 1751
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Red Army-1
   rotate: false
-  xy: 964, 1488
+  xy: 1801, 1751
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Việt Minh-1
   rotate: false
-  xy: 964, 1488
+  xy: 1801, 1751
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Red Army-2
   rotate: false
-  xy: 1067, 1488
+  xy: 1904, 1751
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Red Army-People's Republic of China
   rotate: false
-  xy: 1170, 1488
+  xy: 1172, 747
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Việt Minh
   rotate: false
-  xy: 1273, 1488
+  xy: 1275, 747
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Việt Minh-2
   rotate: false
-  xy: 1376, 1488
+  xy: 315, 630
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Việt Minh-Vietnam
   rotate: false
-  xy: 1479, 1455
+  xy: 315, 541
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/War Cart
   rotate: false
-  xy: 769, 823
+  xy: 315, 88
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/War Cart-1
   rotate: false
-  xy: 769, 745
+  xy: 418, 641
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/War Cart-2
   rotate: false
-  xy: 212, 434
+  xy: 418, 563
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
@@ -363,70 +405,77 @@ TileSets/FantasyHex/Tiles/Kibbutz
   index: -1
 TileSets/FantasyHex/Tiles/Ziggurat
   rotate: false
-  xy: 1389, 1805
+  xy: 597, 1484
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 UnitIcons/Domrey
   rotate: false
-  xy: 4, 456
+  xy: 268, 719
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/KV-1
   rotate: false
-  xy: 268, 720
+  xy: 1125, 1576
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Khevsur
   rotate: false
-  xy: 1389, 1841
+  xy: 1389, 1840
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Lansquenet
+  rotate: false
+  xy: 1597, 1840
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Maccabee
   rotate: false
-  xy: 4, 248
+  xy: 4, 40
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Mountie
   rotate: false
-  xy: 4, 40
+  xy: 532, 1247
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Okihtcitaw
   rotate: false
-  xy: 1277, 1577
+  xy: 740, 1312
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Red Army
   rotate: false
-  xy: 1693, 1633
+  xy: 948, 1104
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Việt Minh
   rotate: false
-  xy: 476, 690
+  xy: 740, 896
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/War Cart
   rotate: false
-  xy: 268, 512
+  xy: 948, 896
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
