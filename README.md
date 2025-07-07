@@ -42,6 +42,11 @@ This mod adds the following Civilizations:
 * **Okihtcitaw**: Unique Ancient Era Sword unit, replacing the Warrior. Earns an additional 50% XP from Combat and heals an additional 5 HP when healing.
 * **Mekewap**: Unique Circus replacement. Requires an improved Pasture or Camp resource near the city, and provides +1 additional Food to the aforementioned improvements in return. After researching Navigation, Pastures and Camps in a city with a Mekewap will also provide an additional +2 Gold.
 
+## The Franks, led by Charlemagne
+* **The Iron Crown**: Upon conquering a city, gain an Inquisitor and a culture boost scaling with the number of cities you have conquered (150 on Standard per annexed/puppeted city, counted seperately). +2% Great Person generation rate in your Capital for every conquered city in your Empire.
+* **Lansquenet**: Unique Medieval Era Sword unit, replacing the Pikeman. Cheaper than the standard unit, the Lansquenet is cheaper to produce, and starts with both Formation promotions, making them a very effective anti-cavalry unit that can be mass produced. Additionally, this front-line unit obsoletes at Rifling and upgrades to a Rifleman, instead of a Lancer.
+* **Rathaus**: Unique Water Mill replacement. Unlike the Water Mill, this building is more expensive to buy or build, and does not grant any food bonuses. Instead, it grants additional Culture and Production, does not require a River, and removes extra unhappiness from annexed cities similar to a Courthouse.
+
 ## The Soviet Union, led by Stalin
 * **The Iron Curtain**: +3% Production in all cities for every World Wonder constructed in the capital. Gain a free Courthouse in conquered cities. Technologies are nearly impossible to be stolen from this civilization. -20% Golden Age Length and Great People generation rate after adopting any Industrial Era policy branch.
 * **KV-1**: Unique Atomic Era Armoured unit, replacing the Tank. This unit is faster, stronger and more resilient than the standard unit, featuring +1 Movement, +10 extra Combat Strength, and starts with the Cover I and II promotions.

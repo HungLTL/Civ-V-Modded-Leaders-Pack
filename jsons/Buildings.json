@@ -77,5 +77,17 @@
 		"requiredBuilding": "Walls",
 		"requiredTech": "Chivalry",
 		"uniques": ["Destroyed when the city is captured","[+3 Faith] [in this city] <when at war>"]
+	},
+	{
+		"name": "Rathaus",
+		"replaces": "Water Mill",
+		"uniqueTo": "The Franks",
+		"maintenance": 2,
+		"culture": 3,
+		"production": 3,
+		"hurryCostModifier": 50,
+		"cost": 100,
+		"uniques": ["Removes extra unhappiness from annexed cities"],
+		"requiredTech": "The Wheel"
 	}
 ]

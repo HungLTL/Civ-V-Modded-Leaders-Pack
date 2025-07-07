@@ -134,5 +134,20 @@
 		"requiredResource": "Iron",
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Lansquenet",
+		"unitType": "Sword",
+		"uniqueTo": "The Franks",
+		"replaces": "Pikeman",
+		"movement": 2,
+		"strength": 16,
+		"cost": 80,
+		"requiredTech": "Civil Service",
+		"promotions": ["Formation I","Formation II"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>","May upgrade to [Musketman] through ruins-like effects"],
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"attackSound": "metalhit"
 	}
 ]

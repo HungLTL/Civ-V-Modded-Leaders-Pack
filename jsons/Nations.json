@@ -202,7 +202,6 @@
 		"name": "People's Republic of China",
 		"leaderName": "Mao Zedong",
 		"adjective": ["Chinese"],
-		"startBias": ["Grassland"],
 		"preferredVictoryType": "Domination",
 		"personality": "Iska_MaoZedong",
 		"favoredReligion": "Confucianism",
@@ -242,7 +241,7 @@
 		"name": "The Soviet Union",
 		"leaderName": "Stalin",
 		"adjective": ["Soviet"],
-		"startBias": ["Grassland"],
+		"startBias": ["Tundra"],
 		"preferredVictoryType": "Scientific",
 		"personality": "Iska_Stalin",
 		"favoredReligion": "Christianity",
@@ -354,9 +353,49 @@
 		"innerColor": [66, 106, 246],
 		"uniqueName": "Land of Milk and Honey",
 		"uniqueText": "Unimproved Oases yield +2 Gold, Food and Faith. Gain a free Great Prophet upon researching Writing.",
-		"uniques": ["[+2 Gold] from [{unimproved} {Oasis}] tiles [in all cities]", "[+2 Culture] from [{unimproved} {Oasis}] tiles [in all cities]", "[+2 Faith] from [{unimproved} {Oasis}] tiles [in all cities]", "Free [Great Prophet] appears <upon discovering [Writing] technology>"],
+		"uniques": ["[+2 Gold] from [{unimproved} {Oasis}] tiles [in all cities]", "[+2 Food] from [{unimproved} {Oasis}] tiles [in all cities]", "[+2 Faith] from [{unimproved} {Oasis}] tiles [in all cities]", "Free [Great Prophet] appears <upon discovering [Writing] technology>"],
 		"cities": ["Jerusalem","Hebron","Gaza","Jericho","Bethlehem","Nazareth","Meggido","Beer-Sheba","Judah","Hazor","Michmash","Caesarea","Emmaus","Tirzah","Gilgal","Joppa","Shiloh","Ashdod","Ashkelon","Samara","Gezer","Gibeon","Tamar","Beth-horon","Geba","Gath","Avaris","Jabesh-Gilead","Dan"],
 		"spyNames": ["Josue","Esther","Judas","Rut","Shammua","Shaphat","Caleb","Joshua","Ammiel","Geuel"]
+	},
+	{
+		"name": "The Franks",
+		"leaderName": "Charlemagne",
+		"adjective": ["Frankish"],
+		"startBias": ["Avoid [Desert]"],
+		"preferredVictoryType": "Domination",
+		"personality": "Iska_Charlemagne",
+		"favoredReligion": "Christianity",
+		
+		"startIntroPart1": "Hail mighty Charlemagne, King of the Franks and the first Holy Roman Emperor! The Frankish realm, a vast territory spanning modern-day France, Germany, and beyond, was the heart of Western Europe in the early Middle Ages. Under your rule, the Frankish Empire expanded its borders, and your tireless efforts promoted education, culture, and religion, laying the foundation for the Carolingian Renaissance.",
+		"startIntroPart2": "Great King Charles, the Frankish people look to you to lead them to an era of unparalleled glory. With their unyielding spirit and fierce determination, they turn to you, their revered ruler, to guide them once more. Will you unite the diverse lands of Europe under your banner and forge a lasting legacy through diplomacy and conquest? Can you cultivate the arts and sciences to usher in a new age of enlightenment? Can you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "My fury is upon thee! Thou cannot escape!",
+		"attacked": "The blades of the righteous, the banner of heaven. It is you who should fear!",
+		"defeated": "With this, I must cast my crown aside, to be washed in the tears of the faithful... and God's own holy rain!",
+		"denounced": "Hostility seeps from thy words. Ponder carefully upon your ensuing utterances.",
+		"introduction": "I am Karl, known as the Great. While others rule by the sword, I rule by the grace of God. And also the sword.",
+		
+		"neutralHello": "May our fates entwine under the Divine's luminous gaze.",
+		"neutralLetsHearIt": ["Hmm?"],
+		"neutralNo": ["Not now."],
+		"neutralYes": ["A wise move!"],
+
+		"hateHello": "What now, heretic?",
+		"hateLetsHearIt": ["Hmph."],
+		"hateNo": ["Not now. I have a feast to plan."],
+		"hateYes": ["A wise move. Coming from you."],
+		
+		"afterPeace": "Action is better than knowledge, but one must have the knowledge to know what actions bring.",
+		"tradeRequest": "I have sent a delegation to thee. They come bearing gifts of royal red fabrics - rumoured to be highly sought after in your realm, I am sure.",
+		"declaringFriendship": "Let us unite our banners, and point our swords towards our foes!",
+
+		"outerColor": [199,222,244],
+		"innerColor": [44,55,154],
+		"uniqueName": "The Iron Crown",
+		"uniqueText": "Upon conquering a city, gain an Inquisitor and a culture boost scaling with the number of cities you have conquered (150 on Standard per annexed/puppeted city, counted seperately). +2% Great Person generation rate in your Capital for every conquered city in your Empire.",
+		"uniques": ["Free [Inquisitor] appears <upon conquering a city> <after founding a religion>","Gain [150] [Culture] <(modified by game speed)> <for every [[Annexed] Cities]> <upon conquering a city>","Gain [150] [Culture] <(modified by game speed)> <for every [[Puppeted] Cities]> <upon conquering a city>","[+2]% Great Person generation [in capital] <for every [[Annexed] Cities]>","[+2]% Great Person generation [in capital] <for every [[Puppeted] Cities]>"],
+		"cities": ["Aachen","Paris","Tours","Orleans","Rouen","Metz","Trier","Reims","Mainz","Cologne","Worms","Speyer","Strasbourg","Narbonne","Avignon"],
+		"spyNames": ["Anselm","Gertrude","Radulf","Adalgar","Ermengarde","Humbert","Irmina","Leutgard","Odo","Waltrude"]
 	},
 	{
 		"name": "Wolin",
