@@ -32,7 +32,7 @@ This mod adds the following Civilizations:
 * **Cultural Theatre**: Unique Broadcast Tower replacement. In addition to the increased base Culture yield, the Cultural Theatre also grants an additional +5 Production bonus, +2 Happiness, an Artist specialist slot, and can be built without a Museum.
 
 ## Sumer, led by Gilgamesh
-* **Epic Quest**: Units have an additional 50% Combat Strength against Barbarians. Upon killing a Land Barbarian unit, 20% chance to earn double its Strength value as either Culture, Gold, Science, Faith or Golden Age points.
+* **Epic Quest**: Units have an additional 50% Combat Strength against Barbarians. Destroying a Barbarian Encampment yields an Ancient Ruin reward.
 * **War Cart**: Unique Ancient Era Mounted unit, replacing the Horseman. Excels at fighting in open terrain, and unlike the Horseman, is available sooner upon researching The Wheel and nullifies the Spearman and Pikeman's anti-cavalry ability.
 * **Ziggurat**: Unique Sumerian improvement, unlocked after researching The Wheel. Can only be built on resourceless Flat land tiles that are not adjacent to another Ziggurat. Provides +1 Food and +2 Science to the tile it is built on, with an additional +1 Food after researching Civil Service and +2 Culture after researching Archaeology.
 * The city-state of Ur is replaced by Auckland.

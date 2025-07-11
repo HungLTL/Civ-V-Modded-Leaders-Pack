@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Epic Quest",
+        "text": "Your victory against the evil barbarians of this tribe has brought to our Empire many rewards!",
+        "presentation": "None",
+        "choices": [
+            {
+                "text": "We have recovered stolen cultural artifacts in the encampment!",
+                "uniques": ["Gain [20] [Culture] <(modified by game speed)>"]
+            },
+            {
+                "text": "The battle has taught your soldiers a valuable lesson in warfare!",
+                "uniques": ["[This Unit] gains [10] XP"]
+            },
+            {
+                "text": "We have rescued some kidnapped villagers, and they have asked to settle in our Empire out of gratitude!",
+                "uniques": ["[+1] population in a random city"]
+            },
+            {
+                "text": "We have recovered the barbarians' loot stash!",
+                "uniques": ["Gain [50]-[100] [Gold] <(modified by game speed)>"]
+            },
+            {
+                "text": "We have recovered stolen tablets detailing technological secrets!",
+                "uniques": ["[1] free random researchable Tech(s) from the [Ancient era]", "Only available <during the [Ancient era]>"]
+            },
+            {
+                "text": "We have recovered advanced weapons from the encampment!",
+                "uniques": ["[This Unit] upgrades for free including special upgrades","Only available <before the [Renaissance era]>"]
+            },
+            {
+                "text": "We have recovered a crudely-drawn map detailing locations of this barbarian clan's subordinate tribes!",
+                "uniques": ["Reveal up to [All] [Barbarian encampment] within a [10] tile radius"]
+            },
+            {
+                "text": "We have recovered stolen holy symbols from the encampment!",
+                "uniques": ["Only available <when religion is enabled>", "Gain enough Faith for a Pantheon", "Only available <before founding a Pantheon>", "Only available <after turn number [20]>"]
+            },
+            {
+                "text": "We have rescued a prophet from the encampment!",
+                "uniques": ["Only available <when religion is enabled>", "Gain enough Faith for [33]% of a Great Prophet", "Unavailable <after generating a Great Prophet>",
+            "Only available <after founding a Pantheon>", "Only available <after turn number [20]>"]
+            }
+        ]
+    }
+]

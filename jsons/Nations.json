@@ -154,8 +154,8 @@
 		"outerColor": [35, 40, 75],
 		"innerColor": [243,181,45],
 		"uniqueName": "Epic Quest",
-		"uniqueText": "Units have an additional 50% Combat Strength against Barbarians. Upon killing a Land Barbarian unit, 20% chance to earn double its Strength value as either Culture, Gold, Science, Faith or Golden Age points.",
-		"uniques": ["[+50]% Strength <vs [Barbarian] units>", "Earn [200]% of killed [{Barbarian} {Land}] unit's [Strength] as [Culture] <with [20]% chance>", "Earn [200]% of killed [{Barbarian} {Land}] unit's [Strength] as [Gold] <with [20]% chance>", "Earn [200]% of killed [{Barbarian} {Land}] unit's [Strength] as [Science] <with [20]% chance>", "Earn [200]% of killed [{Barbarian} {Land}] unit's [Strength] as [Faith] <with [20]% chance>", "Earn [200]% of killed [{Barbarian} {Land}] unit's [Strength] as [Golden Age points] <with [20]% chance>"],
+		"uniqueText": "Units have an additional 50% Combat Strength against Barbarians. Destroying a Barbarian Encampment yields an Ancient Ruin reward.",
+		"uniques": ["[+50]% Strength <vs [Barbarian] units>", "Triggers a [Epic Quest] event <for [Military] units> <upon entering a [Barbarian encampment] tile>"],
 		"cities": ["Uruk", "Eridu", "Kish", "Ur", "Lagash", "Nippur", "Bad Tibira", "Sippar", "Shuruppak", "Adab", "Isin", "Larak", "Abu Salabikh", "Akshak", "Umma", "Larsa", "Hamazi", "Girsu", "Jemdet Nasr", "Nina", "Kuara", "Dilbat", "Kutha", "Marad", "Zabalam", "Kisurra", "Pazurish Dagan", "Harbidum", "Kesh"],
 		"spyNames": ["Enkidu", "Lugalbanda", "Ningal", "Enheduanna", "Shargun", "Nusimud", "Utu", "Dilmun", "Eanna", "Nebukad"]
 	},
