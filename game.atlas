@@ -160,26 +160,19 @@ NationIcons/Georgia
   index: -1
 NationIcons/Israel
   rotate: false
-  xy: 1264, 1052
+  xy: 1264, 944
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Khmer
   rotate: false
-  xy: 1264, 944
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/People's Republic of China
-  rotate: false
   xy: 740, 788
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Sumer
+NationIcons/People's Republic of China
   rotate: false
   xy: 848, 788
   size: 100, 100
@@ -478,5 +471,19 @@ UnitIcons/War Cart
   xy: 948, 896
   size: 200, 200
   orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Heroes of Sumer
+  rotate: false
+  xy: 1264, 1052
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Sumer
+  rotate: false
+  xy: 1264, 1052
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1

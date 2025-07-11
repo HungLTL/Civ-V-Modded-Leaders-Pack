@@ -155,7 +155,7 @@
 		"innerColor": [243,181,45],
 		"uniqueName": "Epic Quest",
 		"uniqueText": "Units have an additional 50% Combat Strength against Barbarians. Destroying a Barbarian Encampment yields an Ancient Ruin reward.",
-		"uniques": ["[+50]% Strength <vs [Barbarian] units>", "Triggers a [Epic Quest] event <for [Military] units> <upon entering a [Barbarian encampment] tile>"],
+		"uniques": ["[+50]% Strength <vs [Barbarian] units>", "[{Military} {Land}] units gain the [Heroes of Sumer] promotion"],
 		"cities": ["Uruk", "Eridu", "Kish", "Ur", "Lagash", "Nippur", "Bad Tibira", "Sippar", "Shuruppak", "Adab", "Isin", "Larak", "Abu Salabikh", "Akshak", "Umma", "Larsa", "Hamazi", "Girsu", "Jemdet Nasr", "Nina", "Kuara", "Dilbat", "Kutha", "Marad", "Zabalam", "Kisurra", "Pazurish Dagan", "Harbidum", "Kesh"],
 		"spyNames": ["Enkidu", "Lugalbanda", "Ningal", "Enheduanna", "Shargun", "Nusimud", "Utu", "Dilmun", "Eanna", "Nebukad"]
 	},

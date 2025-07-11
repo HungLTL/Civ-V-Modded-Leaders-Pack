@@ -18,5 +18,10 @@
 	{
 		"name": "[Maccabee] ability",
 		"uniques": ["[+20]% to Flank Attack bonuses","Earn [75]% of killed [Military] unit's [Strength] as [Faith]"]
+	},
+	{
+		"name": "Heroes of Sumer",
+		"uniques": ["Comment [Clearing a [Barbarian encampment] yields additional rewards]",
+			"Triggers a [Epic Quest] event <upon entering a [Barbarian encampment] tile> <hidden from users>"]
 	}
 ]
