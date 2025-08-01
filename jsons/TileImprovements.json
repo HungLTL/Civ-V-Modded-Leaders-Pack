@@ -14,7 +14,7 @@
 		"uniqueTo": "Israel",
 		"terrainsCanBeBuiltOn": ["Desert","Flood plains"],
 		"turnsToBuild": 7,
-        "requiredTech": "Economics",
+        "techRequired": "Economics",
 		"food": 2,
         "culture": 1,
 		"faith": 1,

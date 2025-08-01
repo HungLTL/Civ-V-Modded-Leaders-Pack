@@ -34,7 +34,7 @@
 		"innerColor": [142,30,140],
 		"outerColor": [0,158,25],
 		"uniqueName": "Drive Out the Aggressors",
-		"uniqueText": "All Military Land units receive free promotions that allow them to fight and manoeuvre more effectively in Rough terrain.",
+		"uniqueText": "All [Military] [Land] units receive free promotions that allow them to fight and manoeuvre more effectively in Rough terrain.",
 		"uniques": ["[{Military} {Land} {Melee}] units gain the [Drill I] promotion", "[{Military} {Land} {Ranged}] units gain the [Barrage I] promotion", "[{Military} {Land} {Melee}] units gain the [Woodsman] promotion"],
 		"cities": ["Thăng Long", "Huế", "Hoa Lư", "Đồng Hới", "Quảng Trị", "Đà Nẵng", "Cần Thơ", "Hội An", "Kon Tum", "Mỹ Tho", "Quy Nhơn", "Sài Gòn", "Đà Lạt", "Hải Phòng", "Biên Hòa", "Nha Trang", "Gia Lạc", "Long Biên", "Nam Định", "Thái Nguyên", "Hạ Long", "Vũng Tàu", "Thanh Hóa", "Buôn Ma Thuột", "Việt Trì", "Hải Dương", "Thủ Dầu Một", "Bắc Ninh"],
 		"spyNames": ["Huy", "Khang", "Bảo", "Minh", "Anh", "Vy", "Ngọc", "Khải", "Quân", "Thiệu"]
@@ -74,7 +74,7 @@
 		"outerColor": [34,53,110],
 		"innerColor": [77,163,86],
 		"uniqueName": "Iron Confederacy",
-		"uniqueText": "Gain 10% additional City-State influence from gifting Gold, and 10 additional Influence from gifting Military units. Trade Routes provide +2 additional Food. Pay 25% less for Road and Railroad maintenance.",
+		"uniqueText": "Gain 10% additional City-State influence from gifting [Gold], and 10 additional Influence from gifting [Military] units. Trade Routes provide +2 additional [Food]. Pay 25% less for [Road] and [Railroad] maintenance.",
 		"uniques": ["Gifts of Gold to City-States generate [10]% more Influence","Gain [10] Influence with a [Military] gift to a City-State","[+2 Food] from each Trade Route", "[-25]% maintenance on road & railroads"],
 		"cities": ["Mikisew Wacihk", "Atakakup", "Pîhtokahânapiwiyin", "Mistahi Sipiy", "Mistawasis", "Wîhkasko Kîsikân", "Mahkwe-sakahikan", "Maskotêw", "Paskwâwaskîhk", "Piyesiw-Awasis", "Pipikisis", "Kinoseo Sakahikan", "Kâpawe'kowiskowam", "Misinipe", "Muscowpetung", "Kawacatoose", "Wâpamekustwi", "Okanese", "Chemwawin", "Kâkîwistahaw", "Nekaneet", "Kâwawachikamach", "Natuashish", "Wâpimaskwa", "Wâskahikanihk", "Papew", "Kâ-pawâkaskitok", "Ochapowace", "Tataskweyak"],
 		"spyNames": ["Wîsahkecâhk", "Mâhcâpiyiw", "Isapâskân", "Kêpêskawêw", "Nakamapîtam", "Pêtikakahkewin", "Sikotomakahk", "Apihtawikosisân", "Mâmikiskowin", "Kîpisahamîw"]
@@ -114,7 +114,7 @@
 		"outerColor": [154, 135, 40],
 		"innerColor": [50,89,159],
 		"uniqueName": "Great Barays",
-		"uniqueText": "Farms produce +1 additional Food when built next to City Centers, and +1 Faith when built next to a Holy Site. City Centers with an Aqueduct built provide +1 Happiness, and Farms build next to them provide an additional +1 Food.",
+		"uniqueText": "[Farm]s produce +1 additional [Food] when built next to [City center]s, and +1 [Faith] when built next to a [Holy site]. [City center]s with an [Aqueduct] built provide +1 [Happiness], and [Farm]s build next to them provide an additional +1 [Food].",
 		"uniques": ["[+1 Happiness] from every [Aqueduct]", "[+1 Food] from every [Farm] <in tiles adjacent to [City center] tiles>", "[+1 Food] from every [Farm] <in cities with a [Aqueduct]> <in tiles adjacent to [City center] tiles>", "[+1 Faith] from every [Farm] <in tiles adjacent to [Holy site] tiles>"],
 		"cities": ["Angkor Thom", "Angkor Wat", "Hariharalaya", "Yasodharapura", "Mahendraparvata", "Vimayapura", "Indrapura", "Lingapura", "Preah Vihear", "Bhavapura", "Kampong Svay", "Nagarajayasri", "Vyadhapura", "Chaturmukha", "Dvirada", "Rayabihara", "Amarendrapura", "Phanom Rung", "Isanapura", "Muang Tam", "Angkor Borei", "Banteay Kdei", "Phetchaburi", "Chaiya", "Isanapura", "Pre Rup", "Beng Mealea", "Lavodayapura", "Sreshthapura"],
 		"spyNames": ["Sokha", "Visay", "Ratana", "Chey", "Monkol", "Sopheak", "Kanha", "Pheara", "Bopha", "Rakia"]
@@ -154,7 +154,7 @@
 		"outerColor": [35, 40, 75],
 		"innerColor": [243,181,45],
 		"uniqueName": "Epic Quest",
-		"uniqueText": "Units have an additional 50% Combat Strength against Barbarians. Destroying a Barbarian Encampment yields an Ancient Ruin reward.",
+		"uniqueText": "Units have an additional 50% Combat Strength against [Barbarians]. Destroying a [Barbarian encampment] yields an [Ancient ruins] reward.",
 		"uniques": ["[+50]% Strength <vs [Barbarian] units>", "[{Military} {Land}] units gain the [Heroes of Sumer] promotion"],
 		"cities": ["Uruk", "Eridu", "Kish", "Ur", "Lagash", "Nippur", "Bad Tibira", "Sippar", "Shuruppak", "Adab", "Isin", "Larak", "Abu Salabikh", "Akshak", "Umma", "Larsa", "Hamazi", "Girsu", "Jemdet Nasr", "Nina", "Kuara", "Dilbat", "Kutha", "Marad", "Zabalam", "Kisurra", "Pazurish Dagan", "Harbidum", "Kesh"],
 		"spyNames": ["Enkidu", "Lugalbanda", "Ningal", "Enheduanna", "Shargun", "Nusimud", "Utu", "Dilmun", "Eanna", "Nebukad"]
@@ -232,7 +232,7 @@
 		"outerColor": [186, 54, 41],
 		"innerColor": [228, 196, 112],
 		"uniqueName": "Great Leap Forward",
-		"uniqueText": "Upon entering a new era, all your cities enter 3 turns of Cultural Revolution, during which they provide neither Gold nor Science, lose Culture, and starve in exchange for a quadruple boost to Production. Additionally, if entering either the Medieval, Industrial or Atomic eras, gain a free Social Policy.",
+		"uniqueText": "Upon entering a new era, all your cities enter 3 turns of Cultural Revolution, during which they provide neither [Gold] nor [Science], lose [Culture], and starve in exchange for a quadruple boost to [Production]. Additionally, if entering either the Medieval, Industrial or Atomic eras, gain a free Social policy.",
 		"uniques": ["[-150]% [Food] [in all cities] <upon entering a new era> <starting from the [Classical era]>  <for [4] turns>", "[-150]% [Culture] [in all cities] <upon entering a new era> <starting from the [Classical era]> <for [4] turns>", "[-100]% [Gold] [in all cities] <upon entering a new era> <starting from the [Classical era]> <for [4] turns>", "[-100]% [Science] [in all cities] <upon entering a new era> <starting from the [Classical era]> <for [4] turns>","[+300]% [Production] [in all cities] <upon entering a new era> <starting from the [Classical era]> <for [4] turns>", "Free Social Policy <upon entering the [Medieval era]>", "Free Social Policy <upon entering the [Industrial era]>", "Free Social Policy <upon entering the [Atomic era]>", "Free Social Policy <upon entering the [Future era]>"],
 		"cities": ["Beijing","Shanghai","Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong","Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","Taipei","Shenyang","Taiyuan","Tainan","Dalian","Lijiang","Wuxi","Suzhou","Maoming","Shaoguan","Yangjiang","Heyuan","Huangshi","Yichang","Yingtian","Xinyu","Xinzheng","Handan","Dunhuang","Gaoyu","Nantong","Weifang","Xikang"],
 		"spyNames": ["Li", "Chen", "Zhang", "Liu", "Yang", "Huang", "Zhao", "Wu", "Zhou", "Sun"]
@@ -272,7 +272,7 @@
 		"outerColor": [153, 37, 37],
 		"innerColor": [228, 196, 112],
 		"uniqueName": "The Iron Curtain",
-		"uniqueText": "+3% Production in all cities for every World Wonder constructed in the capital. Gain a free Courthouse in conquered cities. Technologies are nearly impossible to be stolen from this civilization. -20% Golden Age Length and Great People generation rate after adopting any Industrial Era policy branch.",
+		"uniqueText": "+3% [Production] in all cities for every World Wonder constructed in the capital. Gain a free [Courthouse] in conquered cities. Technologies are nearly impossible to be stolen from this civilization. -20% Golden Age Length and Great People generation rate after adopting any Industrial Era ideological policy branch.",
 		"uniques": ["Instantly gain [1] [Soviet Pride] <upon constructing [World Wonder] [in capital]>","[+3]% [Production] [in all cities] <for every [Soviet Pride]>","Gain a free [Courthouse] [in annexed cities] <upon conquering a city>","[-10000]% enemy spy effectiveness [in all cities]","[-20]% Great Person generation [in all cities] <after adopting [Order]>","[-20]% Golden Age length <after adopting [Order]>","[-20]% Great Person generation [in all cities] <after adopting [Autocracy]>","[-20]% Golden Age length <after adopting [Autocracy]>","[-20]% Great Person generation [in all cities] <after adopting [Freedom]>","[-20]% Golden Age length <after adopting [Freedom]>"],
 		"cities": ["Moscow","Leningrad","Stalingrad","Novgorod","Rostov","Yaroslavl","Sverdlovsk","Yakutsk","Vladivostok","Smolensk","Chkalov","Krasnoyarsk","Khabarovsk","Bryansk","Kalinin","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Kuybyshev","Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Molotov","Voronezh","Pskov","Staraya Russa","Kostoma","Gorkiy","Suzdal","Magnitogorsk"],
 		"spyNames": ["Alexei", "Lena", "Dmitry", "Anastasia", "Tatiana", "Boris", "Doktor Seriy", "Mikhail", "Natacha", "Zmeya"]
@@ -312,7 +312,7 @@
 		"outerColor": [247, 248, 252],
 		"innerColor": [210, 123, 40],
 		"uniqueName": "Strength in Unity",
-		"uniqueText": "During a Golden Age, all your tiles produce +2 additional Gold, and the Culture and Production output of all your cities are increased by 30%.",
+		"uniqueText": "During a Golden Age, all your tiles produce +2 additional [Gold], and the [Culture] and [Production] output of all your cities are increased by 30%.",
 		"uniques": ["[+2 Gold] from [your] tiles [in all cities] <during a Golden Age>","[+30]% [Production] [in all cities] <during a Golden Age>", "[+30]% [Culture] [in all cities] <during a Golden Age>"],
 		"cities": ["Tbilisi","Kutaisi","Batumi","Rustavi","Tskhumi","Gori","Telavi","Poti","Mtskheta","Zugdidi","Akhalkalaki","Kaspi","Tskhinvali","Omalo","Tsageri","Zestafoni","Bichvinta","Borjomi","Tsalka","Oni","Tianeti","Tmogvi","Akhaltsikhe","Geguti","Nicopsia","Dmanisi","Urbnisi","Mutso","Akhali Atoni"],
 		"spyNames": ["Alexandre","Baadur","Boris","Davit","Gaioz","Irakli","Mikheil","Petre","Revaz","Tamazi"]
@@ -352,7 +352,7 @@
 		"outerColor": [246,239,228],
 		"innerColor": [66, 106, 246],
 		"uniqueName": "Land of Milk and Honey",
-		"uniqueText": "Unimproved Oases yield +2 Gold, Food and Faith. Gain a free Great Prophet upon researching Writing.",
+		"uniqueText": "Unimproved [Oasis] tiles yield +2 [Gold], [Food] and [Faith]. Gain a free [Great Prophet] upon researching [Writing].",
 		"uniques": ["[+2 Gold] from [{unimproved} {Oasis}] tiles [in all cities]", "[+2 Food] from [{unimproved} {Oasis}] tiles [in all cities]", "[+2 Faith] from [{unimproved} {Oasis}] tiles [in all cities]", "Free [Great Prophet] appears <upon discovering [Writing] technology>"],
 		"cities": ["Jerusalem","Hebron","Gaza","Jericho","Bethlehem","Nazareth","Meggido","Beer-Sheba","Judah","Hazor","Michmash","Caesarea","Emmaus","Tirzah","Gilgal","Joppa","Shiloh","Ashdod","Ashkelon","Samara","Gezer","Gibeon","Tamar","Beth-horon","Geba","Gath","Avaris","Jabesh-Gilead","Dan"],
 		"spyNames": ["Josue","Esther","Judas","Rut","Shammua","Shaphat","Caleb","Joshua","Ammiel","Geuel"]
@@ -392,7 +392,7 @@
 		"outerColor": [199,222,244],
 		"innerColor": [44,55,154],
 		"uniqueName": "The Iron Crown",
-		"uniqueText": "Upon conquering a city, gain an Inquisitor and a culture boost scaling with the number of cities you have conquered (150 on Standard per annexed/puppeted city, counted seperately). +2% Great Person generation rate in your Capital for every conquered city in your Empire.",
+		"uniqueText": "Upon conquering a city, gain an [Inquisitor] and a [Culture] boost scaling with the number of cities you have conquered (150 on Standard per annexed/puppeted city, counted seperately). +2% Great Person generation rate in your Capital for every conquered city in your Empire.",
 		"uniques": ["Free [Inquisitor] appears <upon conquering a city> <after founding a religion>","Gain [150] [Culture] <(modified by game speed)> <for every [[Annexed] Cities]> <upon conquering a city>","Gain [150] [Culture] <(modified by game speed)> <for every [[Puppeted] Cities]> <upon conquering a city>","[+2]% Great Person generation [in capital] <for every [[Annexed] Cities]>","[+2]% Great Person generation [in capital] <for every [[Puppeted] Cities]>"],
 		"cities": ["Aachen","Paris","Tours","Orleans","Rouen","Metz","Trier","Reims","Mainz","Cologne","Worms","Speyer","Strasbourg","Narbonne","Avignon"],
 		"spyNames": ["Anselm","Gertrude","Radulf","Adalgar","Ermengarde","Humbert","Irmina","Leutgard","Odo","Waltrude"]

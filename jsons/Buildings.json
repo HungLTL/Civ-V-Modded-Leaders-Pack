@@ -62,7 +62,8 @@
         "cost": 300,
         "maintenance": 1,
         "hurryCostModifier": 10,
-        "uniques": ["[-25]% enemy spy effectiveness [in this city]", "[+15]% [Production] [in this city]","[+2 Culture, +2 Science] per [5] social policies adopted"],
+		"percentStatBonus": {"production": 15},
+        "uniques": ["[-25]% enemy spy effectiveness [in this city]","[+2 Culture, +2 Science] per [5] social policies adopted"],
         "requiredTech": "Electricity"
     },
 	{
