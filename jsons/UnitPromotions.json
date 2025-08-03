@@ -84,6 +84,6 @@
 	},
 	{
 		"name": "Royal Hajjaj",
-		"uniques": ["Triggers a [Royal Hajj] event <in [{Foreign} {Holy}] cities> <removing the [[Royal Hajjaj] ability] promotion/status> <hidden from users>"]
+		"uniques": ["Triggers a [Royal Hajj] event <in [{Foreign} {Holy}] cities> <removing the [Royal Hajjaj] promotion/status> <hidden from users>"]
 	}
 ]
