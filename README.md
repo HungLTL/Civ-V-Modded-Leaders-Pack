@@ -29,7 +29,7 @@ This mod adds the following Civilizations:
 ### Mali, led by Mansa Musa
 * **Royal Hajj**: Trade Routes generate +1 additional Faith. Great Prophets may visit a foreign Holy City to generate a one time Gold bonus (this does not consume the unit).
 * **Sofa**: Unique Medieval Era Archery unit, replacing the Crossbowman. This unit is slightly more resilient in Melee, but has a weaker ranged attack in comparison to the standard unit. In addition, a Sofa starts with the Medic promotion, as well as the ability to move after attacking.
-* **Treasury**: Unique Mint replacement. Unlike the standard building, the Treasury requires neither a source of Gold nor Silver to be built, and also adds +2 additional Gold to Salt tiles. More importantly, each Treasury generates Golden Age points every turn depending on the amount of reserved liquid Gold you have.
+* **Treasury**: Unique Mint replacement. Unlike the standard building, the Treasury requires neither a source of Gold nor Silver to be built, and also adds +2 additional Gold to Salt tiles. More importantly, each Treasury generates additional Happiness depending on the amount of reserved liquid Gold you have.
 
 ### Manchu, led by Kangxi
 * **Aisin**: All Mounted units have a chance to capture defeated enemy units in battle. Start with a free Horse resource and a Horseman after settling your capital city. After unlocking the Eight Banners unique unit, all Military units (except the Eight Banners themselves) may spend collected Banners to receive a unique promotion depending on the unit type.
