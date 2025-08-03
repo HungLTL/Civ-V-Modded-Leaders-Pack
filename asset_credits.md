@@ -29,6 +29,21 @@ Unit sprites are from [letstalkaboutdune's](https://github.com/letstalkaboutdune
 * Domrey sprite edited from AbsoluteUnits' Naresuan's Elephant
 * [Buddha Head](https://thenounproject.com/icon/buddha-head-1894916/) by Olena Panasovska - Prasat UB
 
+# Mali assets:
+* [Original mod, civ and Sofa UU Icon](https://steamcommunity.com/sharedfiles/filedetails/?id=120687024) by [Tomatekh](https://steamcommunity.com/profiles/76561198030695962)
+* Leader portrait by [TPangolin](https://steamcommunity.com/id/TPangolin)
+* [Gold](https://thenounproject.com/icon/gold-2916318/) by Nine One - Treasury UB
+* Sofa sprite edited from AbsoluteUnits' Crossbowman, Spearman and Mandekalu Cavalry
+
+# Manchu assets:
+* [Original mod and leader portrait](https://steamcommunity.com/sharedfiles/filedetails/?id=2380047907) by [AisinAlin](https://steamcommunity.com/profiles/76561198058962738)
+* [dragon](https://thenounproject.com/icon/dragon-2349040/) by Cédric Villain - civ icon
+* [Ger](https://thenounproject.com/icon/ger-5860006/) by Laurens - Clan UU
+* [Knight](https://thenounproject.com/icon/knight-6567383/) by Dimitri Lupo - Eight Banners UU
+* [Banner](https://thenounproject.com/icon/banner-866282/) by Emir Palavan - Banner resource
+* Eight Banners sprite - AbsoluteUnits' Keshik (unedited)
+* All Banner promotion icons reuse icons used in Unciv: Cover promotion, Korean civ icon, Russian civ icon, Tank unit icon, Mongolian civ icon, Chinese civ icon, Artillery unit icon. Star icon hand drawn in Paint.NET.
+
 # People's Republic of China assets:
 * [Original mod and leader portrait](https://steamcommunity.com/sharedfiles/filedetails/?id=2821568960) by [Iska](https://steamcommunity.com/profiles/76561198033595020)
 * civ icon: made from these 2 combined: [emblem](https://thenounproject.com/icon/emblem-7924158/) by Lewen Design (laurels), [beijing](https://thenounproject.com/icon/beijing-1039280/) by DinosoftLabs (Tiananmen silhouette); stars added in Paint.NET
@@ -55,7 +70,20 @@ Unit sprites are from [letstalkaboutdune's](https://github.com/letstalkaboutdune
 * Carolingian Cross by Rudolf Koch (1876 - 1934), taken from this website on [Christian Symbols](https://catholic-resources.org/Art/Koch-ChristianSymbols.htm) - civ icon
 * [Halberd](https://thenounproject.com/icon/halberd-4686448/) by Eucalyp - Lansquenet UU
 * Lansquenet sprite - AbsoluteUnits' Landsknecht (unedited)
+* [Vikings](https://thenounproject.com/icon/vikings-4761695/) by nakals - Hov UB
+
+# The Goths assets:
+* [Original mod and leader portrait](https://steamcommunity.com/sharedfiles/filedetails/?id=2234944622) by [Iska](https://steamcommunity.com/profiles/76561198033595020); based on the Goths from Civ V's Fall of Rome scenario
+* Civ icon: Civ 5 Goths (Fall of Rome) by Firaxis, edited in Paint.NET
+* [Viking Helmet](https://thenounproject.com/icon/viking-helmet-6465466/) by Lars Meiertoberens - Gadrauht UU, edited to remove horns
 * [Town Hall](https://thenounproject.com/icon/town-hall-1152498/) by Smashicons - Rathaus UB
+
+# The Olmecs assets:
+* [Original mod and leader portrait](https://steamcommunity.com/sharedfiles/filedetails/?id=2829113891) by [Iska](https://steamcommunity.com/profiles/76561198033595020)
+* Civ icon: Civ 6 Aztecs by Firaxis, edited in Paint.NET
+* [Eagle](https://thenounproject.com/icon/eagle-7961537/) by aditya_chan - Eagle Knight UU
+* Eagle Knight sprite edited from AbsoluteUnits' Jaguar
+* [Olmec Head](https://thenounproject.com/icon/olmec-head-199851/) by Alberto Guerra Quintanilla - Colossal Head UB
 
 # The Soviet Union assets:
 * [Original mod and leader portrait](https://steamcommunity.com/sharedfiles/filedetails/?id=2475956936) by [Iska](https://steamcommunity.com/profiles/76561198033595020)
@@ -71,5 +99,7 @@ Unit sprites are from [letstalkaboutdune's](https://github.com/letstalkaboutdune
 * Việt Minh sprite edited from AbsoluteUnits' Infantry
 * [longji rice terraces](https://thenounproject.com/icon/longji-rice-terraces-7175388/) by Anditii Creative - Rice Terrace UB
 
-
-
+# Xia assets:
+* [Original mod, leader portrait, civ icon and Crouching Tiger icon](https://steamcommunity.com/sharedfiles/filedetails/?id=2234941433) by [Iska](https://steamcommunity.com/profiles/76561198033595020)
+* [Brick Kiln](https://thenounproject.com/icon/brick-kiln-5132518/) by Brickclay - Kiln UB
+* Crouching Tiger sprite - AbsoluteUnits' Cannon (unedited)

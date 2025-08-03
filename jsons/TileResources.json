@@ -10,5 +10,17 @@
 			"Doesn't generate naturally",
             "Will not be displayed in Civilopedia"
 		]
+    },
+    {
+        "name": "Banner",
+        "resourceType": "Strategic",
+        "uniques": [
+			"Cannot be traded",
+            "Stockpiled",
+			"Excluded from map editor",
+			"Not shown on world screen <without [Banner]>",
+			"Doesn't generate naturally",
+            "Will not be displayed in Civilopedia"
+		]
     }
 ]

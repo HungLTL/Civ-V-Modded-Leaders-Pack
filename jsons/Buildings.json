@@ -90,5 +90,65 @@
 		"cost": 100,
 		"uniques": ["Removes extra unhappiness from annexed cities"],
 		"requiredTech": "The Wheel"
+	},
+	{
+		"name": "Hov",
+		"replaces": "Market",
+		"uniqueTo": "The Goths",
+		"gold": 2,
+		"happiness": 1,
+		"faith": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"uniques": ["[+20]% Production when constructing [Military] units [in this city]"],
+		"requiredTech": "Currency"
+	},
+	{
+		"name": "Colossal Head",
+		"replaces": "Temple",
+		"uniqueTo": "The Olmecs",
+		"cost": 250,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Pottery",
+		"uniques": ["Destroyed when the city is captured","Cannot be purchased","Unsellable","Triggers a [Colossal Heads of the Olmecs] event <hidden from users>","Comment [Free random Great Person appears upon completion]"]
+	},
+	{
+		"name": "Treasury",
+		"replaces": "Mint",
+		"uniqueTo": "Mali",
+		"maintenance": 0,
+		"hurryCostModifier": 25,
+		"uniques": ["[+2 Gold] from [Gold Ore] tiles [in this city]",
+			"[+2 Gold] from [Silver] tiles [in this city]",
+			"[+2 Gold] from [Salt] tiles [in this city]",
+			"[+1 Happiness] <when number of [Gold] is between [200] and [399]> <on [Standard] game speed> <hidden from users>",
+			"[+2 Happiness] <when number of [Gold] is between [400] and [799]> <on [Standard] game speed> <hidden from users>",
+			"[+3 Happiness] <when number of [Gold] is more than [799]> <on [Standard] game speed> <hidden from users>",
+			"[+1 Happiness] <when number of [Gold] is between [150] and [299]> <on [Quick] game speed> <hidden from users>",
+			"[+2 Happiness] <when number of [Gold] is between [300] and [599]> <on [Quick] game speed> <hidden from users>",
+			"[+3 Happiness] <when number of [Gold] is more than [599]> <on [Quick] game speed> <hidden from users>",
+			"[+1 Happiness] <when number of [Gold] is between [250] and [499]> <on [Epic] game speed> <hidden from users>",
+			"[+2 Happiness] <when number of [Gold] is between [500] and [999]> <on [Epic] game speed> <hidden from users>",
+			"[+3 Happiness] <when number of [Gold] is more than [999]> <on [Epic] game speed> <hidden from users>",
+			"[+1 Happiness] <when number of [Gold] is between [400] and [799]> <on [Marathon] game speed> <hidden from users>",
+			"[+2 Happiness] <when number of [Gold] is between [800] and [1599]> <on [Marathon] game speed> <hidden from users>",
+			"[+3 Happiness] <when number of [Gold] is more than [1599]> <on [Marathon] game speed> <hidden from users>",
+			"Comment [Provides additional [Happiness] based off the total [Gold] reserves in your treasury]"
+		],
+		"requiredTech": "Currency"
+	},
+	{
+		"name": "Kiln",
+		"replaces": "Workshop",
+		"uniqueTo": "Xia",
+		"maintenance": 2,
+		"culture": 2,
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"uniques": ["Provides [1] [Porcelain]"],
+		"requiredTech": "Metal Casting"
 	}
 ]

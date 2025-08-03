@@ -328,5 +328,170 @@
       "civilopediaText": [
           {"text": "Charlemagne, also known as Charles the Great, was a medieval ruler who ruled over much of Western Europe from 768 to 814 AD. He was born in 742 AD and was the son of Pepin the Short, who was the king of the Franks at the time. Charlemagne's reign marked a significant period of cultural and political revival in Europe, and he is considered one of the most influential figures in medieval history."}
       ]
+    },
+    {
+      "name": "Iska_Alaric",
+      "culture": 4,
+      "faith": 7,
+      "food": 5,
+      "gold": 8,
+      "happiness": 5,
+      "production": 6,
+      "science": 4,
+      "military": 9,
+      "aggressive": 7,
+      "declareWar": 9,
+      "commerce": 4,
+      "diplomacy": 6,
+      "loyal": 6,
+      "expansion": 8,
+
+      "priorities": {
+          "Tradition": 4,
+          "Liberty": 9,
+          "Honor": 8,
+          "Commerce": 5,
+          "Patronage": 6,
+          "Piety": 7,
+          "Rationalism": 4,
+          "Freedom": 3,
+          "Autocracy": 9,
+          "Order": 7
+      },
+      "civilopediaText": [
+          {"text": "Alaric I was the first king of the Visigoths, from 395 to 410. He rose to leadership of the Goths who came to occupy Moesia—territory acquired a couple of decades earlier by a combined force of Goths and Alans after the Battle of Adrianople."}
+      ]
+    },
+    {
+      "name": "Iska_Ocelotl",
+      "culture": 6,
+      "faith": 9,
+      "food": 8,
+      "gold": 5,
+      "happiness": 3,
+      "production": 6,
+      "science": 5,
+      "military": 7,
+      "aggressive": 6,
+      "declareWar": 7,
+      "commerce": 5,
+      "diplomacy": 3,
+      "loyal": 4,
+      "expansion": 8,
+
+      "priorities": {
+          "Tradition": 8,
+          "Liberty": 8,
+          "Honor": 6,
+          "Commerce": 4,
+          "Patronage": 4,
+          "Piety": 7,
+          "Rationalism": 5,
+          "Freedom": 5,
+          "Autocracy": 7,
+          "Order": 7
+      },
+      "civilopediaText": [
+          {"text": "Little is directly known about the societal or political structure of Olmec society. Although it is assumed by most researchers that the colossal heads and several other sculptures represent rulers, nothing has been found like the Maya stelae which name specific rulers and provide the dates of their rule. Ocelotl Macocoztic is one of those enigmatic figures whose life is lost to history outside glimpses provided by archaeological peripherals; a true king of the Olmec whose blood and lineage would stretch for generations after his passing."}
+      ]
+    },
+    {
+      "name": "Tomatekh_MansaMusa",
+      "culture": 6,
+      "faith": 9,
+      "food": 6,
+      "gold": 10,
+      "happiness": 7,
+      "production": 5,
+      "science": 8,
+      "military": 6,
+      "aggressive": 5,
+      "declareWar": 5,
+      "commerce": 10,
+      "diplomacy": 7,
+      "loyal": 5,
+      "expansion": 7,
+
+      "priorities": {
+          "Tradition": 5,
+          "Liberty": 8,
+          "Honor": 3,
+          "Commerce": 8,
+          "Patronage": 6,
+          "Piety": 6,
+          "Rationalism": 7,
+          "Freedom": 8,
+          "Autocracy": 6,
+          "Order": 5
+      },
+      "civilopediaText": [
+          {"text": "Musa I, commonly referred to as Mansa Musa, was the tenth Mansa of the Mali Empire. Upon reaching the throne Musa became a feverish Muslim, building countless mosques across the country and making Islam the state religion. The construction of madrasah, such as the University of Sankore, helped establish Mali as one of the learning centers of the Islamic world. Musa is perhaps most famous for his enormous wealth and is believed by many historians to have been the richest person to have ever lived. His famous hajj to Mecca is largely responsible for introducing Mali to the European world and not only caused an economic inflation in the Mediterranean but also indirectly supplied financial support for the Italian renaissance."}
+      ]
+    },
+    {
+      "name": "AisinAlin_Kangxi",
+      "culture": 6,
+      "faith": 4,
+      "food": 6,
+      "gold": 5,
+      "happiness": 6,
+      "production": 6,
+      "science": 4,
+      "military": 8,
+      "aggressive": 4,
+      "declareWar": 7,
+      "commerce": 5,
+      "diplomacy": 5,
+      "loyal": 3,
+      "expansion": 10,
+
+      "priorities": {
+          "Tradition": 3,
+          "Liberty": 8,
+          "Honor": 7,
+          "Commerce": 5,
+          "Patronage": 6,
+          "Piety": 4,
+          "Rationalism": 4,
+          "Freedom": 3,
+          "Autocracy": 8,
+          "Order": 7
+      },
+      "civilopediaText": [
+          {"text": "The Kangxi Emperor, who reigned from 1661 to 1722, was the fourth emperor of the Qing Dynasty and one of the most effective and enlightened rulers in Chinese history. He ascended the throne at the age of seven, but real power was vested in regents until he took personal control of the government at age 14. Known for his long and stable reign, Kangxi was a shrewd military strategist who successfully quelled internal and external threats, including the Revolt of the Three Feudatories and the Dzungar Mongol threat in the northwest. He also initiated the compilation of the Kangxi Dictionary, an immense lexicographical work that remains important to this day. Additionally, the Kangxi Emperor extended the empire's borders through a series of campaigns, incorporating Taiwan and regions of Inner Asia into the Qing Empire."}
+      ]
+    },
+    {
+      "name": "Iska_Yu",
+      "culture": 9,
+      "faith": 9,
+      "food": 7,
+      "gold": 6,
+      "happiness": 6,
+      "production": 8,
+      "science": 6,
+      "military": 4,
+      "aggressive": 3,
+      "declareWar": 5,
+      "commerce": 8,
+      "diplomacy": 8,
+      "loyal": 4,
+      "expansion": 6,
+
+      "priorities": {
+          "Tradition": 8,
+          "Liberty": 8,
+          "Honor": 3,
+          "Commerce": 6,
+          "Patronage": 5,
+          "Piety": 7,
+          "Rationalism": 6,
+          "Freedom": 7,
+          "Autocracy": 5,
+          "Order": 7
+      },
+      "civilopediaText": [
+          {"text": "Yu the Great was a legendary emperor/king in ancient China who was famed for his introduction of flood control, his establishment of the Xia dynasty which inaugurated dynastic rule in China, and his upright moral character. He figures prominently in the Chinese legend of \"Great Yu Who Controlled the Waters\" (Chinese: 大禹治水; pinyin: Dà Yǔ Zhì Shuǐ)."}
+      ]
     }
 ]

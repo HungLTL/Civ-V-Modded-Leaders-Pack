@@ -23,5 +23,63 @@
 		"name": "Heroes of Sumer",
 		"uniques": ["Comment [Clearing a [Barbarian encampment] yields additional rewards]",
 			"Triggers a [Epic Quest] event <upon entering a [Barbarian encampment] tile> <hidden from users>"]
+	},
+	{
+		"name": "[Gadrauht] ability",
+		"uniques": ["[1] Movement <upon turn start> <in [All Road] tiles>"]
+	},
+	{
+		"name": "Can move after attacking",
+		"uniques": ["Can move after attacking"]
+	},
+	{
+		"name": "[Manchu] ability",
+		"uniques": ["May capture killed [Military] units"]
+	},
+	{
+		"name": "[Banner] ability",
+		"uniques": [
+			"[This Unit] gains the [Zheziang Banner] promotion <for [Sword] units> <costs [1] [Banner]> <removing the [[Banner] ability] promotion/status> <when above [0] [Banner]> <hidden from users>",
+			"[This Unit] gains the [Korean Banner] promotion <for [Archery] units> <costs [1] [Banner]> <removing the [[Banner] ability] promotion/status> <when above [0] [Banner]> <hidden from users>",
+			"[This Unit] gains the [Russian Banner] promotion <for [Gunpowder] units> <costs [1] [Banner]> <removing the [[Banner] ability] promotion/status> <when above [0] [Banner]> <hidden from users>",
+			"[This Unit] gains the [97th Regiment] promotion <for [Armored] units> <costs [1] [Banner]> <removing the [[Banner] ability] promotion/status> <when above [0] [Banner]> <hidden from users>",
+			"[This Unit] gains the [Mongolian Banner] promotion <for [Mounted] units> <costs [1] [Banner]> <removing the [[Banner] ability] promotion/status> <when above [0] [Banner]> <hidden from users>",
+			"[This Unit] gains the [Three Feudaltories Junk] promotion <for [Melee Water] units> <costs [1] [Banner]> <removing the [[Banner] ability] promotion/status> <when above [0] [Banner]> <hidden from users>",
+			"[This Unit] gains the [Beiyang Banner] promotion <for [Ranged Water] units> <costs [1] [Banner]> <removing the [[Banner] ability] promotion/status> <when above [0] [Banner]> <hidden from users>",
+			"[This Unit] gains the [Hongipao Banner] promotion <for [Siege] units> <costs [1] [Banner]> <removing the [[Banner] ability] promotion/status> <when above [0] [Banner]> <hidden from users>",
+			"Comment [Spend [Banner]s to receive a unique promotion depending on the unit type]"
+		]
+	},
+	{
+		"name": "Zheziang Banner",
+		"uniques": ["[+15]% Strength <when fighting in [Friendly Land] tiles>","[+50]% Strength <vs [Gunpowder] units>"]
+	},
+	{
+		"name": "Korean Banner",
+		"uniques": ["Ignores terrain cost","Can move after attacking"]
+	},
+	{
+		"name": "Russian Banner",
+		"uniques": ["[1] additional attacks per turn","Double movement in [Snow]","Double movement in [Tundra]"]
+	},
+	{
+		"name": "97th Regiment",
+		"uniques": ["Ignores Zone of Control","Double movement in [Forest]","Double movement in [Jungle]"]
+	},
+	{
+		"name": "Mongolian Banner",
+		"uniques": ["[1] Movement","[+25]% Strength <when attacking>","Earn [100]% of killed [Military] unit's [Strength] as [Golden Age points]"]
+	},
+	{
+		"name": "Three Feudaltories Junk",
+		"uniques": ["[1] Movement","Heals [25] damage if it kills a unit"]
+	},
+	{
+		"name": "Beiyang Banner",
+		"uniques": ["Unit will heal every turn, even if it performs an action","[+15]% Strength bonus for [Military] units within [2] tiles"]
+	},
+	{
+		"name": "Hongipao Banner",
+		"uniques": ["[+50]% Strength <vs cities> <when attacking>","[+50]% XP gained from combat"]
 	}
 ]

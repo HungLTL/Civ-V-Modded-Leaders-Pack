@@ -42,5 +42,70 @@
             "Only available <after founding a Pantheon>", "Only available <after turn number [20]>"]
             }
         ]
+    },
+    {
+        "name": "Colossal Heads of the Olmecs",
+        "text": "Lamat smiles upon us! Our dedication to the gods have not gone unheard, and the divines has blessed one of us to serve them better!",
+        "presentation": "None",
+        "choices": [
+            {
+                "text": "A Great Scientist rises!",
+                "uniques": ["Free [Great Scientist] appears"]
+            },
+            {
+                "text": "A Great Engineer rises!",
+                "uniques": ["Free [Great Engineer] appears"]
+            },
+            {
+                "text": "A Great Merchant rises!",
+                "uniques": ["Free [Great Merchant] appears"]
+            },
+            {
+                "text": "A Great Artist rises!",
+                "uniques": ["Free [Great Artist] appears"]
+            },
+            {
+                "text": "A Great Prophet rises!",
+                "uniques": ["Only available <when religion is enabled>","Free [Great Prophet] appears"]
+            },
+            {
+                "text": "A Great General rises!",
+                "uniques": ["Free [Great General] appears"]
+            },
+            {
+                "text": "A Great Writer rises!",
+                "uniques": ["Only available <if [Civ V Brave New World] is enabled>","Free [Great Writer] appears <if [Civ V Brave New World] is enabled>"]
+            },
+            {
+                "text": "A Great Admiral rises!",
+                "uniques": ["Only available <if [Civ V Brave New World] is enabled>","Only available <when number of [[Coastal] Cities] is more than [0]>","Free [Great Admiral] appears <if [Civ V Brave New World] is enabled>"]
+            },
+            {
+                "text": "A Great Musician rises!",
+                "uniques": ["Only available <if [Civ V Brave New World] is enabled>","Free [Great Musician] appears <if [Civ V Brave New World] is enabled>"]
+            }
+        ]
+    },
+    {
+        "name": "Royal Hajj",
+        "text": "As a deeply spiritual and mercantile people, there is both a trader and a missionary within every individual of our society, and the same can be said of our religious leaders. One of them has undertaken a pilgrimage to a Holy City of a foreign religion, bringing with him a convoy filled with various exotic goods from our Malian markets. Not only has this journey strengthened our own religious fervor by demonstrating to our people the piety of a revered figure, he has also succeeded in selling off his merchandise, netting our treasury a good deal of profit.",
+        "presentation": "Alert",
+        "choices": [
+            {
+                "text": "This bounty is all thanks to God.",
+                "uniques": ["Gain [150] [Gold] <(modified by game speed)> <during the [Ancient era]>","Gain [200] [Gold] <(modified by game speed)> <during the [Classical era]>","Gain [250] [Gold] <(modified by game speed)> <during the [Medieval era]>","Gain [300] [Gold] <(modified by game speed)> <during the [Renaissance era]>","Gain [350] [Gold] <(modified by game speed)> <during the [Industrial era]>","Gain [400] [Gold] <(modified by game speed)> <during the [Modern era]>","Gain [450] [Gold] <(modified by game speed)> <during the [Atomic era]>","Gain [500] [Gold] <(modified by game speed)> <during the [Information era]>","Gain [550] [Gold] <(modified by game speed)> <during the [Future era]>"]
+            }
+        ]
+    },
+    {
+        "name": "River Floods!",
+        "text": "The rivers coursing through our realm have flooded, blessing our lands with the bounties of nature!",
+        "presentation":"None",
+        "choices": [
+            {
+                "text": "Praise the Heavens!",
+                "uniques": ["[+4 Production, +2 Food, +2 Faith] from every [{your} {River}] <for [1] turns>"]
+            }
+        ]
     }
 ]

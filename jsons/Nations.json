@@ -34,7 +34,7 @@
 		"innerColor": [142,30,140],
 		"outerColor": [0,158,25],
 		"uniqueName": "Drive Out the Aggressors",
-		"uniqueText": "All [Military] [Land] units receive free promotions that allow them to fight and manoeuvre more effectively in Rough terrain.",
+		"uniqueText": "All Military Land units receive free promotions that allow them to fight and manoeuvre more effectively in Rough terrain.",
 		"uniques": ["[{Military} {Land} {Melee}] units gain the [Drill I] promotion", "[{Military} {Land} {Ranged}] units gain the [Barrage I] promotion", "[{Military} {Land} {Melee}] units gain the [Woodsman] promotion"],
 		"cities": ["Thăng Long", "Huế", "Hoa Lư", "Đồng Hới", "Quảng Trị", "Đà Nẵng", "Cần Thơ", "Hội An", "Kon Tum", "Mỹ Tho", "Quy Nhơn", "Sài Gòn", "Đà Lạt", "Hải Phòng", "Biên Hòa", "Nha Trang", "Gia Lạc", "Long Biên", "Nam Định", "Thái Nguyên", "Hạ Long", "Vũng Tàu", "Thanh Hóa", "Buôn Ma Thuột", "Việt Trì", "Hải Dương", "Thủ Dầu Một", "Bắc Ninh"],
 		"spyNames": ["Huy", "Khang", "Bảo", "Minh", "Anh", "Vy", "Ngọc", "Khải", "Quân", "Thiệu"]
@@ -163,7 +163,7 @@
 		"name": "Canada",
 		"leaderName": "Wilfrid Laurier",
 		"adjective": ["Canadian"],
-		"startBias": ["Grassland","Forest"],
+		"startBias": ["Forest"],
 		"preferredVictoryType": "Diplomatic",
 		"personality": "Iska_Canada",
 		"favoredReligion": "Christianity",
@@ -398,6 +398,206 @@
 		"spyNames": ["Anselm","Gertrude","Radulf","Adalgar","Ermengarde","Humbert","Irmina","Leutgard","Odo","Waltrude"]
 	},
 	{
+		"name": "The Goths",
+		"leaderName": "Alaric I",
+		"adjective": ["Gothic"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		"personality": "Iska_Alaric",
+		"favoredReligion": "Christianity",
+		
+		"startIntroPart1": "Your men march proudly behind you, brave Alaric, first a soldier, then general, and finally sacker of Rome. You bent to the will of the declining Roman Empire before gathering your own forces and marching through Roman lands, pillaging as you went, before becoming the first in nearly a thousand years to sack the immortal city. Your descendants would go on to found their own true empire, centered at Toulouse, which would hold sway over parts of France and Portugal for many years.",
+		"startIntroPart2": "Fearsome General, your people call for the recreation of a new Gothic Empire, one which will make the exploits and histories of the former seem like the faded dreaming of a dying sun. Will you answer their call to regain your rightful prominence and glory? Will you take up arms and lead your armies to victory? Will you build a civilization that stands the test of time?",
+		
+		"declaringWar": "My warriors will defend your borders from invaders... but who is going to defend you from them?",
+		"attacked": "Another one? Far greater countries than yours have fallen before me.",
+		"defeated": "In death, even the rivers change their course. What legacy shall you leave?",
+		"denounced": "You are as thick as hay. The thicker the hay, the easier it is mowed.",
+		"introduction": "Hail, warrior! I am Alaric of the Goths. That's quite a magnificent city you have there. Let me visit your lands and see if there is anything worth grabbing.",
+		
+		"neutralHello": "Strength and honor guide our paths.",
+		"neutralLetsHearIt": ["What?"],
+		"neutralNo": ["Not now."],
+		"neutralYes": ["You will be spared. For now."],
+
+		"hateHello": "Begone, weakling.",
+		"hateLetsHearIt": ["I said, begone, weakling."],
+		"hateNo": ["What, you daft? Begone!"],
+		"hateYes": ["Hmph. Fine."],
+		
+		"afterPeace": "It is dishonour to be defeated by you.",
+		"tradeRequest": "Come. Take a look at our plunder and bounty from the fools that have crossed paths with us. I guarantee that some of these spoils will pique your interest, somewhat.",
+		"declaringFriendship": "You are as strong in body and spirit as a Goth warrior. We extend our swords to you, friend.",
+
+		"outerColor": [26,26,26],
+		"innerColor": [226, 238, 234],
+		"uniqueName": "Burning Unrest",
+		"uniqueText": "Units heal completely after pillaging a non-[Road] improvement. Upon declaring war on a major civilization, all cities gain a 30% [Production] bonus towards training Military units for 10 turns (on Standard speed), and all Military Units receive +1 Movement for 10 turns.",
+		"uniques": ["[+300]% Health from pillaging tiles","[+1] Movement <for [Military] units> <for [10] turns> <upon declaring war with a major Civilization>","[+30]% Production when constructing [Military] units [in all cities] <for [10] turns> <on [Standard] game speed> <upon declaring war with a major Civilization>","[+30]% Production when constructing [Military] units [in all cities] <for [6] turns> <on [Quick] game speed> <upon declaring war with a major Civilization>","[+30]% Production when constructing [Military] units [in all cities] <for [15] turns> <on [Epic] game speed> <upon declaring war with a major Civilization>","[+30]% Production when constructing [Military] units [in all cities] <for [30] turns> <on [Marathon] game speed> <upon declaring war with a major Civilization>"],
+		"cities": ["Árheimar","Þorenborg","Apulon","Tolosa","Gutiskandja","Reccopolis","Victoriacum","Ologitis","Baiyara","Ebora","Segovia","Balsa","Uxama","Termantia","Toletum","Leptis Magna","Cartennae","Bulla Regia","Lilybaeum","Catane","Cirta","Caralis","Aleria","Panormus","Tacape","Saldae","Caput Vada", "Tricameron","Hadrumetum","Tripoli","Thagaste"],
+		"spyNames": ["Ailwin","Baldric","Gamel","Masci","Savaric","Isolda","Estrilda","Sabelina","Sybilla","Golda"]
+	},
+	{
+		"name": "The Olmecs",
+		"leaderName": "Ocelotl Macocoztic",
+		"adjective": ["Olmec"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Domination",
+		"personality": "Iska_Ocelotl",
+		"favoredReligion": "Christianity",
+		
+		"startIntroPart1": "Your people prostrate before you, exalted Tlatoani Ocelotl Macocoztic, favored son of the feathered serpent and mighty jaguar. After years of conflict amongst neighbouring tribes, you have unified the warring Olmec peoples, sacrificing dissenters in retribution for the insults dealt to you and your sons and daughters. The glory of Tenochtitlan will awe the world, resplendent in radiance, with some of the greatest monuments and architecture your people - and the world - will ever know.",
+		"startIntroPart2": "Son of the Eagle and Jaguar, Ocelotl Macocoztic, lead your people into a new destiny. Let your reach grow long so you may conquer your enemies near and far. The Gods will guide you, and you will in turn guide your loyal citizens to victory. Illustrious Tlatoani, your people once again look to you for leadership and counsel in the coming days. Will you channel the will of the gods and restore your once proud kingdom to its greatest heights? Will you build new monuments to forever enshrine the memories of your people? Can you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "Now we will see if you are cowards or warriors!",
+		"attacked": "Your soldiers will either die on a battlefield or on an altar. It makes no difference to Lamat.",
+		"defeated": "The snake and the eagle foretold this day would come...",
+		"denounced": "Those who are afraid speak loudest. You fear us.",
+		"introduction": "Aha! The gods bring forth a fresh face! Kneel, and praise the sun!",
+		
+		"neutralHello": "It is an honour to meet you.",
+		"neutralLetsHearIt": ["Tell me what you want!"],
+		"neutralNo": ["Not today."],
+		"neutralYes": ["Your gifts are a kind tribute.", "We will house your delegation in a place of honor."],
+
+		"hateHello": "You are a poison to this world. You are evil!",
+		"hateLetsHearIt": ["You test my patience..."],
+		"hateNo": ["You are no friend to the Olmecs. You have no honour."],
+		"hateYes": ["It is settled, then."],
+		
+		"afterPeace": "See how feeble your efforts are? You cannot surprise the mighty Olmec Empire. We see your attack from far away.",
+		"tradeRequest": "Gifts of maize and chocolate are brought to you by my delegation. We offer them to you.",
+		"declaringFriendship": "Let us be joined in friendship against the evils of this world.",
+
+		"outerColor": [42,100,72],
+		"innerColor": [233,216,73],
+		"uniqueName": "Sons and Daughters of Lamat",
+		"uniqueText": "Gain 250 [Golden Age points] upon expending a [Great Person]. Additionally, gain an additional 250 Faith if expending a [Great General], and an additional 20 Production per each era passed if expending a [Great Prophet]. These bonuses may change on different speed settings other than Standard.",
+		"uniques": ["Instantly gain [250] [Golden Age points] <(modified by game speed)> <upon expending a [Great Person] unit>","Gain [250] [Faith] <(modified by game speed)> <upon expending a [Great General] unit>","Gain [20] [Production] <(modified by game speed)> <upon expending a [Great Prophet] unit> <during the [Ancient era]>","Gain [40] [Production] <(modified by game speed)> <upon expending a [Great Prophet] unit> <during the [Classical era]>","Gain [60] [Production] <(modified by game speed)> <upon expending a [Great Prophet] unit> <during the [Medieval era]>","Gain [80] [Production] <(modified by game speed)> <upon expending a [Great Prophet] unit> <during the [Renaissance era]>","Gain [100] [Production] <(modified by game speed)> <upon expending a [Great Prophet] unit> <during the [Industrial era]>","Gain [120] [Production] <(modified by game speed)> <upon expending a [Great Prophet] unit> <during the [Modern era]>","Gain [140] [Production] <(modified by game speed)> <upon expending a [Great Prophet] unit> <during the [Atomic era]>","Gain [160] [Production] <(modified by game speed)> <upon expending a [Great Prophet] unit> <during the [Information era]>", "Gain [180] [Production] <(modified by game speed)> <upon expending a [Great Prophet] unit> <during the [Future era]>"],
+		"cities": ["Tenochtitlán","San Lorenzo","La Venta","Potrero Nuevo","Tres Zapotes","Acayucan","Izapa","Tlatico","Gualupita","Talapcoya","Las Bocas","Auxtlauca","El Viejón","Pijilapan","Palenque","Chichen Itza","Uxmal","Tulum","Copan","Coba","El Mirador","Calakmul","Edzna","Lamanai","Uaxactun","Comalcalco","Piedranegras","Cancuén","Yaxha","Quirigua","Q'umarkaj","Nakbe","Cerros","Xunantunich","Takalik Abaj","Cival","San Bartolo", "Altar de Sacrificios","Seibal","Caracol","Naranjo","Dos Pilas","Mayapan","Ixinche","Zaculeu","Kabah"],
+		"spyNames": ["Camazotz", "Coyopa", "Gukumatz", "Hunahpu", "Huracan", "Ixchel", "Ixtab", "Kukulkán", "Xbalanque", "Zipacna"]
+	},
+	{
+		"name": "Mali",
+		"leaderName": "Mansa Musa",
+		"adjective": ["Malian"],
+		"startBias": ["Plains","Desert"],
+		"preferredVictoryType": "Diplomatic",
+		"personality": "Tomatekh_MansaMusa",
+		"favoredReligion": "Islam",
+		
+		"startIntroPart1": "Praise to you Musa, Mansa of the Mali Empire, humble servant of God. You rule a land of limitless wealth at the heart of trans-Saharan trade. Rising from the ashes of the late Ghana Empire, the Mali astutely established themselves as the dominant force of West Africa. By converting to Islam, Great King, you established a legacy that would endure to this day. Timbuktu quickly became a center of trade and learning heralded throughout the Islamic world, and your famous hajj to Mecca cemented your empire's place in the hearts and minds of Europe. The Mali forever changed the cultural milieu of West Africa, spreading its language, laws, and customs along the Niger River. Yet, infighting would be Mali's downfall, leaving her weak and divided before the march of the Songhai.",
+		"startIntroPart2": "King of Kings, you held claim to a vast wealth that to this day has never been surpassed. Your mere generosity threatened to bankrupt empires, and your piety inspired an architectural renaissance. What more could such a great king achieve? Can you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "Enough! My forbearance ends here! We must have war between us, instead of a false peace!",
+		"attacked": "Your transgressions are as deep as oceans. O God... grant that I may chastise this one.",
+		"defeated": "Wealth is fleeting; learning is vanity. All I have done, O God, I did in your name.",
+		"denounced": "Serpent. Tempter. Wretch. Look to the hour of your chastisement, for it is coming soon.",
+		"introduction": "I am Sultan Musa, lord of Mali and, thanks be to God, a very, very rich man. I am pleased to meet you.",
+		
+		"neutralHello": "May peace and God's wealth be upon you.",
+		"neutralLetsHearIt": ["Yes?","Proceed."],
+		"neutralNo": ["No.", "Of course not."],
+		"neutralYes": ["The sincerity of your gift is its own blessing.","Very well.","Praise God!"],
+
+		"hateHello": "O God, why do you permit this dark-hearted one to wield the power of kings?",
+		"hateLetsHearIt": ["And?","Go away."],
+		"hateNo": ["That is unacceptable!","You cannot be serious!"],
+		"hateYes": ["Oh, very well.", "Alright, if I must."],
+		
+		"afterPeace": "Praise God for your wise judgment in this matter.",
+		"tradeRequest": "Please accept these simple gifts of indigo cloth, Kinkeliba tea... and one hundred porters carrying sacks of gold dust.",
+		"declaringFriendship": "Do we not gain much from our bond? Shall we tell the world we stand as friends?",
+
+		"outerColor": [87,41,41],
+		"innerColor": [216,199,138],
+		"uniqueName": "Royal Hajj",
+		"uniqueText": "Trade Routes generate +1 additional [Faith]. [Great Prophet]s may visit a foreign Holy City to generate a one time [Gold] bonus (this does not consume the unit).",
+		"uniques": ["[+1 Faith] from each Trade Route"],
+		"cities": ["Nyeni","Ka-ba","Bamako","Kumbi Saleh","Jenné","Timbuktu","Gao","Awli","Wadan","Teodeni","Katsina","Zaria","Bilma","Ngazargumu","Tura","Muli","Toron","Awdaghost","Tadmekka","Tekedda","Agadez","Kano"],
+		"spyNames": ["Mahamane","Yacouba","Issa","Seydou","Amadou","Aminata","Fatim","Djeneba","Kadiatou","Massaba"]
+	},
+	{
+		"name": "Manchu",
+		"leaderName": "Kangxi",
+		"adjective": ["Manchurian"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		"personality": "AisinAlin_Kangxi",
+		"favoredReligion": "Confucianism",
+		
+		"startIntroPart1": "Long live Emperor Kangxi. As the fourth emperor of the Qing dynasty, you ruled the great territory of Manchu, China, and so on. In an era rife with rebellion, you achieved the daunting task of maintaining the stability of your dynasty and your vast realm from its enemies and safeguard its people, completing the conquest of China and seizing the Mandate of Heaven from the decadent and undeserving Ming dynasty. But you were no mere brute, for during your reign, you also played a great role in developing both the Manchu and Chinese cultures, as you encourage education and literacy, compiled the dictionary still bearing your name to this day, and reformed the bureaucracy using the inherited Imperial Chinese institutions and traditional Confucian ideology. Such was a great reign, with your Empire's might grew day by day, that it was after your death that the Empire, sadly, slowly started to crumble, and now your people wander without a leader.",
+		"startIntroPart2": "Great Emperor, your people call upon you once more to lead them to battle and conquest. Will the world once again tremble at the thunderous sound of your Banner cavalry, sweeping down from the steppes? Will you build an empire that stands the test of time?",
+		
+		"declaringWar": "Greed can do naught but cause others misfortune. It is time my Banners taught you what that means.",
+		"attacked": "Have you not heard about the Revolt of the Three Feudaltories? No matter, you will find out what happened to them soon enough.",
+		"defeated": "The sun sets upon the Qing dynasty today. And I only have myself to blame.",
+		"denounced": "If you must resort to insults to project your authority, you have no authority.",
+		"introduction": "I am Khan of the Manchu, and Emperor of all China. I have already heard of your fame, so I have kept a respective eye on you all this time.",
+		
+		"neutralHello": "You now stand before the ruler of the known world.",
+		"neutralLetsHearIt": ["Why do you approach?","What is your business here?"],
+		"neutralNo": ["I must decline.", "I cannot accept this."],
+		"neutralYes": ["I always appreciate commerce between our nations.", "You are welcome."],
+
+		"hateHello": "Although you are my enemy now, I especially meet you today because I had admired you.",
+		"hateLetsHearIt": ["I want you to express your respect to me."],
+		"hateNo": ["This is unacceptable.","Not in a thousand years, never."],
+		"hateYes": ["If I must."],
+		
+		"afterPeace": "You cannot defeat the House of Aisin Gioro.",
+		"tradeRequest": "I think we can achieve a mutual improvement by distributing many goods between one another.",
+		"declaringFriendship": "I believe that both our nations can achieve many great advances if we cooperate more on the world stage. Do you?",
+
+		"outerColor": [252,225,70],
+		"innerColor": [41,103,155],
+		"uniqueName": "Aisin",
+		"uniqueText": "All Mounted units have a chance to capture defeated enemy units in battle. Start with a free [Horses] resource and a [Horseman] after settling your capital city. After unlocking the [Eight Banners] unique unit, all Military units (except the [Eight Banners] themselves) may spend collected [Banner]s to receive a unique promotion depending on the unit type.",
+		"uniques": ["[Mounted] units gain the [[Manchu] ability] promotion","[{non-[Eight Banners]} {Military}] units gain the [[Banner] ability] promotion","Free [Horseman] appears <upon founding a city> <when number of [Cities] is less than [2]>","Provides [1] [Horses] <if [Palace] is constructed>"],
+		"cities": ["Fe Ala","Yenden","Xingjing","Mukden","Fushun","Qinghe","Sarhu","Girin Ula","Nanling","Tieling","Ningdota","Siping","Liaoyuan","Changchun","Harbin"],
+		"spyNames": ["Nara","Donggiya","Xianyu","Susu Gioro","Fuca","Sahalian","Guuwalgiya","Tongyangiolo","Wanggiyan","Niohuru"]
+	},
+	{
+		"name": "Xia",
+		"leaderName": "Yu",
+		"adjective": ["Xia"],
+		"startBias": ["River"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Iska_Yu",
+		"favoredReligion": "Taoism",
+		
+		"startIntroPart1": "Blessings of your ancestors upon you, Yu the Great, first Emperor of the Xia dynasty. Your people have lived along the banks of the Yellow River since time immemorial, but it is you who are remembered in legend as being the master of the most devestating floods in the memory of your people. Although no written records survive, you are the remembered as the founder of the first true dynasty of China - Xia. You are praised as the head of the Five Kings of the Water Immortals even today, as a man worthy of honor and emulation.",
+		"startIntroPart2": "O mighty emperor, your people turn to you to once more to reclaim the glory of China! Will you see to it that your empire rises again, bringing peace and order to all? Will you make China once again center of the world? Can you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "I have warned you to never cross the Yellow River for so many times. Now, it is time you face its wrath.",
+		"attacked": "You may as well seek to conquer heaven itself. Let us see how high your arrows fly.",
+		"defeated": "The defeat of Xia is a bitter pill to swallow. If I cannot protect my people, I will meet my fate like a warrior.",
+		"denounced": "You are a mere nuisance. Do not make the mistake of thinking you can challenge the might of Xia.",
+		"introduction": "I am Yu, the one who tamed the floods and founder of the Xia dynasty. If you are worthy, I am open to an alliance.",
+		
+		"neutralHello": "May the will of the heavens guide us both.",
+		"neutralLetsHearIt": ["How can I assist you?","What can I do for you today?"],
+		"neutralNo": ["We already have some of those.", "I must decline.", "I am not sure if this is what we needed."],
+		"neutralYes": ["May you learn from this example.", "Let us both benefit."],
+
+		"hateHello": "Step away from me, serpent.",
+		"hateLetsHearIt": ["The barking of dogs.", "I shall pay no heed to bugs."],
+		"hateNo": ["A friend is an equal. You are not.", "We cannot accept such a thing."],
+		"hateYes": ["Let us get this over with.", "Are we finished?"],
+		
+		"afterPeace": "The Mandate of Heaven is such a weighty responsibility.",
+		"tradeRequest": "Is there something of value from your civilization that Xia can offer in exchange?",
+		"declaringFriendship": "We are building a coalition of like-minded people. Shall you take part?",
+
+		"outerColor": [0,96,17],
+		"innerColor": [235,213,68],
+		"uniqueName": "Great Yu Who Controlled The Waters",
+		"uniqueText": "A Flood occurs every 10 turns. During a Flood, all [River] tiles you control gain +4 [Production], +2 [Food] and +2 [Faith] for that turn.",
+		"uniques": ["Triggers a [River Floods!] event <upon turn start> <every [10] turns> <after turn number [1]>"],
+		"cities": ["Anyi","Chu","Qiongshi","Zhenxun","Diqiu","Laoqiu","Jiyuan","Xihe","Zhen","Song","Zhenguan","Kuaiji","Beifudi","Chong","Zoutu","Bing","Yang","You","Qi","Beichuan","Weizhou","Xuan","Tai","Yushan","Kaifeng","Xichuan"],
+		"spyNames": ["Li", "Chen", "Zhang", "Liu", "Yang", "Huang", "Zhao", "Wu", "Zhou", "Sun"]
+	},
+	{
 		"name": "Wolin",
 		"adjective": ["Wolinian"],
 		"cityStateType": "Militaristic",
@@ -458,5 +658,17 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [255, 255, 255],
 		"cities": ["Balkh"]
+	},
+	{
+		"name": "Managua",
+		"adjective": ["Nicaraguan"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "Your entire empire suffers from delusions of adequacy. This is a formal declaration of WAR! Our armies shall meet on the field of battle!",
+		"attacked": "We have no business with bloodthirsty tyrants such as yourself. Begone.",
+		"defeated": "You will pay for this in time, villain! We swear it!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [18, 188, 221],
+		"cities": ["Managua"]
 	}
 ]
