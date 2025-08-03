@@ -513,7 +513,7 @@
 		"innerColor": [216,199,138],
 		"uniqueName": "Royal Hajj",
 		"uniqueText": "Trade Routes generate +1 additional [Faith]. [Great Prophet]s may visit a foreign Holy City to generate a one time [Gold] bonus (this does not consume the unit).",
-		"uniques": ["[+1 Faith] from each Trade Route"],
+		"uniques": ["[+1 Faith] from each Trade Route","[Great Prophet] units gain the [Royal Hajjaj] promotion"],
 		"cities": ["Nyeni","Ka-ba","Bamako","Kumbi Saleh","Jenné","Timbuktu","Gao","Awli","Wadan","Teodeni","Katsina","Zaria","Bilma","Ngazargumu","Tura","Muli","Toron","Awdaghost","Tadmekka","Tekedda","Agadez","Kano"],
 		"spyNames": ["Mahamane","Yacouba","Issa","Seydou","Amadou","Aminata","Fatim","Djeneba","Kadiatou","Massaba"]
 	},

@@ -81,5 +81,9 @@
 	{
 		"name": "Hongipao Banner",
 		"uniques": ["[+50]% Strength <vs cities> <when attacking>","[+50]% XP gained from combat"]
+	},
+	{
+		"name": "Royal Hajjaj",
+		"uniques": ["Triggers a [Royal Hajj] event <in [{Foreign} {Holy}] cities> <removing the [[Royal Hajjaj] ability] promotion/status> <hidden from users>"]
 	}
 ]
