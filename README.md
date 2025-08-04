@@ -32,8 +32,8 @@ This mod adds the following Civilizations:
 * **Treasury**: Unique Mint replacement. Unlike the standard building, the Treasury requires neither a source of Gold nor Silver to be built, and also adds +2 additional Gold to Salt tiles. More importantly, each Treasury generates additional Happiness depending on the amount of reserved liquid Gold you have.
 
 ### Manchu, led by Kangxi
-* **Aisin**: All Mounted units have a chance to capture defeated enemy units in battle. Start with a free Horse resource and a Horseman after settling your capital city. After unlocking the Eight Banners unique unit, all Military units (except the Eight Banners themselves) may spend collected Banners to receive a unique promotion depending on the unit type.
-* **Eight Banners**: Unique Renaissance Era Mounted Archery unit, replacing the Lancer. While slower than the standard unit, the Eight Banners possesses a ranged attack, does not have the usual penalty to attacking cities, and upgrades to a Machine Gun instead of an Anti-Tank Gun. Furthermore, units killed by an Eight Banners regiment provide a Banner.
+* **Aisin**: All Mounted units have a chance to capture defeated enemy units in battle. Start with a free Horseman after settling your capital city. After unlocking the Eight Banners unique unit, all Military units (except the Eight Banners themselves) may spend collected Banners to receive a unique promotion depending on the unit type.
+* **Eight Banners**: Unique Renaissance Era Mounted Archery unit, replacing the Lancer. While slower than the standard unit, the Eight Banners possesses a ranged attack, does not have the usual penalty to attacking cities, and upgrades to a Machine Gun instead of an Anti-Tank Gun. Furthermore, units killed by an Eight Banners regiment have a chance to drop a Banner.
 * **Clan**: Unique Ancient Era Civilian unit, replacing the Settler. Has +1 additional Movement and is cheaper to train.
 
 ### People's Republic of China, led by Mao Zedong

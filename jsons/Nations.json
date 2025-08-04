@@ -552,8 +552,8 @@
 		"outerColor": [252,225,70],
 		"innerColor": [41,103,155],
 		"uniqueName": "Aisin",
-		"uniqueText": "All Mounted units have a chance to capture defeated enemy units in battle. Start with a free [Horses] resource and a [Horseman] after settling your capital city. After unlocking the [Eight Banners] unique unit, all Military units (except the [Eight Banners] themselves) may spend collected [Banner]s to receive a unique promotion depending on the unit type.",
-		"uniques": ["[Mounted] units gain the [[Manchu] ability] promotion","[{non-[Eight Banners]} {Military}] units gain the [[Banner] ability] promotion","Free [Horseman] appears <upon founding a city> <when number of [Cities] is less than [2]>","Provides [1] [Horses] <if [Palace] is constructed>"],
+		"uniqueText": "All Mounted units have a chance to capture defeated enemy units in battle. Start with a free [Horseman] after settling your capital city. After unlocking the [Eight Banners] unique unit, all Military units (except the [Eight Banners] themselves) may spend collected [Banner]s to receive a unique promotion depending on the unit type.",
+		"uniques": ["[Mounted] units gain the [[Manchu] ability] promotion","[{non-[Eight Banners]} {Military}] units gain the [[Banner] ability] promotion","Free [Horseman] appears <upon founding a city> <when number of [Cities] is less than [2]>"],
 		"cities": ["Fe Ala","Yenden","Xingjing","Mukden","Fushun","Qinghe","Sarhu","Girin Ula","Nanling","Tieling","Ningdota","Siping","Liaoyuan","Changchun","Harbin"],
 		"spyNames": ["Nara","Donggiya","Xianyu","Susu Gioro","Fuca","Sahalian","Guuwalgiya","Tongyangiolo","Wanggiyan","Niohuru"]
 	},

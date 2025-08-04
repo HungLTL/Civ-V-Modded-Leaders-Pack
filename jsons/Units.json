@@ -178,7 +178,7 @@
 		"upgradesTo": "Cavalry",
 		"promotions": ["Shock I"],
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
-		"attackSound": "horse"
+		"attackSound": "metalhit"
 	},
 	{
 		"name": "Sofa",
@@ -218,7 +218,7 @@
 		"cost": 185,
 		"requiredTech": "Metallurgy",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","Never appears as a Barbarian unit","Instantly provides [1] [Banner] <upon defeating a [Military] unit>"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","Never appears as a Barbarian unit","Instantly provides [1] [Banner] <upon defeating a [Military] unit> <with [66]% chance>"],
 		"promotions": ["Formation I","[Manchu] ability"],
 		"upgradesTo": "Machine Gun",
 		"obsoleteTech": "Ballistics",
