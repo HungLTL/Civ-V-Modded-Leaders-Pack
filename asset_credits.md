@@ -103,3 +103,9 @@ Unit sprites are from [letstalkaboutdune's](https://github.com/letstalkaboutdune
 * [Original mod, leader portrait, civ icon and Crouching Tiger icon](https://steamcommunity.com/sharedfiles/filedetails/?id=2234941433) by [Iska](https://steamcommunity.com/profiles/76561198033595020)
 * [Brick Kiln](https://thenounproject.com/icon/brick-kiln-5132518/) by Brickclay - Kiln UB
 * Crouching Tiger sprite - AbsoluteUnits' Cannon (unedited)
+
+# Yuan assets:
+* [Original mod and leader portrait](https://steamcommunity.com/sharedfiles/filedetails/?id=3034869731) by [Iska](https://steamcommunity.com/profiles/76561198033595020), civ icon by Rhye
+* [Ger](https://thenounproject.com/icon/ger-254607/) by Laurens - Ordu UB
+* [mongol warrior hat](https://thenounproject.com/icon/mongol-warrior-hat-4900692/) by Brickclay - Mangudai UU
+* Mangudai sprite - AbsoluteUnits' Keshik (unedited)

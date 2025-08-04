@@ -150,5 +150,16 @@
 		"hurryCostModifier": 25,
 		"uniques": ["Provides [1] [Porcelain]"],
 		"requiredTech": "Metal Casting"
+	},
+	{
+		"name": "Ordu",
+		"replaces": "Barracks",
+		"uniqueTo": "Yuan",
+		"cost": 90,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"happiness": 2,
+		"uniques": ["New [Military] units start with [20] XP [in this city]", "Destroyed when the city is captured","All newly-trained [Military] units [in this city] receive the [Great Generals I] promotion"],
+		"requiredTech": "Agriculture"
 	}
 ]

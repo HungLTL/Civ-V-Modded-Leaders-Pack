@@ -239,5 +239,23 @@
 		"upgradesTo": "Artillery",
 		"obsoleteTech": "Dynamite",
 		"attackSound": "cannon"
+	},
+	{
+		"name": "Mangudai",
+		"unitType": "Archery",
+		"replaces": "Knight",
+		"uniqueTo": "Yuan",
+		"range": 2,
+		"movement": 5,
+		"strength": 15,
+		"rangedStrength": 16,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"requiredResource": "Horses",
+		"upgradesTo": "Cavalry",
+		"obsoleteTech": "Military Science",
+		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"promotions": ["[Mangudai] ability"],
+		"attackSound": "arrow"
 	}
 ]

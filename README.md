@@ -83,3 +83,8 @@ This mod adds the following Civilizations:
 * **Great Yu Who Controlled The Waters**: A Flood occurs every 10 turns. During a Flood, all River tiles you control gain +4 Production, +2 Food and +2 Faith for that turn.
 * **Crouching Tiger**: Unique Medieval Era Archery unit, replacing the Crossbowman. This unit has a higher Ranged Strength, deals an additional 30% damage to non-Mounted Melee units when attacking, and upgrades to an Artillery instead of a Gatling Gun. However, it has reduced attack range and is more expensive to train than a standard Crossbowman.
 * **Kiln**: Unique Workshop replacement. Provides +2 additional Culture and a copy of Porcelain when built, at the cost of a standard Workshop's Production bonuses.
+
+### Yuan, led by Kublai Khan
+* **Golden Highways of the Great Yuan**: Your Capital and all cities connected to it gain +10% Production and Gold for each Trade Route. Units on or adjacent to a Road or Railroad not on hostile territory gain a 33% Combat Strength bonus.
+* **Mangudai**: Unique Medieval Era Mounted Archery unit, replacing the Knight. In comparison to the Mongolian Keshik, the Mangudai has the same stats, but has the ability to pillage without movement costs and gains an additional 15% Combat bonus when stacked with a Great General instead of the Keshik's faster Great General generation and XP gain.
+* **Ordu**: Unique Barracks replacement. More expensive than the standard building, the Ordu is available right at the start, provides +2 Happiness, and units trained in a city with an Ordu start with an additional +5 XP as well as the ability to generate Great Generals faster.

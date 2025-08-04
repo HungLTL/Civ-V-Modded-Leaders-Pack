@@ -493,5 +493,38 @@
       "civilopediaText": [
           {"text": "Yu the Great was a legendary emperor/king in ancient China who was famed for his introduction of flood control, his establishment of the Xia dynasty which inaugurated dynastic rule in China, and his upright moral character. He figures prominently in the Chinese legend of \"Great Yu Who Controlled the Waters\" (Chinese: 大禹治水; pinyin: Dà Yǔ Zhì Shuǐ)."}
       ]
+    },
+    {
+      "name": "Iska_KublaiKhan",
+      "culture": 3,
+      "faith": 4,
+      "food": 7,
+      "gold": 4,
+      "happiness": 2,
+      "production": 5,
+      "science": 4,
+      "military": 6,
+      "aggressive": 5,
+      "declareWar": 7,
+      "commerce": 10,
+      "diplomacy": 5,
+      "loyal": 7,
+      "expansion": 9,
+
+      "priorities": {
+          "Tradition": 5,
+          "Liberty": 8,
+          "Honor": 6,
+          "Commerce": 7,
+          "Patronage": 4,
+          "Piety": 3,
+          "Rationalism": 4,
+          "Freedom": 3,
+          "Autocracy": 7,
+          "Order": 8
+      },
+      "civilopediaText": [
+          {"text": "Born to the lineage of the great Genghis Khan, Kublai Khan is renowned as one of history's most illustrious rulers, ascending as the fifth Khagan of the Mongol Empire and the founder of China's Yuan Dynasty. Though born in the rugged terrains of Mongolia, Kublai set his eyes on the sophisticated culture and untapped potentials of China, eventually establishing his rule there. Kublai Khan's early years were marked by military expeditions and a thirst for consolidation, stretching the borders of an already expansive empire."}
+      ]
     }
 ]

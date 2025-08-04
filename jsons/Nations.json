@@ -562,7 +562,7 @@
 		"leaderName": "Yu",
 		"adjective": ["Xia"],
 		"startBias": ["River"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Cultural",
 		"personality": "Iska_Yu",
 		"favoredReligion": "Taoism",
 		
@@ -596,6 +596,46 @@
 		"uniques": ["Triggers a [River Floods!] event <upon turn start> <every [10] turns> <after turn number [1]>"],
 		"cities": ["Anyi","Chu","Qiongshi","Zhenxun","Diqiu","Laoqiu","Jiyuan","Xihe","Zhen","Song","Zhenguan","Kuaiji","Beifudi","Chong","Zoutu","Bing","Yang","You","Qi","Beichuan","Weizhou","Xuan","Tai","Yushan","Kaifeng","Xichuan"],
 		"spyNames": ["Li", "Chen", "Zhang", "Liu", "Yang", "Huang", "Zhao", "Wu", "Zhou", "Sun"]
+	},
+	{
+		"name": "Yuan",
+		"leaderName": "Kublai Khan",
+		"adjective": ["Yuan"],
+		"startBias": ["Avoid [Desert]"],
+		"preferredVictoryType": "Domination",
+		"personality": "Iska_KublaiKhan",
+		"favoredReligion": "Buddhism",
+		
+		"startIntroPart1": "Greetings, esteemed Kublai Khan, the illustrious ruler of the magnificent Yuan Dynasty! Your rule blends the wisdom of Chinese governance with the indomitable spirit of Mongol horsemen, and your voice rings as a beacon that both guides and intimidates. As a scion of the mighty lineage of Temüjin, you have taken the foundations of the Mongol Empire and stretched them further than ever before, even incorporating Chinese elements into the imperial tapestry. Through shrewd statesmanship and enlightened patronage of arts and sciences, you have made the Yuan Dynasty a center of world civilization. Expanding beyond the Mongol steppes, your realm has swallowed entire nations, and at its peak, stretched from the Korean Peninsula to Eastern Europe.",
+		"startIntroPart2": "Great Emperor Shizu, your subjects look to you for a renewed era of glory and expansion. Will the world quiver once again as your forces sweep across the land? Will you build an empire that stands the test of time?",
+		
+		"declaringWar": "The clouds of dust on the horizon are thousands of horsemen, coming with war. Prepare yourself.",
+		"attacked": "I have gathered soldiers from every corner of my realm. Be honored that I take such pains to go to war with you.",
+		"defeated": "Now go. Leave me to my sorrow.",
+		"denounced": "Whether you acted through ignorance or intent, the result is the same.",
+		"introduction": "I am Kublai. In time, the whole world shall know me as Emperor and Great Khan.",
+		
+		"neutralHello": "Salutations, wayfarer.",
+		"neutralLetsHearIt": ["What has guided you to Yuan lands on this day?","What business do you have?"],
+		"neutralNo": ["We have enough of what you offer.", "This offer cannot be any profitable."],
+		"neutralYes": ["The grasses sing of you and your proposal.", "Excellent! Let us celebrate this deal with a round of airag!", "Yes! May profits pour from both sides."],
+
+		"hateHello": "A day is coming when your kingdom will be consumed like grass in a wildfire. On that day, I shall rejoice.",
+		"hateLetsHearIt": ["You have annoyed me for too long.","Explain this intrusion, swiftly. Then leave me."],
+		"hateNo": ["We have no need for your leftovers.", "Offer a better deal or a better ruler will come and overthrow you."],
+		"hateYes": ["It pains me, but I must accept.", "Good. Now, take your leave."],
+		
+		"afterPeace": "Enter into friendly relations with each other from now on. We think all countries belong to one family. ",
+		"tradeRequest": "A camel train approaches your borders, bearing silks and spices, horse milk and mutton, and tales of the great Khan.",
+		"declaringFriendship": "Come, enjoy good wine and low-voiced songs, let us drink and let the sun and moon come and go!",
+
+		"outerColor": [57,32,33],
+		"innerColor": [249,174,96],
+		"uniqueName": "Golden Highways of the Great Yuan",
+		"uniqueText": "Your Capital and all cities connected to it gain +10% [Production] and [Gold] for each Trade Route. Units on or adjacent to a [Road] or [Railroad] not on hostile territory gain a 33% Combat Strength bonus.",
+		"uniques": ["[+33]% Strength <in [{non-[Enemy Land]} {All Road}] tiles>","[+33]% Strength <in tiles adjacent to [{non-[Enemy Land]} {All Road}] tiles>","[+10]% [Production] [in capital] <for every [[in all cities connected to capital] Cities]>","[+10]% [Gold] [in capital] <for every [[in all cities connected to capital] Cities]>","[+10]% [Production] [in all cities connected to capital] <for every [[in all cities connected to capital] Cities]>","[+10]% [Gold] [in all cities connected to capital] <for every [[in all cities connected to capital] Cities]>"],
+		"cities": ["Dadu","Shangdu","Hangzhou","Suzhou","Ningbo","Qingzhou","Kaifeng","Linhai","Quanzhou","Fuzhou","Ganzhou","Chengdu","Lanzhou","Xianyang","Liaoyang","Tianjin","Guangzhou","Dali","Yunnanfu","Mingzhou"],
+		"spyNames": ["Jia Sidao","Bayan","Yelü Chucai","Subutai","Zhenjin","Marco Polo","Jebe","Yuan Chonghuan","Nayan","Burundai"]
 	},
 	{
 		"name": "Wolin",
