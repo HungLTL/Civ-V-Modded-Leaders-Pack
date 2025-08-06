@@ -20,12 +20,12 @@
 		"neutralHello": "Once again, I bid you welcome to Vietnam.",
 		"neutralLetsHearIt": ["Speak, and I shall listen.","We are all ears.","You have never plotted our destruction, so let's hear it."],
 		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralYes": ["It is good that you are willing to work fairly with us.","Good health to you.","Alright!"],
 
 		"hateHello": "Vietnam is watching you. Get on with it, scum.",
 		"hateLetsHearIt": ["Do you really come in peace?","You know what happens to our enemies, right?","What?"],
 		"hateNo": ["You ARE plotting against us!", "I cannot allow this.", "We do not need you or your deals."],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateYes": ["We will oversee this deal with suspicion.","We done?","...Fine."],
 		
 		"afterPeace": "There! I have taken you off the revenge list.",
 		"tradeRequest": "Vietnam's delegation approaches your nation, bearing our trade offer, as well as bird's nest soup, abalone, deer's tendon, and water from the Hàm Long well.",
@@ -35,7 +35,7 @@
 		"outerColor": [0,158,25],
 		"uniqueName": "Drive Out the Aggressors",
 		"uniqueText": "All Military Land units receive free promotions that allow them to fight and manoeuvre more effectively in Rough terrain.",
-		"uniques": ["[{Military} {Land} {Melee}] units gain the [Drill I] promotion", "[{Military} {Land} {Ranged}] units gain the [Barrage I] promotion", "[{Military} {Land} {Melee}] units gain the [Woodsman] promotion"],
+		"uniques": ["[{Military} {Land} {Melee}] units gain the [Drill I] promotion", "[{Military} {Land} {Ranged}] units gain the [Barrage I] promotion", "[{Military} {Land}] units gain the [Woodsman] promotion"],
 		"cities": ["Thăng Long", "Huế", "Hoa Lư", "Đồng Hới", "Quảng Trị", "Đà Nẵng", "Cần Thơ", "Hội An", "Kon Tum", "Mỹ Tho", "Quy Nhơn", "Sài Gòn", "Đà Lạt", "Hải Phòng", "Biên Hòa", "Nha Trang", "Gia Lạc", "Long Biên", "Nam Định", "Thái Nguyên", "Hạ Long", "Vũng Tàu", "Thanh Hóa", "Buôn Ma Thuột", "Việt Trì", "Hải Dương", "Thủ Dầu Một", "Bắc Ninh"],
 		"spyNames": ["Huy", "Khang", "Bảo", "Minh", "Anh", "Vy", "Ngọc", "Khải", "Quân", "Thiệu"]
 	},
@@ -275,7 +275,7 @@
 		"uniqueText": "+3% [Production] in all cities for every World Wonder constructed in the capital. Gain a free [Courthouse] in conquered cities. Technologies are nearly impossible to be stolen from this civilization. -20% Golden Age Length and Great People generation rate after adopting any Industrial Era ideological policy branch.",
 		"uniques": ["Instantly gain [1] [Soviet Pride] <upon constructing [World Wonder] [in capital]>","[+3]% [Production] [in all cities] <for every [Soviet Pride]>","Gain a free [Courthouse] [in annexed cities] <upon conquering a city>","[-10000]% enemy spy effectiveness [in all cities]","[-20]% Great Person generation [in all cities] <after adopting [Order]>","[-20]% Golden Age length <after adopting [Order]>","[-20]% Great Person generation [in all cities] <after adopting [Autocracy]>","[-20]% Golden Age length <after adopting [Autocracy]>","[-20]% Great Person generation [in all cities] <after adopting [Freedom]>","[-20]% Golden Age length <after adopting [Freedom]>"],
 		"cities": ["Moscow","Leningrad","Stalingrad","Novgorod","Rostov","Yaroslavl","Sverdlovsk","Yakutsk","Vladivostok","Smolensk","Chkalov","Krasnoyarsk","Khabarovsk","Bryansk","Kalinin","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Kuybyshev","Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Molotov","Voronezh","Pskov","Staraya Russa","Kostoma","Gorkiy","Suzdal","Magnitogorsk"],
-		"spyNames": ["Alexei", "Lena", "Dmitry", "Anastasia", "Tatiana", "Boris", "Doktor Seriy", "Mikhail", "Natacha", "Zmeya"]
+		"spyNames": ["K. Molody", "I. Zuzemil", "V. Lokhov", "V. Nuykin", "P. Sudoplatov", "Y. Andropov", "A. Sakharovsky", "Z. Voskresenskaya", "Doktor Seriy", "Zephyr", "Aida"]
 	},
 	{
 		"name": "Georgia",
@@ -353,7 +353,7 @@
 		"innerColor": [66, 106, 246],
 		"uniqueName": "Land of Milk and Honey",
 		"uniqueText": "Unimproved [Oasis] tiles yield +2 [Gold], [Food] and [Faith]. Gain a free [Great Prophet] upon researching [Writing].",
-		"uniques": ["[+2 Gold] from [{unimproved} {Oasis}] tiles [in all cities]", "[+2 Food] from [{unimproved} {Oasis}] tiles [in all cities]", "[+2 Faith] from [{unimproved} {Oasis}] tiles [in all cities]", "Free [Great Prophet] appears <upon discovering [Writing] technology>"],
+		"uniques": ["[+2 Gold, +2 Food, +2 Faith] from [{unimproved} {Oasis}] tiles [in all cities]", "Free [Great Prophet] appears <upon discovering [Writing] technology>"],
 		"cities": ["Jerusalem","Hebron","Gaza","Jericho","Bethlehem","Nazareth","Meggido","Beer-Sheba","Judah","Hazor","Michmash","Caesarea","Emmaus","Tirzah","Gilgal","Joppa","Shiloh","Ashdod","Ashkelon","Samara","Gezer","Gibeon","Tamar","Beth-horon","Geba","Gath","Avaris","Jabesh-Gilead","Dan"],
 		"spyNames": ["Josue","Esther","Judas","Rut","Shammua","Shaphat","Caleb","Joshua","Ammiel","Geuel"]
 	},
@@ -426,7 +426,7 @@
 		"hateYes": ["Hmph. Fine."],
 		
 		"afterPeace": "It is dishonour to be defeated by you.",
-		"tradeRequest": "Come. Take a look at our plunder and bounty from the fools that have crossed paths with us. I guarantee that some of these spoils will pique your interest, somewhat.",
+		"tradeRequest": "Come. Take a look at our plunder and bounty from the fools that have provoked our wrath. I guarantee that some of these spoils will pique your interest, somewhat.",
 		"declaringFriendship": "You are as strong in body and spirit as a Goth warrior. We extend our swords to you, friend.",
 
 		"outerColor": [26,26,26],

@@ -44,7 +44,7 @@ This mod adds the following Civilizations:
 ### Sumer, led by Gilgamesh
 * **Epic Quest**: Units have an additional 50% Combat Strength against Barbarians. Destroying a Barbarian Encampment yields an Ancient Ruin reward.
 * **War Cart**: Unique Ancient Era Mounted unit, replacing the Horseman. Excels at fighting in open terrain, and unlike the Horseman, is available sooner upon researching The Wheel and nullifies the Spearman and Pikeman's anti-cavalry ability.
-* **Ziggurat**: Unique Sumerian improvement, unlocked after researching The Wheel. Can only be built on resourceless Flat land tiles that are not adjacent to another Ziggurat. Provides +1 Food and +2 Science to the tile it is built on, with an additional +1 Food after researching Civil Service and +2 Culture after researching Archaeology.
+* **Ziggurat**: Unique Sumerian improvement, unlocked after researching The Wheel. Can only be built on resourceless Flat land tiles that are on a river and not adjacent to another Ziggurat. Provides +1 Food and +2 Science to the tile it is built on, with an additional +1 Food after researching Civil Service and +2 Culture after researching Archaeology.
 * The city-state of Ur is replaced by Auckland.
 
 ### The Cree, led by Poundmaker

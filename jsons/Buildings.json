@@ -53,7 +53,7 @@
 		"requiredBuilding": "Opera House",
 		"maintenance": 3,
 		"requiredTech": "Radio",
-		"uniques": ["Destroyed when the city is captured"]
+		"uniques": ["Destroyed when the city is captured","Comment [Provides 1 [Great Work of Music] Slot] <if [Civ V Brave New World] is enabled>"]
 	},
 	{
         "name": "Narkomat",
@@ -136,7 +136,7 @@
 			"[+1 Happiness] <when number of [Gold] is between [400] and [799]> <on [Marathon] game speed> <hidden from users>",
 			"[+2 Happiness] <when number of [Gold] is between [800] and [1599]> <on [Marathon] game speed> <hidden from users>",
 			"[+3 Happiness] <when number of [Gold] is more than [1599]> <on [Marathon] game speed> <hidden from users>",
-			"Comment [Provides additional [Happiness] based off the total [Gold] reserves in your treasury]"
+			"Comment [Provides additional [Happiness] based off your total [Gold] reserves]"
 		],
 		"requiredTech": "Currency"
 	},
