@@ -7,7 +7,16 @@
 		"maintenance": 1,
 		"hurryCostModifier": 40,
 		"cost": 75,
-		"uniques": ["[+1 Food] from [Deer] tiles [in this city]", "[+1 Food] from [Bananas] tiles [in this city]", "[+1 Food] from [Wheat] tiles [in this city]","[+3 Food] from [Marsh] tiles [in this city]","[+1 Food] from [{Hill} {Farm}] tiles [in this city] <after discovering [Construction]>", "[+2 Food] from [Mountain] tiles [in this city] <after discovering [Construction]>", "[+1 Culture] from [{Hill} {Farm}] tiles [in this city] <after discovering [Flight]>", "[+3 Culture] from [Mountain] tiles [in this city] <after discovering [Flight]>"],
+		"uniques": [
+			"[+1 Food] from [Deer] tiles [in this city]",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]",
+			"[+3 Food] from [Marsh] tiles [in this city]",
+			"[+1 Food] from [{Hill} {Farm}] tiles [in this city] <after discovering [Construction]>",
+			"[+2 Food] from [Mountain] tiles [in this city] <after discovering [Construction]>",
+			"[+1 Culture] from [{Hill} {Farm}] tiles [in this city] <after discovering [Flight]>",
+			"[+3 Culture] from [Mountain] tiles [in this city] <after discovering [Flight]>"
+		],
 		"requiredTech": "Pottery"
 	},
 	{
@@ -17,7 +26,12 @@
 		"uniqueTo": "The Cree",
 		"happiness": 2,
 		"hurryCostModifier": 25,
-		"uniques": ["[+1 Food] from [Pasture] tiles [in this city]", "[+1 Food] from [Camp] tiles [in this city]", "[+2 Gold] from [Pasture] tiles [in this city] <after discovering [Navigation]>", "[+2 Gold] from [Camp] tiles [in this city] <after discovering [Navigation]>"],
+		"uniques": [
+			"[+1 Food] from [Pasture] tiles [in this city]",
+			"[+1 Food] from [Camp] tiles [in this city]",
+			"[+2 Gold] from [Pasture] tiles [in this city] <after discovering [Navigation]>",
+			"[+2 Gold] from [Camp] tiles [in this city] <after discovering [Navigation]>"
+		],
 		"requiredTech": "Trapping"
 	},
 	{
@@ -29,7 +43,11 @@
 		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
-		"uniques": ["[+1 Faith] per [3] population [in this city]", "Only available <when religion is enabled>", "Destroyed when the city is captured"]
+		"uniques": [
+			"[+1 Faith] per [3] population [in this city]",
+			"Only available <when religion is enabled>",
+			"Destroyed when the city is captured"
+		]
 	},
 	{
 		"name": "Tim Hortons",
@@ -38,7 +56,10 @@
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 25,
 		"maintenance": 2,
-		"uniques": ["[+10]% Production when constructing [All] buildings [in this city]","[+1 Food] per [4] population [in this city]"],
+		"uniques": [
+			"[+10]% Production when constructing [All] buildings [in this city]",
+			"[+1 Food] per [4] population [in this city]"
+		],
 		"requiredTech": "Economics"
 	},
 	{
@@ -53,7 +74,10 @@
 		"requiredBuilding": "Opera House",
 		"maintenance": 3,
 		"requiredTech": "Radio",
-		"uniques": ["Destroyed when the city is captured","Comment [Provides 1 [Great Work of Music] Slot] <if [Civ V Brave New World] is enabled>"]
+		"uniques": [
+			"Destroyed when the city is captured",
+			"Comment [Provides 1 [Great Work of Music] Slot] <if [Civ V Brave New World] is enabled>"
+		]
 	},
 	{
         "name": "Narkomat",
@@ -63,7 +87,10 @@
         "maintenance": 1,
         "hurryCostModifier": 10,
 		"percentStatBonus": {"production": 15},
-        "uniques": ["[-25]% enemy spy effectiveness [in this city]","[+2 Culture, +2 Science] per [5] social policies adopted"],
+        "uniques": [
+			"[-25]% enemy spy effectiveness [in this city]",
+			"[+2 Culture, +2 Science] per [5] social policies adopted"
+		],
         "requiredTech": "Electricity"
     },
 	{
@@ -77,7 +104,10 @@
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
 		"requiredTech": "Chivalry",
-		"uniques": ["Destroyed when the city is captured","[+3 Faith] [in this city] <when at war>"]
+		"uniques": [
+			"Destroyed when the city is captured",
+			"[+3 Faith] [in this city] <when at war>"
+		]
 	},
 	{
 		"name": "Rathaus",
@@ -88,7 +118,9 @@
 		"production": 3,
 		"hurryCostModifier": 50,
 		"cost": 100,
-		"uniques": ["Removes extra unhappiness from annexed cities"],
+		"uniques": [
+			"Removes extra unhappiness from annexed cities"
+		],
 		"requiredTech": "The Wheel"
 	},
 	{
@@ -101,7 +133,9 @@
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"gold": 25},
-		"uniques": ["[+20]% Production when constructing [Military] units [in this city]"],
+		"uniques": [
+			"[+20]% Production when constructing [Military] units [in this city]"
+		],
 		"requiredTech": "Currency"
 	},
 	{
@@ -113,7 +147,13 @@
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Pottery",
-		"uniques": ["Destroyed when the city is captured","Cannot be purchased","Unsellable","Triggers a [Colossal Heads of the Olmecs] event <hidden from users>","Comment [Free random Great Person appears upon completion]"]
+		"uniques": [
+			"Destroyed when the city is captured",
+			"Cannot be purchased",
+			"Unsellable",
+			"Triggers a [Colossal Heads of the Olmecs] event <hidden from users>",
+			"Comment [Free random Great Person appears upon completion]"
+		]
 	},
 	{
 		"name": "Treasury",
@@ -121,7 +161,8 @@
 		"uniqueTo": "Mali",
 		"maintenance": 0,
 		"hurryCostModifier": 25,
-		"uniques": ["[+2 Gold] from [Gold Ore] tiles [in this city]",
+		"uniques": [
+			"[+2 Gold] from [Gold Ore] tiles [in this city]",
 			"[+2 Gold] from [Silver] tiles [in this city]",
 			"[+2 Gold] from [Salt] tiles [in this city]",
 			"[+1 Happiness] <when number of [Gold] is between [200] and [399]> <on [Standard] game speed> <hidden from users>",
@@ -148,7 +189,9 @@
 		"culture": 2,
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
-		"uniques": ["Provides [1] [Porcelain]"],
+		"uniques": [
+			"Provides [1] [Porcelain]"
+		],
 		"requiredTech": "Metal Casting"
 	},
 	{
@@ -159,7 +202,11 @@
 		"hurryCostModifier": 40,
 		"maintenance": 1,
 		"happiness": 2,
-		"uniques": ["New [Military] units start with [20] XP [in this city]", "Destroyed when the city is captured","All newly-trained [Military] units [in this city] receive the [Great Generals I] promotion"],
+		"uniques": [
+			"New [Military] units start with [20] XP [in this city]",
+			"Destroyed when the city is captured",
+			"All newly-trained [Military] units [in this city] receive the [Great Generals I] promotion"
+		],
 		"requiredTech": "Agriculture"
 	}
 ]

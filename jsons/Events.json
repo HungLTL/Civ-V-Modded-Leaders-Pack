@@ -26,7 +26,7 @@
             },
             {
                 "text": "We have recovered advanced weapons from the encampment!",
-                "uniques": ["[This Unit] upgrades for free including special upgrades","Only available <before the [Renaissance era]>"]
+                "uniques": ["[This Unit] upgrades for free including special upgrades","Only available <every [30] turns> <on [Standard] game speed>","Only available <every [20] turns> <on [Quick] game speed>","Only available <every [45] turns> <on [Epic] game speed>","Only available <every [90] turns> <on [Marathon] game speed>"]
             },
             {
                 "text": "We have recovered a crudely-drawn map detailing locations of this barbarian clan's subordinate tribes!",
@@ -40,6 +40,10 @@
                 "text": "We have rescued a prophet from the encampment!",
                 "uniques": ["Only available <when religion is enabled>", "Gain enough Faith for [33]% of a Great Prophet", "Unavailable <after generating a Great Prophet>",
             "Only available <after founding a Pantheon>", "Only available <after turn number [20]>"]
+            },
+            {
+                "text": "We have recovered religious texts from the encampment!",
+                "uniques": ["Only available <when religion is enabled>", "Gain [20]-[40] [Faith] <(modified by game speed)>", "Only available <after generating a Great Prophet>"]
             }
         ]
     },

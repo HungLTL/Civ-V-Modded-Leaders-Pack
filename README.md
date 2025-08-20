@@ -22,7 +22,7 @@ This mod adds the following Civilizations:
 * The city-state of Jerusalem is replaced by Balkh.
 
 ### Khmer, led by Jayavarman VII
-* **Great Barays**: Farms produce +1 additional Food when built next to City Centers, and +1 Faith when built next to a Holy Site. City Centers with an Aqueduct built provide +1 Happiness, and Farms build next to them provide an additional +1 Food.
+* **Great Barays**: Farms produce +1 additional Food when built next to City Centers, and +1 Faith when built next to a Holy Site. City Centers with an Aqueduct built provide +1 Happiness, and Farms built next to them provide an additional +1 Food.
 * **Domrey**: Unique Medieval Era Siege unit, replacing the Trebuchet. In addition to its higher Combat Strength, this unit has an additional movement point and can fire without having to set up.
 * **Prasat**: Unique Temple replacement. Provides only +1 base Faith instead of 2 like the usual Temple, but in return, pays half the maintenance cost and provides an additional +1 Faith for every 3 citizens in the city where it is built.
 
@@ -32,7 +32,7 @@ This mod adds the following Civilizations:
 * **Treasury**: Unique Mint replacement. Unlike the standard building, the Treasury requires neither a source of Gold nor Silver to be built, and also adds +2 additional Gold to Salt tiles. More importantly, each Treasury generates additional Happiness depending on the amount of reserved liquid Gold you have.
 
 ### Manchu, led by Kangxi
-* **Aisin**: All Mounted units have a chance to capture defeated enemy units in battle. Start with a free Horseman after settling your capital city. After unlocking the Eight Banners unique unit, all Military units (except the Eight Banners themselves) may spend collected Banners to receive a unique promotion depending on the unit type.
+* **Aisin**: All Mounted units have a chance to capture defeated enemy units in battle. Start with a free Horseman after settling your Capital. After unlocking the Eight Banners unique unit, all Military units (except the Eight Banners themselves) may spend collected Banners to receive a unique promotion depending on the unit type.
 * **Eight Banners**: Unique Renaissance Era Mounted Archery unit, replacing the Lancer. While slower than the standard unit, the Eight Banners possesses a ranged attack, does not have the usual penalty to attacking cities, and upgrades to a Machine Gun instead of an Anti-Tank Gun. Furthermore, units killed by an Eight Banners regiment have a chance to drop a Banner.
 * **Clan**: Unique Ancient Era Civilian unit, replacing the Settler. Has +1 additional Movement and is cheaper to train.
 
@@ -43,7 +43,7 @@ This mod adds the following Civilizations:
 
 ### Sumer, led by Gilgamesh
 * **Epic Quest**: Units have an additional 50% Combat Strength against Barbarians. Destroying a Barbarian Encampment yields an Ancient Ruin reward.
-* **War Cart**: Unique Ancient Era Mounted unit, replacing the Horseman. Excels at fighting in open terrain, and unlike the Horseman, is available sooner upon researching The Wheel and nullifies the Spearman and Pikeman's anti-cavalry ability.
+* **War Cart**: Unique Ancient Era Mounted unit, replacing the Horseman. Excels at fighting in open terrain, and unlike the Horseman, does not require Horses, is available sooner upon researching The Wheel and nullifies the Spearman and Pikeman's anti-cavalry ability.
 * **Ziggurat**: Unique Sumerian improvement, unlocked after researching The Wheel. Can only be built on resourceless Flat land tiles that are on a river and not adjacent to another Ziggurat. Provides +1 Food and +2 Science to the tile it is built on, with an additional +1 Food after researching Civil Service and +2 Culture after researching Archaeology.
 * The city-state of Ur is replaced by Auckland.
 

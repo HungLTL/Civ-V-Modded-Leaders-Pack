@@ -35,7 +35,11 @@
 		"outerColor": [0,158,25],
 		"uniqueName": "Drive Out the Aggressors",
 		"uniqueText": "All Military Land units receive free promotions that allow them to fight and manoeuvre more effectively in Rough terrain.",
-		"uniques": ["[{Military} {Land} {Melee}] units gain the [Drill I] promotion", "[{Military} {Land} {Ranged}] units gain the [Barrage I] promotion", "[{Military} {Land}] units gain the [Woodsman] promotion"],
+		"uniques": [
+			"[{Military} {Land} {Melee}] units gain the [Drill I] promotion",
+			"[{Military} {Land} {Ranged}] units gain the [Barrage I] promotion",
+			"[{Military} {Land}] units gain the [Woodsman] promotion"
+		],
 		"cities": ["Thăng Long", "Huế", "Hoa Lư", "Đồng Hới", "Quảng Trị", "Đà Nẵng", "Cần Thơ", "Hội An", "Kon Tum", "Mỹ Tho", "Quy Nhơn", "Sài Gòn", "Đà Lạt", "Hải Phòng", "Biên Hòa", "Nha Trang", "Gia Lạc", "Long Biên", "Nam Định", "Thái Nguyên", "Hạ Long", "Vũng Tàu", "Thanh Hóa", "Buôn Ma Thuột", "Việt Trì", "Hải Dương", "Thủ Dầu Một", "Bắc Ninh"],
 		"spyNames": ["Huy", "Khang", "Bảo", "Minh", "Anh", "Vy", "Ngọc", "Khải", "Quân", "Thiệu"]
 	},
@@ -74,8 +78,13 @@
 		"outerColor": [34,53,110],
 		"innerColor": [77,163,86],
 		"uniqueName": "Iron Confederacy",
-		"uniqueText": "Gain 10% additional City-State influence from gifting [Gold], and 10 additional Influence from gifting [Military] units. Trade Routes provide +2 additional [Food]. Pay 25% less for [Road] and [Railroad] maintenance.",
-		"uniques": ["Gifts of Gold to City-States generate [10]% more Influence","Gain [10] Influence with a [Military] gift to a City-State","[+2 Food] from each Trade Route", "[-25]% maintenance on road & railroads"],
+		"uniqueText": "Gain 15% additional City-State influence from gifting [Gold], and 15 additional Influence from gifting [Military] units. Trade Routes provide +2 additional [Food]. Pay 25% less for [Road] and [Railroad] maintenance.",
+		"uniques": [
+			"Gifts of Gold to City-States generate [15]% more Influence",
+			"Gain [15] Influence with a [Military] gift to a City-State",
+			"[+2 Food] from each Trade Route",
+			"[-25]% maintenance on road & railroads"
+		],
 		"cities": ["Mikisew Wacihk", "Atakakup", "Pîhtokahânapiwiyin", "Mistahi Sipiy", "Mistawasis", "Wîhkasko Kîsikân", "Mahkwe-sakahikan", "Maskotêw", "Paskwâwaskîhk", "Piyesiw-Awasis", "Pipikisis", "Kinoseo Sakahikan", "Kâpawe'kowiskowam", "Misinipe", "Muscowpetung", "Kawacatoose", "Wâpamekustwi", "Okanese", "Chemwawin", "Kâkîwistahaw", "Nekaneet", "Kâwawachikamach", "Natuashish", "Wâpimaskwa", "Wâskahikanihk", "Papew", "Kâ-pawâkaskitok", "Ochapowace", "Tataskweyak"],
 		"spyNames": ["Wîsahkecâhk", "Mâhcâpiyiw", "Isapâskân", "Kêpêskawêw", "Nakamapîtam", "Pêtikakahkewin", "Sikotomakahk", "Apihtawikosisân", "Mâmikiskowin", "Kîpisahamîw"]
 	},
@@ -114,8 +123,13 @@
 		"outerColor": [154, 135, 40],
 		"innerColor": [50,89,159],
 		"uniqueName": "Great Barays",
-		"uniqueText": "[Farm]s produce +1 additional [Food] when built next to [City center]s, and +1 [Faith] when built next to a [Holy site]. [City center]s with an [Aqueduct] built provide +1 [Happiness], and [Farm]s build next to them provide an additional +1 [Food].",
-		"uniques": ["[+1 Happiness] from every [Aqueduct]", "[+1 Food] from every [Farm] <in tiles adjacent to [City center] tiles>", "[+1 Food] from every [Farm] <in cities with a [Aqueduct]> <in tiles adjacent to [City center] tiles>", "[+1 Faith] from every [Farm] <in tiles adjacent to [Holy site] tiles>"],
+		"uniqueText": "[Farm]s produce +1 additional [Food] when built next to [City center]s, and +1 [Faith] when built next to a [Holy site]. [City center]s with an [Aqueduct] built provide +1 [Happiness], and [Farm]s built next to them provide an additional +1 [Food].",
+		"uniques": [
+			"[+1 Happiness] from every [Aqueduct]",
+			"[+1 Food] from every [Farm] <in tiles adjacent to [City center] tiles>",
+			"[+1 Food] from every [Farm] <in cities with a [Aqueduct]> <in tiles adjacent to [City center] tiles>",
+			"[+1 Faith] from every [Farm] <in tiles adjacent to [Holy site] tiles>"
+		],
 		"cities": ["Angkor Thom", "Angkor Wat", "Hariharalaya", "Yasodharapura", "Mahendraparvata", "Vimayapura", "Indrapura", "Lingapura", "Preah Vihear", "Bhavapura", "Kampong Svay", "Nagarajayasri", "Vyadhapura", "Chaturmukha", "Dvirada", "Rayabihara", "Amarendrapura", "Phanom Rung", "Isanapura", "Muang Tam", "Angkor Borei", "Banteay Kdei", "Phetchaburi", "Chaiya", "Isanapura", "Pre Rup", "Beng Mealea", "Lavodayapura", "Sreshthapura"],
 		"spyNames": ["Sokha", "Visay", "Ratana", "Chey", "Monkol", "Sopheak", "Kanha", "Pheara", "Bopha", "Rakia"]
 	},
@@ -155,7 +169,10 @@
 		"innerColor": [243,181,45],
 		"uniqueName": "Epic Quest",
 		"uniqueText": "Units have an additional 50% Combat Strength against [Barbarians]. Destroying a [Barbarian encampment] yields an [Ancient ruins] reward.",
-		"uniques": ["[+50]% Strength <vs [Barbarian] units>", "[{Military} {Land}] units gain the [Heroes of Sumer] promotion"],
+		"uniques": [
+			"[+50]% Strength <vs [Barbarian] units>",
+			"[{Military} {Land}] units gain the [Heroes of Sumer] promotion"
+		],
 		"cities": ["Uruk", "Eridu", "Kish", "Ur", "Lagash", "Nippur", "Bad Tibira", "Sippar", "Shuruppak", "Adab", "Isin", "Larak", "Abu Salabikh", "Akshak", "Umma", "Larsa", "Hamazi", "Girsu", "Jemdet Nasr", "Nina", "Kuara", "Dilbat", "Kutha", "Marad", "Zabalam", "Kisurra", "Pazurish Dagan", "Harbidum", "Kesh"],
 		"spyNames": ["Enkidu", "Lugalbanda", "Ningal", "Enheduanna", "Shargun", "Nusimud", "Utu", "Dilmun", "Eanna", "Nebukad"]
 	},
@@ -194,7 +211,13 @@
 		"outerColor": [255,255,255],
 		"innerColor": [178,28,29],
 		"uniqueName": "Great White North",
-		"uniques": ["[+1 Gold] from every [Mine]","[+1 Gold] from every [Camp]","[+1 Gold] from every [Strategic resource]","[+1 Production] from every [Lumber mill]"],
+		"uniqueText": "[Mine]s, [Camp]s and Strategic Resources produce +1 additional [Gold]. [Lumber mill]s provide +1 additional [Production].",
+		"uniques": [
+			"[+1 Gold] from every [Mine]",
+			"[+1 Gold] from every [Camp]",
+			"[+1 Gold] from every [Strategic resource]",
+			"[+1 Production] from every [Lumber mill]"
+		],
 		"cities": ["Ottawa", "Toronto", "Montréal", "Vancouver", "Calgary", "Edmonton", "Winnipeg", "Québec", "Hamilton", "Kitchener", "London", "St. Catharines", "Niagara", "Halifax", "Oshawa", "Victoria", "Windsor", "Saskatoon", "Regina", "Sherbrooke"],
 		"spyNames": ["John", "William", "James", "Robert", "Joseph", "Mary", "Barbara", "Linda", "Patricia", "Susan"]
 	},
@@ -233,7 +256,17 @@
 		"innerColor": [228, 196, 112],
 		"uniqueName": "Great Leap Forward",
 		"uniqueText": "Upon entering a new era, all your cities enter 3 turns of Cultural Revolution, during which they provide neither [Gold] nor [Science], lose [Culture], and starve in exchange for a quadruple boost to [Production]. Additionally, if entering either the Medieval, Industrial or Atomic eras, gain a free Social policy.",
-		"uniques": ["[-150]% [Food] [in all cities] <upon entering a new era> <starting from the [Classical era]>  <for [4] turns>", "[-150]% [Culture] [in all cities] <upon entering a new era> <starting from the [Classical era]> <for [4] turns>", "[-100]% [Gold] [in all cities] <upon entering a new era> <starting from the [Classical era]> <for [4] turns>", "[-100]% [Science] [in all cities] <upon entering a new era> <starting from the [Classical era]> <for [4] turns>","[+300]% [Production] [in all cities] <upon entering a new era> <starting from the [Classical era]> <for [4] turns>", "Free Social Policy <upon entering the [Medieval era]>", "Free Social Policy <upon entering the [Industrial era]>", "Free Social Policy <upon entering the [Atomic era]>", "Free Social Policy <upon entering the [Future era]>"],
+		"uniques": [
+			"[-150]% [Food] [in all cities] <upon entering a new era> <starting from the [Classical era]> <for [4] turns>",
+			"[-150]% [Culture] [in all cities] <upon entering a new era> <starting from the [Classical era]> <for [4] turns>",
+			"Nullifies [Gold] [in all cities] <upon entering a new era> <starting from the [Classical era]> <for [4] turns>",
+			"Nullifies [Science] [in all cities] <upon entering a new era> <starting from the [Classical era]> <for [4] turns>",
+			"[+300]% [Production] [in all cities] <upon entering a new era> <starting from the [Classical era]> <for [4] turns>",
+			"Free Social Policy <upon entering the [Medieval era]>",
+			"Free Social Policy <upon entering the [Industrial era]>",
+			"Free Social Policy <upon entering the [Atomic era]>",
+			"Free Social Policy <upon entering the [Future era]>"
+		],
 		"cities": ["Beijing","Shanghai","Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong","Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","Taipei","Shenyang","Taiyuan","Tainan","Dalian","Lijiang","Wuxi","Suzhou","Maoming","Shaoguan","Yangjiang","Heyuan","Huangshi","Yichang","Yingtian","Xinyu","Xinzheng","Handan","Dunhuang","Gaoyu","Nantong","Weifang","Xikang"],
 		"spyNames": ["Li", "Chen", "Zhang", "Liu", "Yang", "Huang", "Zhao", "Wu", "Zhou", "Sun"]
 	},
@@ -273,7 +306,18 @@
 		"innerColor": [228, 196, 112],
 		"uniqueName": "The Iron Curtain",
 		"uniqueText": "+3% [Production] in all cities for every World Wonder constructed in the capital. Gain a free [Courthouse] in conquered cities. Technologies are nearly impossible to be stolen from this civilization. -20% Golden Age Length and Great People generation rate after adopting any Industrial Era ideological policy branch.",
-		"uniques": ["Instantly gain [1] [Soviet Pride] <upon constructing [World Wonder] [in capital]>","[+3]% [Production] [in all cities] <for every [Soviet Pride]>","Gain a free [Courthouse] [in annexed cities] <upon conquering a city>","[-10000]% enemy spy effectiveness [in all cities]","[-20]% Great Person generation [in all cities] <after adopting [Order]>","[-20]% Golden Age length <after adopting [Order]>","[-20]% Great Person generation [in all cities] <after adopting [Autocracy]>","[-20]% Golden Age length <after adopting [Autocracy]>","[-20]% Great Person generation [in all cities] <after adopting [Freedom]>","[-20]% Golden Age length <after adopting [Freedom]>"],
+		"uniques": [
+			"Instantly gain [1] [Soviet Pride] <upon constructing [World Wonder] [in capital]>",
+			"[+3]% [Production] [in all cities] <for every [Soviet Pride]>",
+			"Gain a free [Courthouse] [in annexed cities] <upon conquering a city>",
+			"[-10000]% enemy spy effectiveness [in all cities]",
+			"[-20]% Great Person generation [in all cities] <after adopting [Order]>",
+			"[-20]% Golden Age length <after adopting [Order]>",
+			"[-20]% Great Person generation [in all cities] <after adopting [Autocracy]>",
+			"[-20]% Golden Age length <after adopting [Autocracy]>",
+			"[-20]% Great Person generation [in all cities] <after adopting [Freedom]>",
+			"[-20]% Golden Age length <after adopting [Freedom]>"
+		],
 		"cities": ["Moscow","Leningrad","Stalingrad","Novgorod","Rostov","Yaroslavl","Sverdlovsk","Yakutsk","Vladivostok","Smolensk","Chkalov","Krasnoyarsk","Khabarovsk","Bryansk","Kalinin","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Kuybyshev","Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Molotov","Voronezh","Pskov","Staraya Russa","Kostoma","Gorkiy","Suzdal","Magnitogorsk"],
 		"spyNames": ["K. Molody", "I. Zuzemil", "V. Lokhov", "V. Nuykin", "P. Sudoplatov", "Y. Andropov", "A. Sakharovsky", "Z. Voskresenskaya", "Doktor Seriy", "Zephyr", "Aida"]
 	},
@@ -313,7 +357,11 @@
 		"innerColor": [210, 123, 40],
 		"uniqueName": "Strength in Unity",
 		"uniqueText": "During a Golden Age, all your tiles produce +2 additional [Gold], and the [Culture] and [Production] output of all your cities are increased by 30%.",
-		"uniques": ["[+2 Gold] from [your] tiles [in all cities] <during a Golden Age>","[+30]% [Production] [in all cities] <during a Golden Age>", "[+30]% [Culture] [in all cities] <during a Golden Age>"],
+		"uniques": [
+			"[+2 Gold] from [your] tiles [in all cities] <during a Golden Age>",
+			"[+30]% [Production] [in all cities] <during a Golden Age>",
+			"[+30]% [Culture] [in all cities] <during a Golden Age>"
+		],
 		"cities": ["Tbilisi","Kutaisi","Batumi","Rustavi","Tskhumi","Gori","Telavi","Poti","Mtskheta","Zugdidi","Akhalkalaki","Kaspi","Tskhinvali","Omalo","Tsageri","Zestafoni","Bichvinta","Borjomi","Tsalka","Oni","Tianeti","Tmogvi","Akhaltsikhe","Geguti","Nicopsia","Dmanisi","Urbnisi","Mutso","Akhali Atoni"],
 		"spyNames": ["Alexandre","Baadur","Boris","Davit","Gaioz","Irakli","Mikheil","Petre","Revaz","Tamazi"]
 	},
@@ -353,7 +401,10 @@
 		"innerColor": [66, 106, 246],
 		"uniqueName": "Land of Milk and Honey",
 		"uniqueText": "Unimproved [Oasis] tiles yield +2 [Gold], [Food] and [Faith]. Gain a free [Great Prophet] upon researching [Writing].",
-		"uniques": ["[+2 Gold, +2 Food, +2 Faith] from [{unimproved} {Oasis}] tiles [in all cities]", "Free [Great Prophet] appears <upon discovering [Writing] technology>"],
+		"uniques": [
+			"[+2 Gold, +2 Food, +2 Faith] from [{unimproved} {Oasis}] tiles [in all cities]",
+			"Free [Great Prophet] appears <upon discovering [Writing] technology>"
+		],
 		"cities": ["Jerusalem","Hebron","Gaza","Jericho","Bethlehem","Nazareth","Meggido","Beer-Sheba","Judah","Hazor","Michmash","Caesarea","Emmaus","Tirzah","Gilgal","Joppa","Shiloh","Ashdod","Ashkelon","Samara","Gezer","Gibeon","Tamar","Beth-horon","Geba","Gath","Avaris","Jabesh-Gilead","Dan"],
 		"spyNames": ["Josue","Esther","Judas","Rut","Shammua","Shaphat","Caleb","Joshua","Ammiel","Geuel"]
 	},
@@ -393,7 +444,13 @@
 		"innerColor": [44,55,154],
 		"uniqueName": "The Iron Crown",
 		"uniqueText": "Upon conquering a city, gain an [Inquisitor] and a [Culture] boost scaling with the number of cities you have conquered (150 on Standard per annexed/puppeted city, counted seperately). +2% Great Person generation rate in your Capital for every conquered city in your Empire.",
-		"uniques": ["Free [Inquisitor] appears <upon conquering a city> <after founding a religion>","Gain [150] [Culture] <(modified by game speed)> <for every [[Annexed] Cities]> <upon conquering a city>","Gain [150] [Culture] <(modified by game speed)> <for every [[Puppeted] Cities]> <upon conquering a city>","[+2]% Great Person generation [in capital] <for every [[Annexed] Cities]>","[+2]% Great Person generation [in capital] <for every [[Puppeted] Cities]>"],
+		"uniques": [
+			"Free [Inquisitor] appears <upon conquering a city> <after founding a religion>",
+			"Gain [150] [Culture] <(modified by game speed)> <for every [[Annexed] Cities]> <upon conquering a city>",
+			"Gain [150] [Culture] <(modified by game speed)> <for every [[Puppeted] Cities]> <upon conquering a city>",
+			"[+2]% Great Person generation [in capital] <for every [[Annexed] Cities]>",
+			"[+2]% Great Person generation [in capital] <for every [[Puppeted] Cities]>"
+		],
 		"cities": ["Aachen","Paris","Tours","Orleans","Rouen","Metz","Trier","Reims","Mainz","Cologne","Worms","Speyer","Strasbourg","Narbonne","Avignon"],
 		"spyNames": ["Anselm","Gertrude","Radulf","Adalgar","Ermengarde","Humbert","Irmina","Leutgard","Odo","Waltrude"]
 	},
@@ -433,7 +490,14 @@
 		"innerColor": [226, 238, 234],
 		"uniqueName": "Burning Unrest",
 		"uniqueText": "Units heal completely after pillaging a non-[Road] improvement. Upon declaring war on a major civilization, all cities gain a 30% [Production] bonus towards training Military units for 10 turns (on Standard speed), and all Military Units receive +1 Movement for 10 turns.",
-		"uniques": ["[+300]% Health from pillaging tiles","[+1] Movement <for [Military] units> <for [10] turns> <upon declaring war with a major Civilization>","[+30]% Production when constructing [Military] units [in all cities] <for [10] turns> <on [Standard] game speed> <upon declaring war with a major Civilization>","[+30]% Production when constructing [Military] units [in all cities] <for [6] turns> <on [Quick] game speed> <upon declaring war with a major Civilization>","[+30]% Production when constructing [Military] units [in all cities] <for [15] turns> <on [Epic] game speed> <upon declaring war with a major Civilization>","[+30]% Production when constructing [Military] units [in all cities] <for [30] turns> <on [Marathon] game speed> <upon declaring war with a major Civilization>"],
+		"uniques": [
+			"[+300]% Health from pillaging tiles",
+			"[+1] Movement <for [Military] units> <for [10] turns> <upon declaring war on [Major] Civilizations>",
+			"[+30]% Production when constructing [Military] units [in all cities] <for [10] turns> <on [Standard] game speed> <upon declaring war on [Major] Civilizations>",
+			"[+30]% Production when constructing [Military] units [in all cities] <for [6] turns> <on [Quick] game speed> <upon declaring war on [Major] Civilizations>",
+			"[+30]% Production when constructing [Military] units [in all cities] <for [15] turns> <on [Epic] game speed> <upon declaring war on [Major] Civilizations>",
+			"[+30]% Production when constructing [Military] units [in all cities] <for [30] turns> <on [Marathon] game speed> <upon declaring war on [Major] Civilizations>"
+		],
 		"cities": ["Árheimar","Þorenborg","Apulon","Tolosa","Gutiskandja","Reccopolis","Victoriacum","Ologitis","Baiyara","Ebora","Segovia","Balsa","Uxama","Termantia","Toletum","Leptis Magna","Cartennae","Bulla Regia","Lilybaeum","Catane","Cirta","Caralis","Aleria","Panormus","Tacape","Saldae","Caput Vada", "Tricameron","Hadrumetum","Tripoli","Thagaste"],
 		"spyNames": ["Ailwin","Baldric","Gamel","Masci","Savaric","Isolda","Estrilda","Sabelina","Sybilla","Golda"]
 	},
@@ -446,7 +510,7 @@
 		"personality": "Iska_Ocelotl",
 		"favoredReligion": "Christianity",
 		
-		"startIntroPart1": "Your people prostrate before you, exalted Tlatoani Ocelotl Macocoztic, favored son of the feathered serpent and mighty jaguar. After years of conflict amongst neighbouring tribes, you have unified the warring Olmec peoples, sacrificing dissenters in retribution for the insults dealt to you and your sons and daughters. The glory of Tenochtitlan will awe the world, resplendent in radiance, with some of the greatest monuments and architecture your people - and the world - will ever know.",
+		"startIntroPart1": "Your people prostrate before you, exalted Tlatoani Ocelotl Macocoztic, favored son of the feathered serpent and mighty jaguar. After years of conflict amongst neighbouring tribes, you have unified the warring Olmec peoples, sacrificing dissenters in retribution for the insults dealt to you and your sons and daughters. The glory of Tenochtitlán will awe the world, resplendent in radiance, with some of the greatest monuments and architecture your people - and the world - will ever know.",
 		"startIntroPart2": "Son of the Eagle and Jaguar, Ocelotl Macocoztic, lead your people into a new destiny. Let your reach grow long so you may conquer your enemies near and far. The Gods will guide you, and you will in turn guide your loyal citizens to victory. Illustrious Tlatoani, your people once again look to you for leadership and counsel in the coming days. Will you channel the will of the gods and restore your once proud kingdom to its greatest heights? Will you build new monuments to forever enshrine the memories of your people? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "Now we will see if you are cowards or warriors!",
@@ -472,8 +536,20 @@
 		"outerColor": [42,100,72],
 		"innerColor": [233,216,73],
 		"uniqueName": "Sons and Daughters of Lamat",
-		"uniqueText": "Gain 250 [Golden Age points] upon expending a [Great Person]. Additionally, gain an additional 250 Faith if expending a [Great General], and an additional 20 Production per each era passed if expending a [Great Prophet]. These bonuses may change on different speed settings other than Standard.",
-		"uniques": ["Instantly gain [250] [Golden Age points] <(modified by game speed)> <upon expending a [Great Person] unit>","Gain [250] [Faith] <(modified by game speed)> <upon expending a [Great General] unit>","Gain [20] [Production] <(modified by game speed)> <upon expending a [Great Prophet] unit> <during the [Ancient era]>","Gain [40] [Production] <(modified by game speed)> <upon expending a [Great Prophet] unit> <during the [Classical era]>","Gain [60] [Production] <(modified by game speed)> <upon expending a [Great Prophet] unit> <during the [Medieval era]>","Gain [80] [Production] <(modified by game speed)> <upon expending a [Great Prophet] unit> <during the [Renaissance era]>","Gain [100] [Production] <(modified by game speed)> <upon expending a [Great Prophet] unit> <during the [Industrial era]>","Gain [120] [Production] <(modified by game speed)> <upon expending a [Great Prophet] unit> <during the [Modern era]>","Gain [140] [Production] <(modified by game speed)> <upon expending a [Great Prophet] unit> <during the [Atomic era]>","Gain [160] [Production] <(modified by game speed)> <upon expending a [Great Prophet] unit> <during the [Information era]>", "Gain [180] [Production] <(modified by game speed)> <upon expending a [Great Prophet] unit> <during the [Future era]>"],
+		"uniqueText": "Gain 250 [Golden Age points] upon expending a [Great Person]. Additionally, gain an additional 250 [Faith] if expending a [Great General], and an additional 20 [Production] per each era passed if expending a [Great Prophet]. These bonuses may change on different speed settings other than Standard.",
+		"uniques": [
+			"Instantly gain [250] [Golden Age points] <(modified by game speed)> <upon expending a [Great Person] unit>",
+			"Gain [250] [Faith] <(modified by game speed)> <upon expending a [Great General] unit>",
+			"Gain [20] [Production] <(modified by game speed)> <upon expending a [Great Prophet] unit> <during the [Ancient era]>",
+			"Gain [40] [Production] <(modified by game speed)> <upon expending a [Great Prophet] unit> <during the [Classical era]>",
+			"Gain [60] [Production] <(modified by game speed)> <upon expending a [Great Prophet] unit> <during the [Medieval era]>",
+			"Gain [80] [Production] <(modified by game speed)> <upon expending a [Great Prophet] unit> <during the [Renaissance era]>",
+			"Gain [100] [Production] <(modified by game speed)> <upon expending a [Great Prophet] unit> <during the [Industrial era]>",
+			"Gain [120] [Production] <(modified by game speed)> <upon expending a [Great Prophet] unit> <during the [Modern era]>",
+			"Gain [140] [Production] <(modified by game speed)> <upon expending a [Great Prophet] unit> <during the [Atomic era]>",
+			"Gain [160] [Production] <(modified by game speed)> <upon expending a [Great Prophet] unit> <during the [Information era]>",
+			"Gain [180] [Production] <(modified by game speed)> <upon expending a [Great Prophet] unit> <during the [Future era]>"
+		],
 		"cities": ["Tenochtitlán","San Lorenzo","La Venta","Potrero Nuevo","Tres Zapotes","Acayucan","Izapa","Tlatico","Gualupita","Talapcoya","Las Bocas","Auxtlauca","El Viejón","Pijilapan","Palenque","Chichen Itza","Uxmal","Tulum","Copan","Coba","El Mirador","Calakmul","Edzna","Lamanai","Uaxactun","Comalcalco","Piedranegras","Cancuén","Yaxha","Quirigua","Q'umarkaj","Nakbe","Cerros","Xunantunich","Takalik Abaj","Cival","San Bartolo", "Altar de Sacrificios","Seibal","Caracol","Naranjo","Dos Pilas","Mayapan","Ixinche","Zaculeu","Kabah"],
 		"spyNames": ["Camazotz", "Coyopa", "Gukumatz", "Hunahpu", "Huracan", "Ixchel", "Ixtab", "Kukulkán", "Xbalanque", "Zipacna"]
 	},
@@ -490,22 +566,22 @@
 		"startIntroPart2": "King of Kings, you held claim to a vast wealth that to this day has never been surpassed. Your mere generosity threatened to bankrupt empires, and your piety inspired an architectural renaissance. What more could such a great king achieve? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "Enough! My forbearance ends here! We must have war between us, instead of a false peace!",
-		"attacked": "Your transgressions are as deep as oceans. O God... grant that I may chastise this one.",
-		"defeated": "Wealth is fleeting; learning is vanity. All I have done, O God, I did in your name.",
-		"denounced": "Serpent. Tempter. Wretch. Look to the hour of your chastisement, for it is coming soon.",
-		"introduction": "I am Sultan Musa, lord of Mali and, thanks be to God, a very, very rich man. I am pleased to meet you.",
+		"attacked": "Your transgressions are as deep as oceans. Yā Allāh... grant that I may chastise this one.",
+		"defeated": "Wealth is fleeting; learning is vanity. All I have done, yā ilāhī, I did in your name.",
+		"denounced": "Serpent! Tempter! Wretch! Look to the hour of your chastisement, for it is coming soon!",
+		"introduction": "I am Sultan Musa, lord of Mali and, al-Ḥamdu lillāh, a very, very rich man. I am pleased to meet you.",
 		
-		"neutralHello": "May peace and God's wealth be upon you.",
+		"neutralHello": "May peace and Allāh's wealth be upon you.",
 		"neutralLetsHearIt": ["Yes?","Proceed."],
 		"neutralNo": ["No.", "Of course not."],
-		"neutralYes": ["The sincerity of your gift is its own blessing.","Very well.","Praise God!"],
+		"neutralYes": ["The sincerity of your gift is its own blessing.","Very well.","al-Ḥamdu lillāh!"],
 
-		"hateHello": "O God, why do you permit this dark-hearted one to wield the power of kings?",
+		"hateHello": "Yā Ilāhī, why do you permit this dark-hearted one to wield the power of kings?",
 		"hateLetsHearIt": ["And?","Go away."],
 		"hateNo": ["That is unacceptable!","You cannot be serious!"],
 		"hateYes": ["Oh, very well.", "Alright, if I must."],
 		
-		"afterPeace": "Praise God for your wise judgment in this matter.",
+		"afterPeace": "Praise Allāh for your wise judgment in this matter.",
 		"tradeRequest": "Please accept these simple gifts of indigo cloth, Kinkeliba tea... and one hundred porters carrying sacks of gold dust.",
 		"declaringFriendship": "Do we not gain much from our bond? Shall we tell the world we stand as friends?",
 
@@ -513,7 +589,10 @@
 		"innerColor": [216,199,138],
 		"uniqueName": "Royal Hajj",
 		"uniqueText": "Trade Routes generate +1 additional [Faith]. [Great Prophet]s may visit a foreign Holy City to generate a one time [Gold] bonus (this does not consume the unit).",
-		"uniques": ["[+1 Faith] from each Trade Route","[Great Prophet] units gain the [Royal Hajjaj] promotion"],
+		"uniques": [
+			"[+1 Faith] from each Trade Route",
+			"[Great Prophet] units gain the [Royal Hajjaj] promotion"
+		],
 		"cities": ["Nyeni","Ka-ba","Bamako","Kumbi Saleh","Jenné","Timbuktu","Gao","Awli","Wadan","Teodeni","Katsina","Zaria","Bilma","Ngazargumu","Tura","Muli","Toron","Awdaghost","Tadmekka","Tekedda","Agadez","Kano"],
 		"spyNames": ["Mahamane","Yacouba","Issa","Seydou","Amadou","Aminata","Fatim","Djeneba","Kadiatou","Massaba"]
 	},
@@ -532,7 +611,7 @@
 		"declaringWar": "Greed can do naught but cause others misfortune. It is time my Banners taught you what that means.",
 		"attacked": "Have you not heard about the Revolt of the Three Feudaltories? No matter, you will find out what happened to them soon enough.",
 		"defeated": "The sun sets upon the Qing dynasty today. And I only have myself to blame.",
-		"denounced": "If you must resort to insults to project your authority, you have no authority.",
+		"denounced": "Resorting to insults to project your authority, now? Pathetic.",
 		"introduction": "I am Khan of the Manchu, and Emperor of all China. I have already heard of your fame, so I have kept a respective eye on you all this time.",
 		
 		"neutralHello": "You now stand before the ruler of the known world.",
@@ -552,8 +631,12 @@
 		"outerColor": [252,225,70],
 		"innerColor": [41,103,155],
 		"uniqueName": "Aisin",
-		"uniqueText": "All Mounted units have a chance to capture defeated enemy units in battle. Start with a free [Horseman] after settling your capital city. After unlocking the [Eight Banners] unique unit, all Military units (except the [Eight Banners] themselves) may spend collected [Banner]s to receive a unique promotion depending on the unit type.",
-		"uniques": ["[Mounted] units gain the [[Manchu] ability] promotion","[{non-[Eight Banners]} {Military}] units gain the [[Banner] ability] promotion","Free [Horseman] appears <upon founding a city> <when number of [Cities] is less than [2]>"],
+		"uniqueText": "All Mounted units have a chance to capture defeated enemy units in battle. Start with a free [Horseman] after settling your Capital. After unlocking the [Eight Banners] unique unit, all Military units (except the [Eight Banners] themselves) may spend collected [Banner]s to receive a unique promotion depending on the unit type.",
+		"uniques": [
+			"[Mounted] units gain the [[Manchu] ability] promotion",
+			"[{non-[Eight Banners]} {Military}] units gain the [[Banner] ability] promotion",
+			"Free [Horseman] appears <upon founding a city> <when number of [Cities] is less than [2]>"
+		],
 		"cities": ["Fe Ala","Yenden","Xingjing","Mukden","Fushun","Qinghe","Sarhu","Girin Ula","Nanling","Tieling","Ningdota","Siping","Liaoyuan","Changchun","Harbin"],
 		"spyNames": ["Nara","Donggiya","Xianyu","Susu Gioro","Fuca","Sahalian","Guuwalgiya","Tongyangiolo","Wanggiyan","Niohuru"]
 	},
@@ -593,7 +676,9 @@
 		"innerColor": [235,213,68],
 		"uniqueName": "Great Yu Who Controlled The Waters",
 		"uniqueText": "A Flood occurs every 10 turns. During a Flood, all [River] tiles you control gain +4 [Production], +2 [Food] and +2 [Faith] for that turn.",
-		"uniques": ["Triggers a [River Floods!] event <upon turn start> <every [10] turns> <after turn number [1]>"],
+		"uniques": [
+			"Triggers a [River Floods!] event <upon turn start> <every [10] turns> <after turn number [1]>"
+		],
 		"cities": ["Anyi","Chu","Qiongshi","Zhenxun","Diqiu","Laoqiu","Jiyuan","Xihe","Zhen","Song","Zhenguan","Kuaiji","Beifudi","Chong","Zoutu","Bing","Yang","You","Qi","Beichuan","Weizhou","Xuan","Tai","Yushan","Kaifeng","Xichuan"],
 		"spyNames": ["Li", "Chen", "Zhang", "Liu", "Yang", "Huang", "Zhao", "Wu", "Zhou", "Sun"]
 	},
@@ -632,8 +717,15 @@
 		"outerColor": [57,32,33],
 		"innerColor": [249,174,96],
 		"uniqueName": "Golden Highways of the Great Yuan",
-		"uniqueText": "Your Capital and all cities connected to it gain +10% [Production] and [Gold] for each Trade Route. Units on or adjacent to a [Road] or [Railroad] not on hostile territory gain a 33% Combat Strength bonus.",
-		"uniques": ["[+33]% Strength <in [{non-[Enemy Land]} {All Road}] tiles>","[+33]% Strength <in tiles adjacent to [{non-[Enemy Land]} {All Road}] tiles>","[+10]% [Production] [in capital] <for every [[in all cities connected to capital] Cities]>","[+10]% [Gold] [in capital] <for every [[in all cities connected to capital] Cities]>","[+10]% [Production] [in all cities connected to capital] <for every [[in all cities connected to capital] Cities]>","[+10]% [Gold] [in all cities connected to capital] <for every [[in all cities connected to capital] Cities]>"],
+		"uniqueText": "Your Capital and all cities connected to it gain +2% [Production] and [Gold] for each Trade Route, doubled in your Capital. Units on or adjacent to a non-hostile [Road] or [Railroad] at most 10 tiles away from your own [City center]s gain a 33% Combat Strength bonus.",
+		"uniques": [
+			"[+33]% Strength <within [10] tiles of a [{your} {City center}]> <in [{non-[Enemy Land]} {All Road}] tiles>",
+			"[+33]% Strength <within [10] tiles of a [{your} {City center}]> <in tiles adjacent to [{non-[Enemy Land]} {All Road}] tiles>",
+			"[+2]% [Production] [in capital] <for every [[in all cities connected to capital] Cities]> <when number of [[in all cities connected to capital] Cities] is more than [1]>",
+			"[+2]% [Gold] [in capital] <for every [[in all cities connected to capital] Cities]> <when number of [[in all cities connected to capital] Cities] is more than [1]>",
+			"[+2]% [Production] [in all cities connected to capital] <for every [[in all cities connected to capital] Cities]> <when number of [[in all cities connected to capital] Cities] is more than [1]>",
+			"[+2]% [Gold] [in all cities connected to capital] <for every [[in all cities connected to capital] Cities]> <when number of [[in all cities connected to capital] Cities] is more than [1]>"
+		],
 		"cities": ["Dadu","Shangdu","Hangzhou","Suzhou","Ningbo","Qingzhou","Kaifeng","Linhai","Quanzhou","Fuzhou","Ganzhou","Chengdu","Lanzhou","Xianyang","Liaoyang","Tianjin","Guangzhou","Dali","Yunnanfu","Mingzhou"],
 		"spyNames": ["Jia Sidao","Bayan","Yelü Chucai","Subutai","Zhenjin","Marco Polo","Jebe","Yuan Chonghuan","Nayan","Burundai"]
 	},

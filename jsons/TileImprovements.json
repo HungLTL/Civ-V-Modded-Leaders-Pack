@@ -7,7 +7,15 @@
         "techRequired": "The Wheel",
 		"food": 1,
         "science": 2,
-		"uniques":["Cannot be built on [Hill] tiles", "Cannot be built on [resource] tiles", "Cannot be built on [Land] tiles <with [1] to [6] neighboring [Ziggurat] tiles>", "Only available <in [River] tiles>", "[+1 Food] <after discovering [Civil Service]>", "[+2 Culture] <after discovering [Archaeology]>","Pillaging this improvement yields approximately [+40 Gold]"]
+		"uniques":[
+			"Cannot be built on [Hill] tiles",
+			"Cannot be built on [resource] tiles",
+			"Cannot be built on [Land] tiles <with [1] to [6] neighboring [Ziggurat] tiles>",
+			"Only available <in [River] tiles>",
+			"[+1 Food] <after discovering [Civil Service]>",
+			"[+2 Culture] <after discovering [Archaeology]>",
+			"Pillaging this improvement yields approximately [+40 Gold]"
+		]
     },
 	{
 		"name": "Kibbutz",
@@ -18,6 +26,13 @@
 		"food": 2,
         "culture": 1,
 		"faith": 1,
-		"uniques":["Can only be built on [Farm] tiles", "Cannot be built on [Land] tiles <with [1] to [6] neighboring [Kibbutz] tiles>","[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>","[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>","[+2 Culture] <after discovering [Radio]>","Pillaging this improvement yields approximately [+40 Gold]"]
+		"uniques":[
+			"Can only be built on [Farm] tiles",
+			"Cannot be built on [Land] tiles <with [1] to [6] neighboring [Kibbutz] tiles>",
+			"[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>",
+			"[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>",
+			"[+2 Culture] <after discovering [Radio]>",
+			"Pillaging this improvement yields approximately [+40 Gold]"
+		]
     }
 ]

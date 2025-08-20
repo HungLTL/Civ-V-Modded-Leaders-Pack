@@ -1,32 +1,56 @@
 [
     {
 		"name": "[Việt Minh] ability",
-		"uniques": ["Ignores terrain cost", "Can move after attacking"]
+		"uniques": [
+			"Ignores terrain cost",
+			"Can move after attacking"
+		]
 	},
 	{
 		"name": "[Okihtcitaw] ability",
-		"uniques": ["[+50]% XP gained from combat", "[+5] HP when healing"]
+		"uniques": [
+			"[+50]% XP gained from combat",
+			"[+5] HP when healing"
+		]
 	},
 	{
 		"name": "[Mountie] ability",
-		"uniques": ["[+1] Sight","[+1] Movement","[-25]% Strength <in [Foreign Land] tiles>"]
+		"uniques": [
+			"[+1] Sight",
+			"[+1] Movement",
+			"[-25]% Strength <in [Foreign Land] tiles>"
+		]
 	},
 	{
 		"name": "[Khevsur] ability",
-		"uniques": ["[+33]% Strength <in [Hill] tiles>","Double movement in [Hill]","Earn [100]% of killed [Military] unit's [Strength] as [Golden Age points]"]
+		"uniques": [
+			"[+33]% Strength <in [Hill] tiles>",
+			"Double movement in [Hill]",
+			"Earn [100]% of killed [Military] unit's [Strength] as [Golden Age points]"
+		]
 	},
 	{
 		"name": "[Maccabee] ability",
-		"uniques": ["[+20]% to Flank Attack bonuses","Earn [75]% of killed [Military] unit's [Strength] as [Faith]"]
+		"uniques": [
+			"[+20]% to Flank Attack bonuses",
+			"Earn [75]% of killed [Military] unit's [Strength] as [Faith]"
+		]
 	},
 	{
 		"name": "Heroes of Sumer",
-		"uniques": ["Comment [Clearing a [Barbarian encampment] yields additional rewards]",
-			"Triggers a [Epic Quest] event <upon entering a [Barbarian encampment] tile> <hidden from users>"]
+		"uniques": [
+			"Comment [Clearing a [Barbarian encampment] yields additional rewards]",
+			"Triggers a [Epic Quest] event <upon entering a [Barbarian encampment] tile> <hidden from users>"
+		],
+		"civilopediaText": [
+			{ "text": "Free for Sumerian Land Units", 	"link": "Nations/Sumer" }
+		]
 	},
 	{
 		"name": "[Gadrauht] ability",
-		"uniques": ["[+1] Movement <upon turn start> <in [All Road] tiles>"]
+		"uniques": [
+			"[+1] Movement <upon turn start> <in [All Road] tiles>"
+		]
 	},
 	{
 		"name": "Can move after attacking",
@@ -34,7 +58,10 @@
 	},
 	{
 		"name": "[Manchu] ability",
-		"uniques": ["May capture killed [Military] units <with [50]% chance>"]
+		"uniques": ["May capture killed [Military] units <with [50]% chance>"],
+		"civilopediaText": [
+			{ "text": "Free for Manchu Mounted Units", 	"link": "Nations/Manchu" }
+		]
 	},
 	{
 		"name": "[Banner] ability",
@@ -48,46 +75,118 @@
 			"[This Unit] gains the [Beiyang Banner] promotion <for [Ranged Water] units> <costs [1] [Banner]> <removing the [[Banner] ability] promotion/status> <when above [0] [Banner]> <hidden from users>",
 			"[This Unit] gains the [Hongipao Banner] promotion <for [Siege] units> <costs [1] [Banner]> <removing the [[Banner] ability] promotion/status> <when above [0] [Banner]> <hidden from users>",
 			"Comment [Spend [Banner]s to receive a unique promotion depending on the unit type]"
+		],
+		"civilopediaText": [
+			{ "text": "Zheziang Banner (Sword)", 	"link": "Promotion/Zheziang Banner" },
+			{ "text": "Korean Banner (Archery)", 		"link": "Promotion/Korean Banner" },
+			{ "text": "Russian Banner (Gunpowder)", 			"link": "Promotion/Russian Banner" },
+			{ "text": "97th Regiment (Armored)", 			"link": "Promotion/97th Regiment" },
+			{ "text": "Mongolian Banner (Mounted)", 		"link": "Promotion/Mongolian Banner" },
+			{ "text": "Three Feudaltories Junk (Melee Naval)", 		"link": "Promotion/Three Feudaltories Junk" },
+			{ "text": "Beiyang Banner (Ranged Naval)", 		"link": "Promotion/Beiyang Banner" },
+			{ "text": "Hongipao Banner (Siege)", 		"link": "Promotion/Hongipao Banner" },
+			{ "separator": true },
+			{ "text": "Eight Banners", 	"link": "Unit/Eight Banners" }
 		]
 	},
 	{
 		"name": "Zheziang Banner",
-		"uniques": ["[+15]% Strength <when fighting in [Friendly Land] tiles>","[+50]% Strength <vs [Gunpowder] units>"]
+		"uniques": [
+			"[+15]% Strength <when fighting in [Friendly Land] tiles>",
+			"[+50]% Strength <vs [Gunpowder] units>"
+		],
+		"civilopediaText": [
+			{ "text": "Banners", 	"link": "Promotion/[Banner] ability" }
+		]
 	},
 	{
 		"name": "Korean Banner",
-		"uniques": ["Ignores terrain cost","Can move after attacking"]
+		"uniques": [
+			"Ignores terrain cost",
+			"Can move after attacking"
+		],
+		"civilopediaText": [
+			{ "text": "Banners", 	"link": "Promotion/[Banner] ability" }
+		]
 	},
 	{
 		"name": "Russian Banner",
-		"uniques": ["[1] additional attacks per turn","Double movement in [Snow]","Double movement in [Tundra]"]
+		"uniques": [
+			"[1] additional attacks per turn",
+			"Double movement in [Snow]",
+			"Double movement in [Tundra]"
+		],
+		"civilopediaText": [
+			{ "text": "Banners", 	"link": "Promotion/[Banner] ability" }
+		]
 	},
 	{
 		"name": "97th Regiment",
-		"uniques": ["Ignores Zone of Control","Double movement in [Forest]","Double movement in [Jungle]"]
+		"uniques": [
+			"Ignores Zone of Control",
+			"Double movement in [Forest]",
+			"Double movement in [Jungle]"
+		],
+		"civilopediaText": [
+			{ "text": "Banners", 	"link": "Promotion/[Banner] ability" }
+		]
 	},
 	{
 		"name": "Mongolian Banner",
-		"uniques": ["[+1] Movement","[+25]% Strength <when attacking>","Earn [100]% of killed [Military] unit's [Strength] as [Golden Age points]"]
+		"uniques": [
+			"[+1] Movement",
+			"[+25]% Strength <when attacking>",
+			"Earn [100]% of killed [Military] unit's [Strength] as [Golden Age points]"
+		],
+		"civilopediaText": [
+			{ "text": "Banners", 	"link": "Promotion/[Banner] ability" }
+		]
 	},
 	{
 		"name": "Three Feudaltories Junk",
-		"uniques": ["[+1] Movement","Heals [25] damage if it kills a unit"]
+		"uniques": [
+			"[+1] Movement",
+			"Heals [25] damage if it kills a unit"
+		],
+		"civilopediaText": [
+			{ "text": "Banners", 	"link": "Promotion/[Banner] ability" }
+		]
 	},
 	{
 		"name": "Beiyang Banner",
-		"uniques": ["Unit will heal every turn, even if it performs an action","[+15]% Strength bonus for [Military] units within [2] tiles"]
+		"uniques": [
+			"Unit will heal every turn, even if it performs an action",
+			"[+15]% Strength bonus for [Military] units within [2] tiles"
+		],
+		"civilopediaText": [
+			{ "text": "Banners", 	"link": "Promotion/[Banner] ability" }
+		]
 	},
 	{
 		"name": "Hongipao Banner",
-		"uniques": ["[+50]% Strength <vs cities> <when attacking>","[+50]% XP gained from combat"]
+		"uniques": [
+			"[+50]% Strength <vs cities> <when attacking>",
+			"[+50]% XP gained from combat"
+		],
+		"civilopediaText": [
+			{ "text": "Banners", 	"link": "Promotion/[Banner] ability" }
+		]
 	},
 	{
 		"name": "Royal Hajjaj",
-		"uniques": ["Triggers a [Royal Hajj] event <in [{Foreign} {Holy}] cities> <removing the [Royal Hajjaj] promotion/status> <hidden from users>"]
+		"uniques": [
+			"Comment [Can visit a foreign Holy City to gain a one-time [Gold] bonus]",
+			"Triggers a [Royal Hajj] event <in [{Foreign} {Holy}] cities> <removing the [Royal Hajjaj] promotion/status> <hidden from users>"
+		],
+		"civilopediaText": [
+			{ "text": "Free for Malian Great Prophets", 	"link": "Nations/Mali" }
+		]
 	},
 	{
 		"name": "[Mangudai] ability",
-		"uniques": ["No movement cost to pillage","[+15]% Strength <when stacked with a [Great General] unit>"]
+		"uniques": [
+			"No movement cost to pillage",
+			"[+15]% Strength <when stacked with a [Great General] unit>"
+		]
 	}
 ]

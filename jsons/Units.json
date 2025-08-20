@@ -10,7 +10,11 @@
 		"requiredTech": "Plastics",
 		"upgradesTo": "Mechanized Infantry",
 		"promotions": ["[Việt Minh] ability"],
-		"uniques": ["[+1] Sight", "Can build [Railroad] improvements on tiles","Can build [Fort] improvements on tiles"],
+		"uniques": [
+			"[+1] Sight",
+			"Can build [Railroad] improvements on tiles",
+			"Can build [Fort] improvements on tiles"
+		],
 		"attackSound": "shot",
 		"obsoleteTech": "Mobile Tactics"
 	},
@@ -40,7 +44,12 @@
 		"requiredTech": "Physics",
 		"obsoleteTech": "Chemistry",
 		"upgradesTo": "Cannon",
-		"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus","[-1] Sight","Never appears as a Barbarian unit"],
+		"uniques": [
+			"[+200]% Strength <vs cities> <when attacking>",
+			"No defensive terrain bonus",
+			"[-1] Sight",
+			"Never appears as a Barbarian unit"
+		],
 		"attackSound": "elephant"
 	},
 	{
@@ -55,7 +64,13 @@
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
 		"promotions": ["Shock I"],
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","[+50]% Strength <vs [Spearman] units>", "[+50]% Strength <vs [Pikeman] units>"],
+		"uniques": [
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"[-33]% Strength <vs cities> <when attacking>",
+			"[+50]% Strength <vs [Spearman] units>",
+			"[+50]% Strength <vs [Pikeman] units>"
+		],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
@@ -72,7 +87,12 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Landship",
 		"promotions": ["[Mountie] ability"],
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"uniques": [
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"[-33]% Strength <vs cities> <when attacking>",
+			"Never appears as a Barbarian unit"
+		],
 		"attackSound": "horse"
 	},
 	{
@@ -101,7 +121,11 @@
 		"requiredResource": "Oil",
 		"upgradesTo": "Modern Armor",
 		"promotions": ["Cover I","Cover II"],
-		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"uniques": [
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"Never appears as a Barbarian unit"
+		],
 		"attackSound": "tankshot"
 	},
 	{
@@ -145,7 +169,10 @@
 		"cost": 80,
 		"requiredTech": "Civil Service",
 		"promotions": ["Formation I","Formation II"],
-		"uniques": ["[+50]% Strength <vs [Mounted] units>","May upgrade to [Musketman] through ruins-like effects"],
+		"uniques": [
+			"[+50]% Strength <vs [Mounted] units>",
+			"May upgrade to [Musketman] through ruins-like effects"
+		],
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
 		"attackSound": "metalhit"
@@ -177,7 +204,11 @@
 		"obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
 		"promotions": ["Shock I"],
-		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"uniques": [
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"Never appears as a Barbarian unit"
+		],
 		"attackSound": "metalhit"
 	},
 	{
@@ -202,8 +233,11 @@
 		"replaces": "Settler",
 		"movement": 3,
 		"cost": 80,
-		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
-			"Requires at least [2] population"],
+		"uniques": [
+			"Founds a new city <by consuming this unit>",
+			"Excess Food converted to Production when under construction",
+			"Requires at least [2] population"
+		],
 		"hurryCostModifier": 20
 	},
 	{
@@ -218,7 +252,13 @@
 		"cost": 185,
 		"requiredTech": "Metallurgy",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","Never appears as a Barbarian unit","Instantly provides [1] [Banner] <upon defeating a [Military] unit> <with [66]% chance>","May upgrade to [Gatling Gun] through ruins-like effects"],
+		"uniques": [
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"Never appears as a Barbarian unit",
+			"Instantly provides [1] [Banner] <upon defeating a [Military] unit> <with [67]% chance>",
+			"May upgrade to [Gatling Gun] through ruins-like effects"
+		],
 		"promotions": ["Formation I","[Manchu] ability"],
 		"upgradesTo": "Machine Gun",
 		"obsoleteTech": "Ballistics",
@@ -234,7 +274,10 @@
 		"strength": 13,
 		"rangedStrength": 20,
 		"cost": 150,
-		"uniques": ["[+30]% Strength <vs [{non-[Mounted]} {Melee}] units> <when attacking>","May upgrade to [Cannon] through ruins-like effects"],
+		"uniques": [
+			"[+30]% Strength <vs [{non-[Mounted]} {Melee}] units> <when attacking>",
+			"May upgrade to [Cannon] through ruins-like effects"
+		],
 		"requiredTech": "Machinery",
 		"upgradesTo": "Artillery",
 		"obsoleteTech": "Dynamite",
@@ -254,7 +297,10 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Cavalry",
 		"obsoleteTech": "Military Science",
-		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"uniques": [
+			"Can move after attacking",
+			"No defensive terrain bonus"
+		],
 		"promotions": ["[Mangudai] ability"],
 		"attackSound": "arrow"
 	}
