@@ -48,7 +48,7 @@ This mod adds the following Civilizations:
 * The city-state of Ur is replaced by Auckland.
 
 ### The Cree, led by Poundmaker
-* **Iron Confederacy**: Gain 15% additional City-State influence from gifting Gold, and 10 additional Influence from gifting Military units. Trade Routes provide +2 additional Food. Pay 25% less for Road and Railroad maintenance.
+* **Iron Confederacy**: Gain 15% additional City-State influence from gifting Gold, and 15 Influence from gifting Military units. Trade Routes provide +2 additional Food. Pay 25% less for Road and Railroad maintenance.
 * **Okihtcitaw**: Unique Ancient Era Sword unit, replacing the Warrior. Earns an additional 50% XP from Combat and heals an additional 5 HP when healing.
 * **Mekewap**: Unique Circus replacement. Requires an improved Pasture or Camp resource near the city, and provides +1 additional Food to the aforementioned improvements in return. After researching Navigation, Pastures and Camps in a city with a Mekewap will also provide an additional +2 Gold.
 
@@ -85,6 +85,6 @@ This mod adds the following Civilizations:
 * **Kiln**: Unique Workshop replacement. Provides +2 additional Culture and a copy of Porcelain when built, at the cost of a standard Workshop's Production bonuses.
 
 ### Yuan, led by Kublai Khan
-* **Golden Highways of the Great Yuan**: Your Capital and all cities connected to it gain +10% Production and Gold for each Trade Route. Units on or adjacent to a Road or Railroad not on hostile territory gain a 33% Combat Strength bonus.
+* **Golden Highways of the Great Yuan**: Your Capital and all cities connected to it gain +2% Production and Gold for each Trade Route, doubled in your Capital. Units on or adjacent to a non-hostile Road or Railroad at most 10 tiles away from your own [City center]s gain a 33% Combat Strength bonus.
 * **Mangudai**: Unique Medieval Era Mounted Archery unit, replacing the Knight. In comparison to the Mongolian Keshik, the Mangudai has the same stats, but has the ability to pillage without movement costs and gains an additional 15% Combat bonus when stacked with a Great General instead of the Keshik's faster Great General generation and XP gain.
 * **Ordu**: Unique Barracks replacement. More expensive than the standard building, the Ordu is available right at the start, provides +2 Happiness, and units trained in a city with an Ordu start with an additional +5 XP as well as the ability to generate Great Generals faster.

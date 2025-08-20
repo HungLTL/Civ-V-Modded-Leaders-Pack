@@ -78,7 +78,7 @@
 		"outerColor": [34,53,110],
 		"innerColor": [77,163,86],
 		"uniqueName": "Iron Confederacy",
-		"uniqueText": "Gain 15% additional City-State influence from gifting [Gold], and 15 additional Influence from gifting [Military] units. Trade Routes provide +2 additional [Food]. Pay 25% less for [Road] and [Railroad] maintenance.",
+		"uniqueText": "Gain 15% additional City-State influence from gifting [Gold], and 15 Influence from gifting [Military] units. Trade Routes provide +2 additional [Food]. Pay 25% less for [Road] and [Railroad] maintenance.",
 		"uniques": [
 			"Gifts of Gold to City-States generate [15]% more Influence",
 			"Gain [15] Influence with a [Military] gift to a City-State",
