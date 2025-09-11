@@ -309,7 +309,7 @@
 		"uniques": [
 			"Instantly gain [1] [Soviet Pride] <upon constructing [World Wonder] [in capital]>",
 			"[+3]% [Production] [in all cities] <for every [Soviet Pride]>",
-			"Gain a free [Courthouse] [{Your} {Resisting} {non-[Puppeted]} {non-[Razing]}] <upon conquering a city>",
+			"Gain a free [Courthouse] [in annexed cities] <upon conquering a city>",
 			"[-10000]% enemy spy effectiveness [in all cities]",
 			"[-20]% Great Person generation [in all cities] <after adopting [Order]>",
 			"[-20]% Golden Age length <after adopting [Order]>",
