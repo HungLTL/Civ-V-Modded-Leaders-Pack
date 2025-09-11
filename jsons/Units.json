@@ -256,7 +256,7 @@
 			"Can move after attacking",
 			"No defensive terrain bonus",
 			"Never appears as a Barbarian unit",
-			"Instantly provides [1] [Banner] <upon defeating a [Military] unit> <with [67]% chance>",
+			"Instantly provides [1] [Banner] <upon defeating a [Military] unit> <with [67]% chance> <for [Manchu] Civilizations>",
 			"May upgrade to [Gatling Gun] through ruins-like effects"
 		],
 		"promotions": ["Formation I","[Manchu] ability"],
