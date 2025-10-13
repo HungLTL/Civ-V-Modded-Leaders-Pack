@@ -49,7 +49,7 @@
 	{
 		"name": "[Gadrauht] ability",
 		"uniques": [
-			"[+1] Movement <upon turn start> <in [All Road] tiles>"
+			"[This Unit] gains [1] movement <upon turn start> <in [All Road] tiles>"
 		]
 	},
 	{

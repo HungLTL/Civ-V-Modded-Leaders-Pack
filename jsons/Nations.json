@@ -16,18 +16,8 @@
 		"defeated": "You think you have defeated me...? I shall ascend to Heaven, to become the sacred spirit of our rivers and our mountains, never to be vanquished!",
 		"denounced": "Look here, you snake. One day there will be a great reckoning between our peoples, and justice will be served to you.",
 		"introduction": "I am Lady Triệu, the female general with the golden robe, and I speak for Vietnam. We only wish to ride the strong winds, walk the fierce waves, slay the whales of the Eastern Sea, reclaim our country, establish sovereignty, and shatter the chattels of oppression.",
-		
 		"neutralHello": "Once again, I bid you welcome to Vietnam.",
-		"neutralLetsHearIt": ["Speak, and I shall listen.","We are all ears.","You have never plotted our destruction, so let's hear it."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["It is good that you are willing to work fairly with us.","Good health to you.","Alright!"],
-
 		"hateHello": "Vietnam is watching you. Get on with it, scum.",
-		"hateLetsHearIt": ["Do you really come in peace?","You know what happens to our enemies, right?","What?"],
-		"hateNo": ["You ARE plotting against us!", "I cannot allow this.", "We do not need you or your deals."],
-		"hateYes": ["We will oversee this deal with suspicion.","We done?","...Fine."],
-		
-		"afterPeace": "There! I have taken you off the revenge list.",
 		"tradeRequest": "Vietnam's delegation approaches your nation, bearing our trade offer, as well as bird's nest soup, abalone, deer's tendon, and water from the Hàm Long well.",
 		"declaringFriendship": "Let our people share each other's burdens, and the struggle will be easier.",
 
@@ -62,17 +52,8 @@
 		"introduction": "I am Poundmaker, and I represent the Cree. If I had wronged you, I would never have come to meet you.",
 		
 		"neutralHello": "May there always be peace between us.",
-		"neutralLetsHearIt": ["I am willing to hear what you have to offer.","We have great respect for those willing to engage in commerce and cooperation.","Yes, my friend?"],
-		"neutralNo": ["Only a fool would accept this.","I am no fool.","My people are not ready. Not now."],
-		"neutralYes": ["Agreed.","I see the wisdom in this.","Your offer brings us joy."],
-
 		"hateHello": "I swear to protect my people from the likes of you.",
-		"hateLetsHearIt": ["You should have never come here.","Your presences bothers us.","Say what you are going to say."],
-		"hateNo": ["Your sweet words are like lies, polluting the air.","Clearly you exist only to steal from us.","Do you take me for a fool?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		"afterPeace": "I am happiest making peace between nations.",
-		"tradeRequest": "My people send you a trade agreement and some gifts - buffalo robes and pimihkan. With these you will last through winter.",
+		"tradeRequest": "My people send you a trade agreement and some gifts - buffalo robes and pimîhkân. With these you will last through winter.",
 		"declaringFriendship": "The Cree are ready to welcome you as friends. Please, I ask of you, honor their trust.",
 
 		"outerColor": [34,53,110],
@@ -107,16 +88,7 @@
 		"introduction": "I am Jayavarman VII, and the Khmer allow me to lead them. Their suffering is my suffering.",
 		
 		"neutralHello": "Your suffering is also our suffering, friend.",
-		"neutralLetsHearIt": ["Let us provide for our peoples.","To do less is to be less.","The Khmer appreciate your commercial activities."],
-		"neutralNo": ["I must refuse.", "We cannot accept this.", "The Khmer do not need your strange gifts."],
-		"neutralYes": ["Yes, it is good for the Khmer.", "The Khmer hold your proposal dear."],
-
-		"hateHello": "You must know how to live a divine life. How else could you teach your people to do the opposite?",
-		"hateLetsHearIt": ["How can your people attain the divine without examples of divinity?"],
-		"hateNo": ["This is most impious.", "We have no need for any more suffering."],
-		"hateYes": ["Hmm. I see.", "Perhaps... yes."],
-		
-		"afterPeace": "Ending spiritual suffering is just as important as easing physical distress.",
+		"hateHello": "You must know how to live a divine life; how else could you teach your people to do the opposite?",
 		"tradeRequest": "Our trade delegation also brings a-ping, a fried dish. Best to eat the legs before you consume the rest of the tarantula.",
 		"declaringFriendship": "Heaven smiles upon you - as do the Khmer. The world should know of our friendship. Might we declare it?",
 
@@ -140,7 +112,7 @@
 		"startBias": ["River"],
 		"preferredVictoryType": "Domination",
 		"personality": "aa0905766k_Gilgamesh",
-		"favoredReligion": "Zoroastrianism",
+		"favoredReligion": "Islam",
 		
 		"startIntroPart1": "Hail, mighty Gilgamesh, King of Uruk and ruler of Sumer! You, who have walked with gods and men alike, stand as a legend among mortals. Your great deeds, immortalized in epic, tell of your unrelenting strength and wisdom. Under your rule, Sumer became the cradle of civilization, where cities rose from the banks of rivers, and knowledge flourished, as you shaped the destiny of your people.",
 		"startIntroPart2": "Your people await your guidance once more, O Gilgamesh. Will you lead Sumer to glory again, with your courage and vision? Shall you build a civilization that withstands the test of time, and rival the gods in power and achievement?",
@@ -152,16 +124,7 @@
 		"introduction": "I am Gilgamesh of Sumer and King of Uruk! Do not be afraid... I am good to my friends.",
 		
 		"neutralHello": "You are a good friend and ally! Gilgamesh will remember this.",
-		"neutralLetsHearIt": ["Gilgamesh awaits your tributes.","Gilgamesh is happy to lend you an ear.","Uruk awaits your proposition."],
-		"neutralNo": ["I think not.", "Gilgamesh cannot accept this."],
-		"neutralYes": ["Thank you!", "Gilgamesh is happy to accept your proposition!"],
-
 		"hateHello": "If you harm my friends, you will face the might of Uruk; this I promise you!",
-		"hateLetsHearIt": ["You are as treacherous as Ishtar.", "Gilgamesh is no friend to you. Be quick about it."],
-		"hateNo": ["Are you mad?!", "Your intentions are as false as your words."],
-		"hateYes": ["Your envoys may enter Uruk... for now.", "Thank you. Now, begone."],
-		
-		"afterPeace": "The artistic mouth recites words; the harsh mouth brings litigation; the sweet mouth gathers sweet herbs.",
 		"tradeRequest": "The delegation of Gilgamesh brings you gifts of Sumerian jewelry, and lyres from Ur. Will you accept them?",
 		"declaringFriendship": "All the world knows of my generosity to my friends. Let us then be friends, not enemies!",
 
@@ -189,22 +152,13 @@
 		"startIntroPart2": "Wilfrid Laurier, as you begin your journey to shape the world, you choices make today that will echo through the ages. Will you be remembered as a conqueror, a liberator, or a visionary? The path is yours to choose. Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "In responding to the unstinting malignancy that has heretofore defined your relationship with Canada... we can have no recourse, but war.",
-		"attacked": "As we can reach no peaceful resolution with you, Canada must turn, with reluctance, to war.",
+		"attacked": "As we can reach no peaceful resolution with you, Canada must turn, with reluctance... to war.",
 		"defeated": "C'était illusoire de chercher à s'entendre avec vous. Mais jamais je ne regretterai de prendre la défense de mon peuple.",
 		"denounced": "I wish you had proved to be a wiser, more agreeable leader, but your actions leave me scant hope for a peaceful future.",
 		"introduction": "Au nom du peuple canadien, bienvenue! Je suis le Premier Ministre Laurier.",
 		
 		"neutralHello": "Welcome again! How may we assist you today?",
-		"neutralLetsHearIt": ["Yes? How may I help you?","Oui, mon ami?","What would you like to discuss?"],
-		"neutralNo": ["I am sorry, no.", "Je suis désolé, non.","Please withdraw your offer."],
-		"neutralYes": ["I accept your proposal, with thanks.", "Merci beaucoup, my friend.","Canada commends you."],
-
 		"hateHello": "N'êtes-vous pas sensible au malheur des autres?",
-		"hateLetsHearIt": ["Si c'est ma responsabilité.", "Negotiating with you tests the limits of human patience."],
-		"hateNo": ["Canada has no need of trifling gifts.", "This proposal would not benefit us."],
-		"hateYes": ["J'essaierais la voie ensoleillée.", "Canada commends you, with reluctance."],
-		
-		"afterPeace": "You have proved a reliable partner in resolving international conflict.",
 		"tradeRequest": "The people of Canada present, alongside our trade agreement, humble gifts of maple syrup, wool blankets, and our honored, traditional headgear: The toque.",
 		"declaringFriendship": "You have proven a steadfast and loyal friend of Canada. Will you let us declare our mutual accord to the world?",
 
@@ -233,22 +187,13 @@
 		"startIntroPart2": "Now, as we face new challenges and opportunities, the Chinese people look to you to continue to lead the way. Will you continue to fight for the liberation of the oppressed and the workers' rights, or will you focus on building a prosperous nation that values the people above all else? Can you create a civilization that will stand the test of time?",
 		
 		"declaringWar": "We will no longer stand idly by while you threaten our sovereignty and our socialist way of life!",
-		"attacked": "What...?! How dare you, imperialist pig! Looks like we'll have to teach you a lesson!",
+		"attacked": "What...? How dare you, imperialist pig! Looks like we will have to teach you a lesson!",
 		"defeated": "The struggle may be over, but the revolution continues. We will learn from this defeat and emerge stronger in the end.",
 		"denounced": "Your hostile words do not intimidate us. China will stand firm in the face of adversity and protect its interests.",
 		"introduction": "Greetings. I am Mao Zedong, the founder and leader of the People's Republic of China.",
 		
 		"neutralHello": "Welcome, comrade.",
-		"neutralLetsHearIt": ["Let us hope for a productive relationship between our nations."],
-		"neutralNo": ["No.", "I cannot accept.", "I refuse."],
-		"neutralYes": ["Allow me.", "Of course.", "Proceed."],
-
 		"hateHello": "China will defend itself and its allies against any threats to our security.",
-		"hateLetsHearIt": ["China will defend its sovereignty and territorial integrity."],
-		"hateNo": ["No.", "I cannot accept.", "I refuse."],
-		"hateYes": ["Allow me.", "Of course.", "Proceed."],
-		
-		"afterPeace": "Your aggressive actions will not go unpunished.",
 		"tradeRequest": "China is open to mutually beneficial trade agreements. Let us work towards a fair and equal exchange that benefits both our nations.",
 		"declaringFriendship": "We stand ready to work with you towards a brighter future for our people. Together, we can achieve great things.",
 
@@ -289,16 +234,7 @@
 		"introduction": "I am the iron hand of the proletariat, I am the embodiment of the Soviet Union, I am Stalin. An ally, if you are deserving. An enemy, if you dare.",
 		
 		"neutralHello": "Greetings, dear tovarishch.",
-		"neutralLetsHearIt": ["What might you want to say? Speak."],
-		"neutralNo": ["No, it is unacceptable.", "No, never. The Soviet Union will never accept this.", "No, absolutely not, this is unacceptable. Never."],
-		"neutralYes": ["Acceptable.", "The Soviet Union may agree to this.", "We agree on some things, it seems."],
-
 		"hateHello": "What do you want, durak?",
-		"hateLetsHearIt": ["Speak, durak, and I may listen. Or perhaps not."],
-		"hateNo": ["No, it is unacceptable.", "No, never. The Soviet Union will never accept this.", "No, absolutely not, this is unacceptable. Never."],
-		"hateYes": ["Acceptable.", "The Soviet Union may agree to this.", "We agree on some things, it seems."],
-		
-		"afterPeace": "Socialism sees eternity, and our words speak truth.",
 		"tradeRequest": "State your request and I will consider whether it is in the interests of the Soviet Union. I am weighing my thoughts carefully.",
 		"declaringFriendship": "The Soviet Union extends its hand towards you.",
 
@@ -340,16 +276,7 @@
 		"introduction": "I am Tamar of Georgia. Say what you will and be on your way.",
 		
 		"neutralHello": "Your ambassadors did not cause an incident. I consider that a success.",
-		"neutralLetsHearIt": ["Speak your mind."],
-		"neutralNo": ["Try again. This time, with a real offer.", "The idea of this deal being fair pains me."],
-		"neutralYes": ["Your request is sincere.","Consider this deal a success.","Georgia will agree to your request."],
-
 		"hateHello": "You are a detestable person. Your people deserve a better leader than you.",
-		"hateLetsHearIt": ["Your presence is testing my patience."],
-		"hateNo": ["This is no time to host your merchants.", "Georgia is many things, but not one involves anything to do with you.", "This must be some sort of cruel jest on your part."],
-		"hateYes": ["It pains to me, but I must.", "Consider this deal a success. Now, be on your way."],
-		
-		"afterPeace": "I appreciate your actions, being the walls same as the ones you build for your people. It pains me to say this, but you have a Georgian spirit.",
 		"tradeRequest": "Our Georgian merchants bring many strings of churchkhela. They make a filling dessert.",
 		"declaringFriendship": "You number amongst the few Georgia can trust. Should you agree, I will let it be known to all.",
 
@@ -380,27 +307,18 @@
 		"declaringWar": "Justice demands your end, and we shall give it what it demands!",
 		"attacked": "I expected no better from you. You will not find us unprepared.",
 		"defeated": "My Lord, why have you abandoned me?",
-		"denounced": "Always with such oppresive ideas...",
+		"denounced": "Always with such oppressive ideas...",
 		"introduction": "Well met. I'm King David of the Kingdom of Israel, and I hope we won't need any unnecessary bloodshed.",
 		
 		"neutralHello": "Hail to you.",
-		"neutralLetsHearIt": ["You may speak.", "My people listen to you."],
-		"neutralNo": ["No, my people disagree.", "You're going to need more to make this fair.", "My people do not agree with your proposition."],
-		"neutralYes": ["My people accept your proposition.", "My people is always glad to welcome your proposals.", "Very well."],
-
 		"hateHello": "What do you want? You're not welcome here.",
-		"hateLetsHearIt": ["Speak, if you must..."],
-		"hateNo": ["Do you even understand the concept of 'fair trading'? Your offer is too light: you must improve it.", "That's not good enough.", "You must do better than that."],
-		"hateYes": ["And so, you have finally done something reasonable and right...", "Our business here is done.", "This has taken way too long."],
-		
-		"afterPeace": "My Lord will bring justice upon thee.",
 		"tradeRequest": "My people and I have a proposal to make to you.",
 		"declaringFriendship": "You have shown yourself a friend of my people, and now we are in dire need of your help.",
 
 		"outerColor": [246,239,228],
 		"innerColor": [66, 106, 246],
 		"uniqueName": "Land of Milk and Honey",
-		"uniqueText": "Unimproved [Oasis] tiles yield +2 [Gold], [Food] and [Faith]. Gain a free [Great Prophet] upon researching [Writing].",
+		"uniqueText": "Unimproved [Oasis] tiles yield +2 additional [Gold], [Food] and [Faith]. Gain a free [Great Prophet] upon researching [Writing].",
 		"uniques": [
 			"[+2 Gold, +2 Food, +2 Faith] from [{unimproved} {Oasis}] tiles [in all cities]",
 			"Free [Great Prophet] appears <upon discovering [Writing] technology>"
@@ -427,16 +345,7 @@
 		"introduction": "I am Karl, known as the Great. While others rule by the sword, I rule by the grace of God. And also the sword.",
 		
 		"neutralHello": "May our fates entwine under the Divine's luminous gaze.",
-		"neutralLetsHearIt": ["Hmm?"],
-		"neutralNo": ["Not now."],
-		"neutralYes": ["A wise move!"],
-
 		"hateHello": "What now, heretic?",
-		"hateLetsHearIt": ["Hmph."],
-		"hateNo": ["Not now. I have a feast to plan."],
-		"hateYes": ["A wise move. Coming from you."],
-		
-		"afterPeace": "Action is better than knowledge, but one must have the knowledge to know what actions bring.",
 		"tradeRequest": "I have sent a delegation to thee. They come bearing gifts of royal red fabrics - rumoured to be highly sought after in your realm, I am sure.",
 		"declaringFriendship": "Let us unite our banners, and point our swords towards our foes!",
 
@@ -473,16 +382,7 @@
 		"introduction": "Hail, warrior! I am Alaric of the Goths. That's quite a magnificent city you have there. Let me visit your lands and see if there is anything worth grabbing.",
 		
 		"neutralHello": "Strength and honor guide our paths.",
-		"neutralLetsHearIt": ["What?"],
-		"neutralNo": ["Not now."],
-		"neutralYes": ["You will be spared. For now."],
-
 		"hateHello": "Begone, weakling.",
-		"hateLetsHearIt": ["I said, begone, weakling."],
-		"hateNo": ["What, you daft? Begone!"],
-		"hateYes": ["Hmph. Fine."],
-		
-		"afterPeace": "It is dishonour to be defeated by you.",
 		"tradeRequest": "Come. Take a look at our plunder and bounty from the fools that have provoked our wrath. I guarantee that some of these spoils will pique your interest, somewhat.",
 		"declaringFriendship": "You are as strong in body and spirit as a Goth warrior. We extend our swords to you, friend.",
 
@@ -520,23 +420,14 @@
 		"introduction": "Aha! The gods bring forth a fresh face! Kneel, and praise the sun!",
 		
 		"neutralHello": "It is an honour to meet you.",
-		"neutralLetsHearIt": ["Tell me what you want!"],
-		"neutralNo": ["Not today."],
-		"neutralYes": ["Your gifts are a kind tribute.", "We will house your delegation in a place of honor."],
-
 		"hateHello": "You are a poison to this world. You are evil!",
-		"hateLetsHearIt": ["You test my patience..."],
-		"hateNo": ["You are no friend to the Olmecs. You have no honour."],
-		"hateYes": ["It is settled, then."],
-		
-		"afterPeace": "See how feeble your efforts are? You cannot surprise the mighty Olmec Empire. We see your attack from far away.",
 		"tradeRequest": "Gifts of maize and chocolate are brought to you by my delegation. We offer them to you.",
 		"declaringFriendship": "Let us be joined in friendship against the evils of this world.",
 
 		"outerColor": [42,100,72],
 		"innerColor": [233,216,73],
 		"uniqueName": "Sons and Daughters of Lamat",
-		"uniqueText": "Gain 250 [Golden Age points] upon expending a [Great Person]. Additionally, gain an additional 250 [Faith] if expending a [Great General], and an additional 20 [Production] per each era passed if expending a [Great Prophet]. These bonuses may change on different speed settings other than Standard.",
+		"uniqueText": "Gain 250 [Golden Age points] upon expending a [Great Person]. Additionally, gain an extra 250 [Faith] if expending a [Great General], and 20 [Production] per each era passed if expending a [Great Prophet]. These bonuses may change on different speed settings other than Standard.",
 		"uniques": [
 			"Instantly gain [250] [Golden Age points] <(modified by game speed)> <upon expending a [Great Person] unit>",
 			"Gain [250] [Faith] <(modified by game speed)> <upon expending a [Great General] unit>",
@@ -572,16 +463,7 @@
 		"introduction": "I am Sultan Musa, lord of Mali and, al-Ḥamdu lillāh, a very, very rich man. I am pleased to meet you.",
 		
 		"neutralHello": "May peace and Allāh's wealth be upon you.",
-		"neutralLetsHearIt": ["Yes?","Proceed."],
-		"neutralNo": ["No.", "Of course not."],
-		"neutralYes": ["The sincerity of your gift is its own blessing.","Very well.","al-Ḥamdu lillāh!"],
-
 		"hateHello": "Yā Ilāhī, why do you permit this dark-hearted one to wield the power of kings?",
-		"hateLetsHearIt": ["And?","Go away."],
-		"hateNo": ["That is unacceptable!","You cannot be serious!"],
-		"hateYes": ["Oh, very well.", "Alright, if I must."],
-		
-		"afterPeace": "Praise Allāh for your wise judgment in this matter.",
 		"tradeRequest": "Please accept these simple gifts of indigo cloth, Kinkeliba tea... and one hundred porters carrying sacks of gold dust.",
 		"declaringFriendship": "Do we not gain much from our bond? Shall we tell the world we stand as friends?",
 
@@ -615,16 +497,7 @@
 		"introduction": "I am Khan of the Manchu, and Emperor of all China. I have already heard of your fame, so I have kept a respective eye on you all this time.",
 		
 		"neutralHello": "You now stand before the ruler of the known world.",
-		"neutralLetsHearIt": ["Why do you approach?","What is your business here?"],
-		"neutralNo": ["I must decline.", "I cannot accept this."],
-		"neutralYes": ["I always appreciate commerce between our nations.", "You are welcome."],
-
 		"hateHello": "Although you are my enemy now, I especially meet you today because I had admired you.",
-		"hateLetsHearIt": ["I want you to express your respect to me."],
-		"hateNo": ["This is unacceptable.","Not in a thousand years, never."],
-		"hateYes": ["If I must."],
-		
-		"afterPeace": "You cannot defeat the House of Aisin Gioro.",
 		"tradeRequest": "I think we can achieve a mutual improvement by distributing many goods between one another.",
 		"declaringFriendship": "I believe that both our nations can achieve many great advances if we cooperate more on the world stage. Do you?",
 
@@ -659,16 +532,7 @@
 		"introduction": "I am Yu, the one who tamed the floods and founder of the Xia dynasty. If you are worthy, I am open to an alliance.",
 		
 		"neutralHello": "May the will of the heavens guide us both.",
-		"neutralLetsHearIt": ["How can I assist you?","What can I do for you today?"],
-		"neutralNo": ["We already have some of those.", "I must decline.", "I am not sure if this is what we needed."],
-		"neutralYes": ["May you learn from this example.", "Let us both benefit."],
-
 		"hateHello": "Step away from me, serpent.",
-		"hateLetsHearIt": ["The barking of dogs.", "I shall pay no heed to bugs."],
-		"hateNo": ["A friend is an equal. You are not.", "We cannot accept such a thing."],
-		"hateYes": ["Let us get this over with.", "Are we finished?"],
-		
-		"afterPeace": "The Mandate of Heaven is such a weighty responsibility.",
 		"tradeRequest": "Is there something of value from your civilization that Xia can offer in exchange?",
 		"declaringFriendship": "We are building a coalition of like-minded people. Shall you take part?",
 
@@ -701,16 +565,7 @@
 		"introduction": "I am Kublai. In time, the whole world shall know me as Emperor and Great Khan.",
 		
 		"neutralHello": "Salutations, wayfarer.",
-		"neutralLetsHearIt": ["What has guided you to Yuan lands on this day?","What business do you have?"],
-		"neutralNo": ["We have enough of what you offer.", "This offer cannot be any profitable."],
-		"neutralYes": ["The grasses sing of you and your proposal.", "Excellent! Let us celebrate this deal with a round of airag!", "Yes! May profits pour from both sides."],
-
 		"hateHello": "A day is coming when your kingdom will be consumed like grass in a wildfire. On that day, I shall rejoice.",
-		"hateLetsHearIt": ["You have annoyed me for too long.","Explain this intrusion, swiftly. Then leave me."],
-		"hateNo": ["We have no need for your leftovers.", "Offer a better deal or a better ruler will come and overthrow you."],
-		"hateYes": ["It pains me, but I must accept.", "Good. Now, take your leave."],
-		
-		"afterPeace": "Enter into friendly relations with each other from now on. We think all countries belong to one family. ",
 		"tradeRequest": "A camel train approaches your borders, bearing silks and spices, horse milk and mutton, and tales of the great Khan.",
 		"declaringFriendship": "Come, enjoy good wine and low-voiced songs, let us drink and let the sun and moon come and go!",
 

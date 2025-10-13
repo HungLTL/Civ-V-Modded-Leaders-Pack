@@ -16,7 +16,7 @@ This mod adds the following Civilizations:
 * **Tsikhe**: Unique Castle replacement. In addition to its cheaper build cost, the Tsikhe provides an additional +3 Faith, increased by an additional +3 if your civilization is at war.
 
 ### Israel, led by David
-* **Land of Milk and Honey**: Unimproved Oases yield +2 Gold, Food and Faith. Gain a free Great Prophet upon researching Writing.
+* **Land of Milk and Honey**: Unimproved Oases yield +2 additional Gold, Food and Faith. Gain a free Great Prophet upon researching Writing.
 * **Maccabee**: Unique Classical Era Sword unit, replacing the Swordsman. Steadfast both in battle and in religion, the Maccabee is 20% more effective at flanking enemies, and every kill provides you Faith depending on the Strength of the slain unit.
 * **Kibbutz**: Unique Israelite improvement, unlocked after researching Economics. Must be built on Desert or Floodplains Farms, and not adjacent to another Kibbutz. Provides +2 Food, +1 Culture and +1 Faith to the tile, with an additional +2 Culture after researching Radio.
 * The city-state of Jerusalem is replaced by Balkh.
@@ -63,7 +63,7 @@ This mod adds the following Civilizations:
 * **Hov**: Unique Market replacement. In addition to a small Happiness and Faith bonus, the Hov also increases Military unit production speed in the city where it is built by 20%.
 
 ### The Olmecs, led by Ocelotl Macocoztic
-* **Sons and Daughters of Lamat**: Gain 250 Golden Age points upon expending a Great Person. Additionally, gain an additional 250 Faith if expending a Great General, and an additional 20 Production per each era passed if expending a Great Prophet. These bonuses may change on different speed settings other than Standard.
+* **Sons and Daughters of Lamat**: Gain 250 Golden Age points upon expending a Great Person. Additionally, gain an extra 250 Faith if expending a Great General, and 20 Production per each era passed if expending a Great Prophet. These bonuses may change on different speed settings other than Standard.
 * **Eagle Knight**: Unique Medieval Era Mounted unit, replacing the Knight. Slightly weaker and cheaper than the Knight, but starts with Shock I, does not have the penalty against cities and can be trained without Horses.
 * **Colossal Head**: Unique Temple replacement. Available earlier than the Temple, but costs significantly more, does not yield any faith, and can neither be bought nor sold. Upon completing the construction of a Colossal Head, gain a free random Great Person.
 * The city-state of La Venta is replaced by Managua.
