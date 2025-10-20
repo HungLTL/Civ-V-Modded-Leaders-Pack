@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Vietnam",
-		"leaderName": "Lady Triệu",
+		"leaderName": "Triệu Thị Trinh",
 		"adjective": ["Vietnamese"],
 		"startBias": ["Hill","Jungle","Avoid [Tundra]","Avoid [Desert]"],
 		"preferredVictoryType": "Cultural",
@@ -458,7 +458,7 @@
 		
 		"declaringWar": "Enough! My forbearance ends here! We must have war between us, instead of a false peace!",
 		"attacked": "Your transgressions are as deep as oceans. Yā Allāh... grant that I may chastise this one.",
-		"defeated": "Wealth is fleeting; learning is vanity. All I have done, yā ilāhī, I did in your name.",
+		"defeated": "Wealth is fleeting; learning is vanity. All I have done, yā Ilāhī, I did in your name.",
 		"denounced": "Serpent! Tempter! Wretch! Look to the hour of your chastisement, for it is coming soon!",
 		"introduction": "I am Sultan Musa, lord of Mali and, al-Ḥamdu lillāh, a very, very rich man. I am pleased to meet you.",
 		

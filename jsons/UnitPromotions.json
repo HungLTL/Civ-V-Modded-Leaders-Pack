@@ -176,7 +176,7 @@
 		"name": "Royal Hajjaj",
 		"uniques": [
 			"Comment [Can visit a foreign Holy City to gain a one-time [Gold] bonus]",
-			"Triggers a [Royal Hajj] event <in [{Foreign} {Holy}] cities> <removing the [Royal Hajjaj] promotion/status> <hidden from users>"
+			"Triggers a [Royal Hajj] event <in [{Foreign} {Holy}] cities> <for all movement> <removing the [Royal Hajjaj] promotion/status> <hidden from users>"
 		],
 		"civilopediaText": [
 			{ "text": "Free for Malian Great Prophets", 	"link": "Nations/Mali" }
