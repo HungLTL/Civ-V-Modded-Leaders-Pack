@@ -158,49 +158,49 @@ LeaderIcons/Kublai Khan
   orig: 256, 255
   offset: 0, 0
   index: -1
-LeaderIcons/Triệu Thị Trinh
+LeaderIcons/Mansa Musa
   rotate: false
   xy: 268, 907
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Mansa Musa
+LeaderIcons/Mao Zedong
   rotate: false
   xy: 861, 1499
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Mao Zedong
+LeaderIcons/Ocelotl Macocoztic
   rotate: false
   xy: 1125, 1763
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Ocelotl Macocoztic
+LeaderIcons/Poundmaker
   rotate: false
   xy: 4, 379
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Poundmaker
+LeaderIcons/Stalin
   rotate: false
   xy: 268, 643
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Stalin
+LeaderIcons/Tamar
   rotate: false
   xy: 1125, 1499
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Tamar
+LeaderIcons/Triệu Thị Trinh
   rotate: false
   xy: 1389, 1763
   size: 256, 256
