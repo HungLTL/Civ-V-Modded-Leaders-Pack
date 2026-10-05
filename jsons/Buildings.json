@@ -76,7 +76,9 @@
 		"requiredTech": "Radio",
 		"uniques": [
 			"Destroyed when the city is captured",
-			"Comment [Provides 1 [Great Work of Music] Slot] <if [Civ V Brave New World] is enabled>"
+			"Comment [Provides 1 [Great Work of Music] Slot] <if [Civ V Brave New World] is enabled>",
+			"[+34]% [Tourism] resource production <in this city> <after adopting [Media Culture]> <if [Civ V Brave New World] is enabled>",
+			"Destroyed when the city is captured <hidden from users>"
 		]
 	},
 	{
