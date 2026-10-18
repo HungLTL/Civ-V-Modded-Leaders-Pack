@@ -262,7 +262,10 @@
 		"promotions": ["Formation I","[Manchu] ability"],
 		"upgradesTo": "Machine Gun",
 		"obsoleteTech": "Ballistics",
-		"attackSound": "arrow"
+		"attackSound": "arrow",
+		"civilopediaText": [
+			{ "text": "Banner Promotions", 	"link": "Promotion/[Banner] ability" }
+		]
 	},
 	{
 		"name": "Crouching Tiger",
