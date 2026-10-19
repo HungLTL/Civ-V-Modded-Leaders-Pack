@@ -58,7 +58,7 @@
 	},
 	{
 		"name": "[Manchu] ability",
-		"uniques": ["May capture killed [Military] units <with [50]% chance>"],
+		"uniques": ["May capture killed [Military] units <with [33]% chance>"],
 		"civilopediaText": [
 			{ "text": "Free for Manchu Mounted Units", 	"link": "Nations/Manchu" }
 		]
@@ -66,22 +66,14 @@
 	{
 		"name": "[Banner] ability",
 		"uniques": [
-			"Only available <for units without [Zheziang Banner]>",
-			"Only available <for units without [Korean Banner]>",
-			"Only available <for units without [Russian Banner]>",
-			"Only available <for units without [97th Regiment]>",
-			"Only available <for units without [Mongolian Banner]>",
-			"Only available <for units without [Three Feudaltories Junk]>",
-			"Only available <for units without [Beiyang Banner]>",
-			"Only available <for units without [Hongipao Banner]>",
-			"[This Unit] gains the [Zheziang Banner] promotion <for [{non-[Eight Banners]} {Sword}] units> <costs [1] [Banner]> <removing the [[Banner] ability] promotion/status> <when above [0] [Banner]> <hidden from users>",
-			"[This Unit] gains the [Korean Banner] promotion <for [{non-[Eight Banners]} {Archery}] units> <costs [1] [Banner]> <removing the [[Banner] ability] promotion/status> <when above [0] [Banner]> <hidden from users>",
-			"[This Unit] gains the [Russian Banner] promotion <for [{non-[Eight Banners]} {Gunpowder}] units> <costs [1] [Banner]> <removing the [[Banner] ability] promotion/status> <when above [0] [Banner]> <hidden from users>",
-			"[This Unit] gains the [97th Regiment] promotion <for [{non-[Eight Banners]} {Armored}] units> <costs [1] [Banner]> <removing the [[Banner] ability] promotion/status> <when above [0] [Banner]> <hidden from users>",
-			"[This Unit] gains the [Mongolian Banner] promotion <for [{non-[Eight Banners]} {Mounted}] units> <costs [1] [Banner]> <removing the [[Banner] ability] promotion/status> <when above [0] [Banner]> <hidden from users>",
-			"[This Unit] gains the [Three Feudaltories Junk] promotion <for [{non-[Eight Banners]} {Melee Water}] units> <costs [1] [Banner]> <removing the [[Banner] ability] promotion/status> <when above [0] [Banner]> <hidden from users>",
-			"[This Unit] gains the [Beiyang Banner] promotion <for [{non-[Eight Banners]} {Ranged Water}] units> <costs [1] [Banner]> <removing the [[Banner] ability] promotion/status> <when above [0] [Banner]> <hidden from users>",
-			"[This Unit] gains the [Hongipao Banner] promotion <for [{non-[Eight Banners]} {Siege}] units> <costs [1] [Banner]> <removing the [[Banner] ability] promotion/status> <when above [0] [Banner]> <hidden from users>",
+			"[This Unit] gains the [Zheziang Banner] promotion <for [{non-[Eight Banners]} {non-[Zheziang Banner]} {non-[Korean Banner]} {non-[Russian Banner]} {non-[97th Regiment]} {non-[Mongolian Banner]} {non-[Three Feudaltories Junk]} {non-[Beiyang Banner]]} {non-[Hongipao Banner]]} {Sword}] units> <costs [1] [Banner]> <removing the [[Banner] ability] promotion/status> <when above [0] [Banner]> <hidden from users>",
+			"[This Unit] gains the [Korean Banner] promotion <for [{non-[Eight Banners]} {non-[Zheziang Banner]} {non-[Korean Banner]} {non-[Russian Banner]} {non-[97th Regiment]} {non-[Mongolian Banner]} {non-[Three Feudaltories Junk]} {non-[Beiyang Banner]]} {non-[Hongipao Banner]]} {Archery}] units> <costs [1] [Banner]> <removing the [[Banner] ability] promotion/status> <when above [0] [Banner]> <hidden from users>",
+			"[This Unit] gains the [Russian Banner] promotion <for [{non-[Eight Banners]} {non-[Zheziang Banner]} {non-[Korean Banner]} {non-[Russian Banner]} {non-[97th Regiment]} {non-[Mongolian Banner]} {non-[Three Feudaltories Junk]} {non-[Beiyang Banner]]} {non-[Hongipao Banner]]} {Gunpowder}] units> <costs [1] [Banner]> <removing the [[Banner] ability] promotion/status> <when above [0] [Banner]> <hidden from users>",
+			"[This Unit] gains the [97th Regiment] promotion <for [{non-[Eight Banners]} {non-[Zheziang Banner]} {non-[Korean Banner]} {non-[Russian Banner]} {non-[97th Regiment]} {non-[Mongolian Banner]} {non-[Three Feudaltories Junk]} {non-[Beiyang Banner]]} {non-[Hongipao Banner]]} {Armored}] units> <costs [1] [Banner]> <removing the [[Banner] ability] promotion/status> <when above [0] [Banner]> <hidden from users>",
+			"[This Unit] gains the [Mongolian Banner] promotion <for [{non-[Eight Banners]} {non-[Zheziang Banner]} {non-[Korean Banner]} {non-[Russian Banner]} {non-[97th Regiment]} {non-[Mongolian Banner]} {non-[Three Feudaltories Junk]} {non-[Beiyang Banner]]} {non-[Hongipao Banner]]} {Mounted}] units> <costs [1] [Banner]> <removing the [[Banner] ability] promotion/status> <when above [0] [Banner]> <hidden from users>",
+			"[This Unit] gains the [Three Feudaltories Junk] promotion <for [{non-[Eight Banners]} {non-[Zheziang Banner]} {non-[Korean Banner]} {non-[Russian Banner]} {non-[97th Regiment]} {non-[Mongolian Banner]} {non-[Three Feudaltories Junk]} {non-[Beiyang Banner]]} {non-[Hongipao Banner]]} {Melee Water}] units> <costs [1] [Banner]> <removing the [[Banner] ability] promotion/status> <when above [0] [Banner]> <hidden from users>",
+			"[This Unit] gains the [Beiyang Banner] promotion <for [{non-[Eight Banners]} {non-[Zheziang Banner]} {non-[Korean Banner]} {non-[Russian Banner]} {non-[97th Regiment]} {non-[Mongolian Banner]} {non-[Three Feudaltories Junk]} {non-[Beiyang Banner]]} {non-[Hongipao Banner]]} {Ranged Water}] units> <costs [1] [Banner]> <removing the [[Banner] ability] promotion/status> <when above [0] [Banner]> <hidden from users>",
+			"[This Unit] gains the [Hongipao Banner] promotion <for [{non-[Eight Banners]} {non-[Zheziang Banner]} {non-[Korean Banner]} {non-[Russian Banner]} {non-[97th Regiment]} {non-[Mongolian Banner]} {non-[Three Feudaltories Junk]} {non-[Beiyang Banner]]} {non-[Hongipao Banner]]} {Siege}] units> <costs [1] [Banner]> <removing the [[Banner] ability] promotion/status> <when above [0] [Banner]> <hidden from users>",
 			"Comment [Spend [Banner]s to receive a unique promotion depending on the unit type]"
 		],
 		"civilopediaText": [
