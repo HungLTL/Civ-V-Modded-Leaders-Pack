@@ -66,6 +66,14 @@
 	{
 		"name": "[Banner] ability",
 		"uniques": [
+			"Only available <for units without [Zheziang Banner]>",
+			"Only available <for units without [Korean Banner]>",
+			"Only available <for units without [Russian Banner]>",
+			"Only available <for units without [97th Regiment]>",
+			"Only available <for units without [Mongolian Banner]>",
+			"Only available <for units without [Three Feudaltories Junk]>",
+			"Only available <for units without [Beiyang Banner]>",
+			"Only available <for units without [Hongipao Banner]>",
 			"[This Unit] gains the [Zheziang Banner] promotion <for [{non-[Eight Banners]} {Sword}] units> <costs [1] [Banner]> <removing the [[Banner] ability] promotion/status> <when above [0] [Banner]> <hidden from users>",
 			"[This Unit] gains the [Korean Banner] promotion <for [{non-[Eight Banners]} {Archery}] units> <costs [1] [Banner]> <removing the [[Banner] ability] promotion/status> <when above [0] [Banner]> <hidden from users>",
 			"[This Unit] gains the [Russian Banner] promotion <for [{non-[Eight Banners]} {Gunpowder}] units> <costs [1] [Banner]> <removing the [[Banner] ability] promotion/status> <when above [0] [Banner]> <hidden from users>",
